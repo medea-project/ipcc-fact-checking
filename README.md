@@ -7,11 +7,11 @@ GOAL: to establish a line of sight between data and its source.
 This project collects verbatim copies of source documents
 together with extracted data, for fact checking:
 
-* one folder for source organizations
-* optionally, one subdirectory for groups within the organization
-* one subdirectory for documents published by a group/organization
-* optionally, one subdirectory for document sections
-* one subdirectory for each data set together
+* at top level, folders for source organizations
+* optionally, subdirectories for groups within the organization
+* subdirectories for documents published by a group/organization
+* optionally, subdirectories for sections within the document
+* subdirectories for data sets together
   with the corresponding extract of the document
 
 ## Attribution
