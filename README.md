@@ -7,7 +7,8 @@ GOAL: to establish a line of sight between data and its source.
 This project collects verbatim copies of source documents
 together with extracted data, for fact checking:
 
-* at top level, one folder per website/publisher of source documents
+* at top level, one folder per website
+  where source documents are published
 * within, one subdirectory per source document
 * within, one subdirectory per data set together
   with the corresponding extract of the document
