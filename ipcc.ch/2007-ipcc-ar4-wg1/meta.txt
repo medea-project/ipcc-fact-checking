@@ -1,9 +1,18 @@
-Working Group I Report "The Physical Science Basis"
-http://www.ipcc.ch/publications_and_data/ar4/wg1/en/contents.html
+Year: 2007
+Title: Working Group I Report "The Physical Science Basis"
+URL: http://www.ipcc.ch/publications_and_data/ar4/wg1/en/contents.html
+Tags: ipcc, ar4, wg1
 
+Description:
+Contribution of Working Group I
+to the Fourth Assessment Report
+of the Intergovernmental Panel on Climate Change,
+2007
 
-Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+Solomon, S., D. Qin, M. Manning,
+Z. Chen, M. Marquis, K.B. Averyt,
+M. Tignor and H.L. Miller (eds.)
 
-Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M. Tignor and H.L. Miller (eds.)
-
-Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+Cambridge University Press,
+Cambridge, United Kingdom
+and New York, NY, USA.

@@ -1,2 +1,4 @@
-Climate Change 2014: Mitigation of Climate Change
-http://www.ipcc.ch/report/ar5/wg3/
+Year: 2014
+Title: Climate Change 2014: Mitigation of Climate Change
+URL: http://www.ipcc.ch/report/ar5/wg3/
+Tags: ipcc, ar5, wg3

@@ -1,9 +1,18 @@
-Climate Change: The IPCC Scientific Assessment (1990)
-http://www.ipcc.ch/publications_and_data/publications_ipcc_first_assessment_1990_wg1.shtml
+Year: 1990
+Title: Climate Change: The IPCC Scientific Assessment (1990)
+URL: http://www.ipcc.ch/publications_and_data/publications_ipcc_first_assessment_1990_wg1.shtml
+Tags: ipcc, ar1, wg1
 
-Report prepared for Intergovernmental Panel on Climate Change by Working Group I
+Description:
+Report prepared
+for Intergovernmental Panel on Climate Change
+by Working Group I
 J.T. Houghton, G.J. Jenkins and J.J. Ephraums (eds.).
-Cambridge University Press, Cambridge, Great Britain, New York, NY, USA and Melbourne, Australia
+Cambridge University Press,
+Cambridge, Great Britain,
+New York, NY, USA
+and Melbourne, Australia
 410 pp.
 
-Digitized by the Digitization and Microform Unit, UNOG Library, 2010
+Digitized by the Digitization and Microform Unit,
+UNOG Library, 2010

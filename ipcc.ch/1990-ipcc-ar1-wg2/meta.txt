@@ -1,9 +1,16 @@
-Climate Change: The IPCC Impacts Assessment (1990)
-http://www.ipcc.ch/publications_and_data/publications_ipcc_first_assessment_1990_wg2.shtml
+Year: 1990
+Title: Climate Change: The IPCC Impacts Assessment (1990)
+URL: http://www.ipcc.ch/publications_and_data/publications_ipcc_first_assessment_1990_wg2.shtml
+Tags: ipcc, ar1, wg2
 
-Report prepared for Intergovernmental Panel on Climate Change by Working Group II
+Description:
+Report prepared
+for Intergovernmental Panel on Climate Change
+by Working Group II
 W.J. McG. Tegart, G.W. Sheldon and D.C. Griffiths (eds.).
-Australian Government Publishing Service, Camberra, Australia
+Australian Government Publishing Service,
+Camberra, Australia
 294 pp.
 
-Digitized by the Digitization and Microform Unit, UNOG Library, 2010
+Digitized by the Digitization and Microform Unit,
+UNOG Library, 2010

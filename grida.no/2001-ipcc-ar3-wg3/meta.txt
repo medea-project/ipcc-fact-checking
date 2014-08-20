@@ -1,6 +1,15 @@
-Climate Change 2001: Working Group III: Mitigation
-http://www.grida.no/publications/other/ipcc_tar/?src=/climate/ipcc_tar/wg3/index.htm
+Year: 2001
+Title: Climate Change 2001: Working Group III: Mitigation
+URL: http://www.grida.no/publications/other/ipcc_tar/?src=/climate/ipcc_tar/wg3/index.htm
+Tags: ipcc, ar3, wg3
 
-IPCC Third Assessment Report - Climate Change 2001 - Complete online versions
+Description:
+IPCC Third Assessment Report
+- Climate Change 2001
+- Complete online versions
 
-This website contains the full text and graphics from the three working group contributions to the IPCC Third Assessment Report "Climate Change 2001" and the Synthesis Report. It was published to the web by GRID-Arendal in 2003.
+This website contains the full text and graphics
+from the three working group contributions
+to the IPCC Third Assessment Report "Climate Change 2001"
+and the Synthesis Report.
+It was published to the web by GRID-Arendal in 2003.
