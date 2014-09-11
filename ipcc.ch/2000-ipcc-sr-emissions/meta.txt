@@ -1,0 +1,11 @@
+Year: 2000
+Title: Emissions Scenarios
+URL: http://ipcc.ch/ipccreports/sres/emission/emissions_scenarios.pdf
+Tags: ipcc, sr, wg3
+
+Description:
+IPCC, 2000
+Nebojsa Nakicenovic and Rob Swart (Eds.)
+
+Cambridge University Press, UK.
+pp 570
