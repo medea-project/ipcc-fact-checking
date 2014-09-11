@@ -1,0 +1,14 @@
+Year: 1999
+Title: Aviation and the Global Atmosphere
+URL: http://ipcc.ch/ipccreports/sres/aviation/index.php?idp=0
+Tags: ipcc, sr, wg1, wg2, wg3
+
+Description:
+IPCC, 1999
+J.E.Penner, D.H.Lister, D.J.Griggs, D.J.Dokken, M.McFarland (Eds.)
+
+Prepared in collaboration with the Scientific Assessment Panel
+to the Montreal Protocol on Substances that Deplete the Ozone Layer
+
+Cambridge University Press, UK.
+pp 373
