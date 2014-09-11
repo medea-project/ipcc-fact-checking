@@ -1,0 +1,11 @@
+Year: 1997
+Title: The Regional Impacts of Climate Change: An Assessment of Vulnerability
+URL: http://ipcc.ch/ipccreports/sres/regional/index.php?idp=0
+Tags: ipcc, sr, wg2
+
+Description:
+IPCC, 1997
+R.T.Watson, M.C.Zinyowera, R.H.Moss (Eds)
+
+Cambridge University Press, UK.
+pp 517
