@@ -1,0 +1,12 @@
+Year: 2005
+Title: Carbon Dioxide Capture and Storage 
+URL: http://ipcc.ch/pdf/special-reports/srccs/srccs_wholereport.pdf
+Tags: ipcc, sr, wg3
+
+Description:
+IPCC, 2005
+Bert Metz, Ogunlade Davidson, Heleen de Coninck,
+Manuela Loos and Leo Meyer (Eds.)
+
+Cambridge University Press, UK.
+pp 431
