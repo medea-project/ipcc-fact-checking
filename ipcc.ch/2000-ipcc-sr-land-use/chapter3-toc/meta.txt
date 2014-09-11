@@ -1,0 +1,4 @@
+Year: 2000
+Title: Chapter 3: Afforestation, Reforestation, and Deforestation (ARD) Activities
+URL: http://www.ipcc.ch/ipccreports/sres/land_use/index.php?idp=112
+Tags: ipcc, sr, wg1, wg2, wg3
