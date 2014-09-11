@@ -1,0 +1,14 @@
+Year: 2005
+Title: Safeguarding the Ozone Layer and the Global Climate System: Issues Related to Hydrofluorocarbons and Perfluorocarbons
+URL: http://ipcc.ch/pdf/special-reports/sroc/sroc_full.pdf
+Tags: ipcc, sr, teap
+
+Description:
+IPCC/TEAP, 2005
+Bert Metz, Lambert Kuijpers, Susan Solomon,
+Stephen O. Andersen, Ogunlade Davidson, José Pons,
+David de Jager, Tahl Kestin, Martin Manning,
+and Leo Meyer (Eds)
+
+Cambridge University Press, UK.
+pp 478.
