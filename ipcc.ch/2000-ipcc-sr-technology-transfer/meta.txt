@@ -1,0 +1,12 @@
+Year: 2000
+Title: Methodological and Technological Issues in Technology Transfer
+URL: http://ipcc.ch/ipccreports/sres/tectran/index.php?idp=0
+Tags: ipcc, sr, wg3
+
+Description:
+IPCC, 2000
+Bert Metz, Ogunlade Davidson, Jan-Willem Martens,
+Sascha Van Rooijen and Laura Van Wie Mcgrory (Eds.)
+
+Cambridge University Press, UK.
+pp 432
