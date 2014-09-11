@@ -1,0 +1,15 @@
+Year: 2011
+Title: Renewable Energy Sources and Climate Change Mitigation
+URL: http://ipcc.ch/pdf/special-reports/srren/SRREN_Full_Report.pdf
+Tags: ipcc, sr, wg3
+
+Description:
+IPCC, 2011
+Ottmar Edenhofer, Ramón Pichs-Madruga, Youba Sokona,
+Kristin Seyboth, Patrick Matschoss, Susanne Kadner,
+Timm Zwickel, Patrick Eickemeier, Gerrit Hansen,
+Steffen Schloemer, Christoph von Stechow (Eds.)
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA,
+1075 pp.
