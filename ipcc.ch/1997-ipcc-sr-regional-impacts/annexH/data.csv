@@ -1,78 +1,399 @@
-Country,Name,"Institution, Department"
-Argentina,Vicente Barros,"University of Buenos Aires, Department of Atmospheric Sciences"
-Argentina,Marcelo Cabido,"Universidad Nacional de CÃ³rdoba (CONICET), Instituto Multidisciplinario de BiologÃ­a Vegetal"
-Argentina,,
-Argentina,,
-Argentina,,
-Argentina,,
-Argentina,,
-Argentina,,
-Argentina,,
-Argentina,,
+"Country","Name","Institution, Department"
+"Argentina","Vicente Barros","University of Buenos Aires, Department of Atmospheric Sciences"
+"Argentina","Marcelo Cabido","Universidad Nacional de CÃ³rdoba (CONICET), Instituto Multidisciplinario de BiologÃ­a Vegetal"
+"Argentina","Osvaldo F. Canziani","Instituto de Estudios e Investigaciones (IEIMA) "
+"Argentina","Rodolfo Carcavallo","Department of Entomology"
+"Argentina","Sandra Diaz","Universidad Nacional de Córdoba (CONICET), Instituto Multidisciplinario de Biología Vegetal "
+"Argentina","Gillermo Funes","Universidad Nacional de Córdoba (CONICET), Cátedra de Biogeografía "
+"Argentina","Juan Carlos Labraga","Universidad Nacional de Córdoba (CONICET) "
+"Argentina","Carlos A. Rinaldi","Instiuto Antarctico Argentino"
+"Argentina","Walter M. Vargas","University of Buenos Aires (IEIMA) "
+"Argentina","Ernesto F. Viglizzo","Universidad Nacional de Córdoba (CONICET)"
 ,,
-Austria,,
-Austria,,
+"Austria","Klaus Radunsky","Austrian Federal Environmental Agency"
+"Austria","Shokri Ghanem","Organization of the Petroleum Exporting Countries"
 ,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
-Australia,,
+"Australia","N. Abel","CSIRO Wildlife and Ecology"
+"Australia","M.P. Austin","CSIRO Wildlife and Ecology"
+"Australia","S. Barlow","Bureau of Resource Sciences"
+"Australia","M. Barson","Bureau of Resource Sciences"
+"Australia","Bryson Bates","CSIRO"
+"Australia","P. Beggs","Macquarie University"
+"Australia","D. Bennett","Hassall and Associates"
+"Australia","D. Black","NSW Dept. of Land and Water Conservation"
+"Australia","R. Braaf","Macquarie University"
+"Australia","R. Braithwaite","CSIRO Tourism Research Program"
+"Australia","R. Buxton","CSIRO Wildlife and Ecology"
+"Australia","J. Carter","Queensland Department of Natural Resources"
+"Australia","J. Conroy","University of Western Sydney"
+"Australia","Elizabeth Curran","Bureau of Meteorology "
+"Australia","S. Davies","University of Adelaide"
+"Australia","L. Dobes","Bureau of Transport and Communication Economics "
+"Australia","Terry Done","Australian Institute of Marine Science"
+"Australia","M. Finlayson","Environmental Research Institute "
+"Australia","Roger M. Gifford","CSIRO"
+"Australia","Angela Gillman","Environment Australia"
+"Australia","Habiba Gitay","Australian National University "
+"Australia","Dean Graetz","CSIRO Office of Space Science and Applications"
+"Australia","N. Hall","Australian Bureau of Agricultural and Resource Economics"
+"Australia","Kevin Hennessy","CSIRO Atmospheric Research"
+"Australia","N. Holbrook","Macquarie University"
+"Australia","David Hopley","James Cook University"
+"Australia","Mark Howden","Bureau of Resource Sciences"
+"Australia","B. Hunt","CSIRO Atmospheric Research"
+"Australia","W. Kininmonth","Bureau of Meteorology National Climate Centre "
+"Australia","Miko Kirschbaum","CSIRO Forestry and Forest Products"
+"Australia","T. Koslow","CSIRO Division of Fisheries"
+"Australia","S. Lake","Monash University"
+"Australia","S. Li","Macquarie University"
+"Australia","J. Lutze","CSIRO Plant Industry"
+"Australia","N. Marshman","Technical Services Australia (RTZ/CRA)"
+"Australia","Gregory M. McKeon","Queensland Department of Natural Resources "
+"Australia","Roger McLean","Australian Defence Force Academy"
+"Australia","Heather McMaster","Macquarie University"
+"Australia","R.E. McMurtrie","University of NSW"
+"Australia","A. Moore","CSIRO Plant Industry"
+"Australia","Neville Nicholls","Bureau of Meteorology Research Centre"
+"Australia","Ian Noble","Australian National University"
+"Australia","A. Norton","Charles Sturt University"
+"Australia","W. Osborne","University of Canberra"
+"Australia","Barrie Pittock","CSIRO Climate Impact Group"
+"Australia","Neil Plummer","National Climate Centre"
+"Australia","P. Reyenga","Bureau of Resource Sciences"
+"Australia","H. Ross","Australian National University"
+"Australia","H. Schaap","Electricity Supply Association"
+"Australia","D. Smith","Australian National University"
+"Australia","M. Stafford Smith","CSIRO Wildlife and Ecology"
+"Australia","W. Steffen","GCTE Core Project Office"
+"Australia","R. Suppiah","CSIRO Atmospheric Research"
+"Australia","Robert Sutherst","CSIRO Division of Entomology"
+"Australia","R. Taplin","Macquarie University "
+"Australia","Brian H. Walker","CSIRO Wildlife and Ecology"
+"Australia","George R. Walker","Alexander Howden Reinsurance"
+"Australia","Y-P. Wang","CSIRO Atmospheric Research"
+"Australia","P. Waterman","Environmental Management Services"
+"Australia","Peter Whetton","CSIRO Division of Atmosphere Research"
+"Australia","D. White","Agro-Ecosystems Consulting"
+"Australia","Jann E. Williams","Charles Stuart University"
+"Australia","T. Yonow","CRC for Tropical Pest Management"
+,,
+"Bangladesh",,
+"M.Q. Mirza","University of Waikato",
+,,
+"Barbados","Leonard Nurse","Coastal Conservation Unit "
+,,
+,,
+"Belgium","Renate Christ","European Commission"
+,,
+,,
+"Bolivia","Martín de Zuviría ",
+,,
+,,
+"Brazil ","Carlos C. Cerri","Universidade de Sao Paolo"
+"Brazil ","Cleber Galvao ",
+,,
+,,
+"Canada","F. Andrey","University of Waterloo"
+"Canada","Mike Apps","Canadian Forestry Service"
+"Canada","M. Brklacich","Carleton University"
+"Canada","Ross Brown","Environment Canada"
+"Canada","Denis D'Amours","Department of Fisheries and Oceans"
+"Canada","F. Diamond","Environment Canada"
+"Canada","Kirsty Duncan","University of Windsor"
+"Canada","Larry Dyke","Natural Resources Canada"
+"Canada","Anne Gunn","Government NorthWest Territories"
+"Canada","Bob Jefferies","University of Toronto"
+"Canada","Grace Koshida","Atmospheric Environment Service"
+"Canada","John Legg","NRCan"
+"Canada","Abdel R. Maarouf","Environment Canada"
+"Canada","Jay Malcolm","University of Toronto"
+"Canada","Dave Martell","University of Toronto"
+"Canada","Barrie Maxwell","Atmospheric Environment Service"
+"Canada","Linda Mortsch","Environment Canada"
+"Canada","Terry Root","Environment Canada"
+"Canada","Brian Stocks","Canadian Forestry Service"
+"Canada","Roger B. Street","Atmospheric Environment Service"
+"Canada","Hague Vaughan","Canada Centre for Inland Waters"
+"Canada","Andrew J. Weaver","University of Victoria "
+,,
+"Chile","Patricio Aceituno","University of Chile"
+"Chile","Humberto Fuenzalida-Ponce","Universidad de Chile"
+"Chile","Terence Lee","Economic Commission for Latin America and the Caribbean"
+,,
+"China","Ding Yihui","China Meteorological Administration"
+"China","Liu Chunzhen","Hydrological Forecasting and Water Control Center"
+"China","Lin Erda","Chinese Academy of Agricultural Sciences"
+"China","Su Jilan","Second Institute of Oceanography"
+,,
+"Costa Rica","Marcos Campos","Comision Centroamericana de Ambiente y Desarollo"
+,,
+"Cote d'Ivoire","Sekou Touré","ENSTP"
+,,
+"Cuba","Lino Naranjo Diaz","Ministry of Science, Technology, and Environment "
+"Cuba","Ada L. Perez","Institute of Physical Planning"
+"Cuba","Antonio J. Lopez Almiral","Ministry of Science, Technology, and Environment"
+"Cuba","Luis R. Paz ","Ministry of Science, Technology, and Environment"
+"Cuba","Elias Ramirez Cruz","Ministry of Science, Technology, and Environment"
+"Cuba","Leda Menendez Carreras","Institute of Ecology and Systematics"
+"Cuba","Avelino G. Suarez","Institute of Ecology and Systematics"
+,,
+"Czech Republic","Ivana Nemesova","Institute of Atmospheric Physics"
+,,
+"Egypte","Mohamed El-Raey","Institute of Graduate Studies and Research"
+,,
+"Finland","Timothy Carter","Finnish Meteorological Institute"
+"Finland","Kaija Hakala","Agricultural Research Center"
+"Finland","Timo Karjalainen","European Forest Institute"
+"Finland","Peter Kuhry","Arctic Center"
+,,
+"France","Richard Delécolle","Unite de Bioclimatologie"
+,,
+"Germany","Wolfgang Cramer","Potsdam Institute for Climate Impact Research"
+"Germany","Georg Hörmann","Kiel University"
+"Germany","Venugopalan Ittekkot","University of Hamburg"
+"Germany","Ferenc Toth","Potsdam Institute for Climate Impact Research"
+,,
+"India","Amrita Achanta","Climate Change Secretariat (UNFCCC)"
+"India","Murari Lal","Centre for Atmospheric Sciences "
+"India","S.K. Sinha","Indian Agricultural Research Institute"
+,,
+"Indonesia","Aprilani Soegiarto","Indonesian Institute of Sciences"
+"Indonesia","Sri Soewasti Soesanto","Health Ecology Research and Development"
+,,
+"Iran","Bohloul Alijani ",
+,,
+"Israel","Uriel N. Safriel","The Blaustein Institute for Desert Research"
+,,
+"Italy","R. Welcomme","FAO"
+,,
+"Japan","Hideo Harasawa","Center for Global Environmental Research"
+"Japan","Nobuo Mimura","Ibaraki University"
+"Japan","Tatsushi Tokioka","Japan Meteorological Agency"
+"Japan","Masatoshi Yoshino","Aichi University"
+,,
+"Kazakhstan ","Olga Pilifosova","Climate Study Laboratory"
+,,
+"Kenya","K.A. Edwards","UN Environment Programme"
+"Kenya","S.H. Mwandoto","Kenya Meteorological Department"
+"Kenya","Joseph Kagia Njihia","Kenya Meteorological Department"
+"Kenya","Laban J. Ogallo","University of Nairobi"
+"Kenya","H.W.O. Okoth-Ogendo","The National Council for Population and Development"
+"Kenya","Peter Usher","UN Environment Programme"
+,,
+"Korea","Suam Kim","Korea Ocean Research and Development Institute"
+"Korea","Byong-Lyol Lee","National Institute of Agricultural Sciences and Technology"
+,,
+"Malaysia","Lim Joo Tick","Malaysian Meteorological Service"
+,,
+"Maldives","Mohamed Ali","Ministry of Planning, Natural Resources, and Environment"
+,,
+"Mexico","Carlos Gay-Garcia","Environment Department"
+"Mexico","P. Grace","International Maize and Wheat Improvement Center "
+"Mexico","Ana Rosa Moreno","Pan American Health Organization"
+,,
+"Nepal","Sharad P. Adhikary","Water and Energy Commission Secretariat"
+,,
+"New Zealand","Reid E. Basher","National Institute of Water and Atmospheric Research"
+"New Zealand","Bruce D. Campbell","AgResearch Grasslands Research Centre "
+"New Zealand","Blair Fitzharris","University of Otago"
+"New Zealand","J. Gibb","Coastal Management Consultants "
+"New Zealand","S. Hales","Wellington School of Medicine"
+"New Zealand","John Hay","The University of Auckland"
+"New Zealand","C. Hickey","National Institute of Water and Atmospheric Research"
+"New Zealand","R. Ibbit.","National Institute of Water and Atmospheric Research"
+"New Zealand","Gavin J. Kenny","University of Waikato"
+"New Zealand","R.Kirk","University of Canterbury"
+"New Zealand","Dick Martin","Crop and Food Research Institute"
+"New Zealand","Piers McLaren","Forest Research Institute"
+"New Zealand","N. Mitchell","University of Auckland"
+"New Zealand","T. Murray","National Institute of Water and Atmospheric Research "
+"New Zealand","L. Paul","National Institute of Water and Atmospheric Research "
+"New Zealand","J. Renwick","National Institute of Water and Atmospheric Research "
+"New Zealand","Richard Warrick","University of Waikato"
+"New Zealand","H. Weinstein","Wellington School of Medicine"
+"New Zealand","David Whitehead","Landcare Research"
+"New Zealand","D. Wilson","Crop and Food Research Institute"
+"New Zealand","D. Wratt","National Institute of Water and Atmospheric Research "
+"New Zealand","Alastair Woodward","Wellington School of Medicine"
+,,
+"Nigeria ","Larry F. Awosika","Nigerian Institute for Oceanography and Marine Research "
+,,
+"Norway","Egil Sakshaug","University of Trondheim"
+,,
+"Papua New Guinea","Graham Sem","University of Papua New Guinea"
+,,
+"Peru","Eduardo Calvo","Concejo Nacional del Ambiente "
+,,
+"Philippines","Rex Victor Cruz","University of Phillipines"
+,,
+"Russia","Kira I. Kobak","State Hydrological Institute"
+,,
+"Scotland","Andrew D Dlugolecki","General Accident, Fire, and Life Assurance Corp."
+,,
+"Senegal","Amadou Bachirou Diop","Ministère de l'Equipement "
+,,
+"Sierra Leone","Ogunlade Davidson","University of Sierra Leone"
+,,
+"Singapore","Poo Poo Wong","National University of Singapore"
+,,
+"Slovenia ","Andrej Kranjc","Hydrometeorological Institute of Slovenia"
+"Slovenia ","Zoran Stojic","IBE Consulting Engineers"
+,,
+"South Africa","Timm Hoffman","National Botanical Institute"
+"South Africa","Alec Joubert","University of the Witwaterstrand "
+"South Africa","A.C. Kruger","South African Weather Bureau "
+"South Africa","Robert Scholes","CSIRO"
+"South Africa","David le Sueur","University of Natal "
+"South Africa","Colleen Voegel","University of the Witwatersrand"
+,,
+"Spain  ","Ana Iglesias","Ciudad Universitaria"
+,,
+"Sweden","Ulf Molau","University of Goteberg"
+"Sweden","Mats Oquist","University of Agricultural Sciences"
+"Sweden","I. Colin Prentice","University of Lund "
+"Sweden","Benjamin Smith","University of Lund "
+,,
+"Switzerland","Martin Beniston","University of Fribourg"
+"Switzerland","Hartmut Grassl","World Meteorological Organization"
+"Switzerland","John Innes","Swiss Federal Institute for Forest, Snow and Landscape Research "
+,,
+"Thailand","Charit Tingsabadh","Chulalongkorn University"
+,,
+"The Gambia ","Bubu P. Jallow","Department of Water Resources"
+,,
+"The Netherlands","Richard Klein","Vrije Universiteit, Institute for Environmental Studies"
+"The Netherlands","Rik Leemans","National Institute of Public Health and Environmental Protection "
+"The Netherlands","Pim Martens","Maastricht University"
+"The Netherlands","Richard S.J. Tol","Vrije Universiteit, Institute for Environmental Studies "
+"The Netherlands","Pier Vellinga","Vrije Universiteit, Institute for Environmental Studies"
+,,
+"Uganda","Eric L. Edroma","Uganda Institute of Ecology "
+,,
+"United Kingdom","Nigel Arnell","University of Southampton"
+"United Kingdom","Thomas E. Downing","University of Oxford"
+"United Kingdom","David Drewry","NERC"
+"United Kingdom","Michael Hulme","University of East Anglia"
+"United Kingdom","Sari Kovats","London School of Hygiene and Tropical Medicine"
+"United Kingdom","Anthony McMichael","London School of Hygiene and Tropical Medicine"
+"United Kingdom","John Mitchell","Hadley Center"
+"United Kingdom","Robert Nicholls","Middlesex University"
+"United Kingdom","Jim Skea","University of Sussex"
+"United Kingdom","David Viner","University of East Anglia"
+"United Kingdom","Eric Wolff","British Antarctic Survey"
+,,
+"USA","Richard Adams","Oregon State University"
+"USA","Richard Ball","Department of Energy"
+"USA","Susan Bassow","Office of Science and Technology Policy"
+"USA","Heather Benway","National Oceanic and Atmospheric Administration"
+"USA","Paul Berkman","Ohio State University"
+"USA","Julio Betancourt","U.S. Geological Survey "
+"USA","Suzanne Bolton","National Marine Fisheries Service"
+"USA","Jerry Brown","International Permafrost Association"
+"USA","David J. Campbell","Michigan State University"
+"USA","Lee De Cola","U.S. Geological Survey"
+"USA","Doug Demaster","National Marine Fisheries Service"
+"USA","Barbara Allen-Diaz","University of California, Berkeley"
+"USA","Paul Desanker","Michigan Technological University"
+"USA","Robert Dixon","U.S. Country Studies"
+"USA","David Jon Dokken","IPCC Working Group II TSU"
+"USA","Linda Duguay","National Science Foundation "
+"USA","Jerry Elwood","Department of Energy"
+"USA","Paul R. Epstein","Harvard Medical School"
+"USA","John Everett","National Oceanic and Atmospheric Administration "
+"USA","Paul Filmer","National Science Foundation"
+"USA","Penny Firth","National Science Foundation"
+"USA","Ann Fisher","Pennsylvania State University"
+"USA","Mary Gant","HHS/NIEHS"
+"USA","Filippo Giorgi","National Center for Atmospheric Research"
+"USA","Miquel A. Gonzalez-Meler","Duke University"
+"USA","Christy Goodale","University of New Hampshire"
+"USA","James A. Graham","USAID/CARPE"
+"USA","David Goodrich","National Oceanic and Atmospheric Administration"
+"USA","Anne Grambsch","Environmental Protection Agency"
+"USA","John F. Griffiths","Texas A&M University "
+"USA","Duane Gubler","Centers for Disease Control"
+"USA","Ronald Hellman","City University of New York "
+"USA","Roger Hewitt","National Marine Fisheries Service"
+"USA","Harry J Hillaker, Jr.","Iowa State Climatologist"
+"USA","William Hunt","Colorado State University"
+"USA","Robert B. Jackson","University of Texas at Austin"
+"USA","Anthony Janetos","NASA"
+"USA","Jennifer Jenkins","University of New Hampshire"
+"USA","Linda Joyce","Rocky Mountain Forest and Range Experiment Station "
+"USA","Sally Kane","National Oceanic and Atmospheric Administration "
+"USA","Thomas Karl","U.S. Department of Commerce"
+"USA","Barry D. Keim","University of New Hampshire"
+"USA","John Kelmelis","Department of Interior"
+"USA","Mary Kidwell","University of Arizona"
+"USA","Timothy Kittel","National Center for Atmospheric Research"
+"USA","Kalee Kreider","Greenpeace USA Climate Campaign"
+"USA","Neil Leary","U.S. Environmental Protection Agency"
+"USA","Alice Welsh Leeds","National Science Foundation"
+"USA","Frances Li","National Science Foundation"
+"USA","Michael C. MacCracken","U.S.Global Change Research Program"
+"USA","Norman MacDonald","Certified Consulting Meteorologist "
+"USA","George Maul","Florida Institute of Technology"
+"USA","Herman Mayeux","U.S. Department of Agriculture"
+"USA","Mack McFarland","IPCC Working Group II TSU"
+"USA","Laura VanWie McGrory","IPCC Working Group II TSU "
+"USA","David McGuire","University of Alaska, Fairbanks"
+"USA","Steven McNulty","U.S. Department of Agriculture"
+"USA","Gerald Meehl","National Center for Atmospheric Research"
+"USA","Robert Mendelsohn","Yale University"
+"USA","Richard Moss","IPCC Working Group II TSU"
+"USA","Patrick Mulholland","Oak Ridge National Laboratory"
+"USA","Ron Neilson","U.S.Department of Agriculture Forest Service"
+"USA","Richard J. Norby","Oak Ridge National Laboratory"
+"USA","Dennis Ojima","Natural Resource Ecology Labaratory (NREL) "
+"USA","Scott Ollinger","University of New Hampshire "
+"USA","Michael C. Oppenheimer","Environmental Defense Fund"
+"USA","Florence Ormond","IPCC Working Group II TSU "
+"USA","Jonathan A. Patz","Johns Hopkins School of Public Health"
+"USA","Charles J. Peckham","LMR, Inc."
+"USA","Wayne Polley","U.S. Department of Agriculture"
+"USA","Wilfred Mac Post","Oak Ridge National Laboratory"
+"USA","Bradley Reed","EROS Data Center"
+"USA","John Reilly","U.S. Department of Agriculture"
+"USA","Alan Robock","University of Maryland "
+"USA","Michael J. Sale","Oak Ridge National Laboratory"
+"USA","Joel D. Scheraga","U.S. Environmental Protection Agency "
+"USA","Miranda Schreurs","University of Maryland"
+"USA","Michael Scott","Battelle Pacific NorthWest Laboratory"
+"USA","Clive Shiff","John Hopkins University"
+"USA","David Smith","Universtiy Museum"
+"USA","Joel B. Smith","RCG/Hagler, Bailly, Inc"
+"USA","David Shriner","Oak Ridge National Laboratory"
+"USA","Allen Solomon","U.S. Environmental Protection Agency"
+"USA","Christopher C. Spaur","U.S. Army Corps of Engineers "
+"USA","Eugene Stakhiv","U.S. Army Corps of Engineers "
+"USA","Ron Stouffer","U.S. Department of Commerce "
+"USA","Kenneth Strzepek","University of Colorado "
+"USA","Regina Tannon","University Corporation Atmospheric Research"
+"USA","Melissa Taylor","U.S.Global Change Research Program"
+"USA","David Theobald","Colorado State University"
+"USA","James Titus","U.S. Environmental Protection Agency"
+"USA","Cynthia Tynan","National Marine Fisheries Service"
+"USA","Anandu D. Vernekar","University of Maryland"
+"USA","Wei-Chyung Wang","State University of New York, Albany"
+"USA","Elizabeth C. Weatherhead","National Oceanic and Atmospheric Administration"
+"USA","Thompson Webb III","Brown University"
+"USA","Gunter Weller","University of Alaska/Fairbanks"
+"USA","Wayne M. Wendland","Illinois State Water Survey "
+"USA","Tom Wigley","University Corporation for Atmospheric Research"
+"USA","Gunter Weller","University of Alaska"
+"USA","Mark Weltz","U.S. Department of Agriculture "
+"USA","David Yates","University Corporation for Atmospheric Research"
+,,
+"Uruguay ","Andrés Saizar","Ministry of Housing, Territorial Ordering, and Environment"
+,,
+"Venezuela","Rigoberto Andressen","University of Merida"
+"Venezuela","Luis J. Mata","UNFCCC Secretariat"
+"Venezuela","Martha Perdomo","Ministerio del Ambiente"
+,,
+"Western Samoa","James Aston","South Pacific Regional Environment Program "
+,,
+"Zimbabwe","Chris H.D. Magadza","Universitry of Zimbabwe "
+"Zimbabwe","Wish Marume","Department of Meteorological Services"
+"Zimbabwe","Shakespeare Maya","Southern Centre for Energy and Environment"
+"Zimbabwe","L.S. Unganai","Department of Meteorological Services"
+"Zimbabwe","Marufu C. Zinyowera","Department of Meteorological Services"
