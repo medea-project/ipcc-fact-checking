@@ -1,0 +1,30 @@
+Year: 2011
+Title: Technical Summary
+File: ../SRREN_Full_Report.pdf
+Page: 39
+
+Description:
+Arvizu, D., T. Bruckner, H. Chum,
+O. Edenhofer, S. Estefen, A. Faaij,
+M. Fischedick, G. Hansen, G. Hiriart,
+O. Hohmeyer, K. G. T. Hollands, J. Huckerby,
+S. Kadner, Å. Killingtveit, A. Kumar,
+A. Lewis, O. Lucon, P. Matschoss,
+L. Maurice, M. Mirza, C. Mitchell,
+W. Moomaw, J. Moreira, L. J. Nilsson,
+J. Nyboer, R. Pichs-Madruga, J. Sathaye,
+J. Sawin, R. Schaeffer, T. Schei,
+S.Schlömer, K.Seyboth, R.Sims,
+G.Sinden, Y.Sokona, C.vonStechow,
+J.Steckel, A.Verbruggen, R.Wiser,
+F.Yamba, T.Zwickel,
+2011: Technical Summary.
+In IPCC Special Report
+on Renewable Energy Sources
+and Climate Change Mitigation
+[O. Edenhofer, R. Pichs-Madruga, Y. Sokona,
+K. Seyboth, P. Matschoss, S. Kadner,
+T. Zwickel, P. Eickemeier, G. Hansen,
+S. Schlömer, C. von Stechow (eds)],
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

@@ -1,0 +1,20 @@
+Year: 2011
+Title: Renewable Energy in the Context of Sustainable Development
+File: ../SRREN_Full_Report.pdf
+Page: 719
+
+Description:
+Sathaye, J., O. Lucon, A. Rahman,
+J. Christensen, F. Denton, J. Fujino,
+G. Heath, S. Kadner, M. Mirza,
+H. Rudnick, A. Schlaepfer, A. Shmakin,
+2011: Renewable Energy in the Context of Sustainable Development.
+In IPCC Special Report
+on Renewable Energy Sources
+and Climate Change Mitigation
+[O. Edenhofer, R. Pichs-Madruga, Y. Sokona,
+K. Seyboth, P. Matschoss, S. Kadner,
+T. Zwickel, P. Eickemeier, G. Hansen,
+S. Schlömer, C. von Stechow (eds)],
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

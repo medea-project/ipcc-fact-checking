@@ -1,0 +1,10 @@
+Year: 2011
+Title: ANNEX IV: Contributors to the IPCC Special Report
+File: ../SRREN_Full_Report.pdf
+Page: 1023-1032
+
+Description:
+Coordinating lead authors, lead authors, contributing authors
+and review editors are listed alphabetically by surname;
+when citizenship is different from country of residence
+it is mentioned second.

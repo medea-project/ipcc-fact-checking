@@ -1,0 +1,21 @@
+Year: 2011
+Title: Policy, Financing and Implementation
+File: ../SRREN_Full_Report.pdf
+Page: 877
+
+Description:
+Mitchell, C., J. L. Sawin, G. R. Pokharel,
+D. Kammen, Z. Wang, S. Fifita,
+M. Jaccard, O. Langniss, H. Lucas,
+A. Nadai, R. Trujillo Blanco, E. Usher,
+A. Verbruggen, R. Wüstenhagen, K. Yamaguchi,
+2011: Policy, Financing and Implementation.
+In IPCC Special Report
+on Renewable Energy Sources
+and Climate Change Mitigation
+[O. Edenhofer, R. Pichs-Madruga, Y. Sokona,
+K. Seyboth, P. Matschoss, S. Kadner,
+T. Zwickel, P. Eickemeier, G. Hansen,
+S. Schlömer, C. von Stechow (eds)],
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

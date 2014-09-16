@@ -1,0 +1,20 @@
+Year: 2011
+Title: Direct Solar Energy
+File: ../SRREN_Full_Report.pdf
+Page: 345
+
+Description:
+Arvizu, D., P. Balaya, L. Cabeza,
+T. Hollands, A. Jäger-Waldau, M. Kondo,
+C. Konseibo, V. Meleshko, W. Stein,
+Y. Tamaura, H. Xu, R. Zilles,
+2011: Direct Solar Energy.
+In IPCC Special Report
+on Renewable Energy Sources
+and Climate Change Mitigation
+[O. Edenhofer, R. Pichs-Madruga, Y. Sokona,
+K. Seyboth, P. Matschoss, S. Kadner,
+T. Zwickel, P. Eickemeier, G. Hansen,
+S. Schlömer, C. von Stechow (eds)],
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

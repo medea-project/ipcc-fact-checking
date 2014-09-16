@@ -1,0 +1,18 @@
+Year: 2011
+Title: Renewable Energy and Climate Change
+File: ../SRREN_Full_Report.pdf
+Page: 173
+
+Description:
+Moomaw, W., F. Yamba, M. Kamimoto,
+L. Maurice, J. Nyboer, K. Urama, T. Weir,
+2011: Introduction.
+In IPCC Special Report
+on Renewable Energy Sources
+and Climate Change Mitigation
+[O. Edenhofer, R. Pichs-Madruga, Y. Sokona,
+K. Seyboth, P. Matschoss, S. Kadner,
+T. Zwickel, P. Eickemeier, G. Hansen,
+S. Schlömer, C.von Stechow (eds)],
+Cambridge University Press, Cambridge,
+United Kingdom and New York, NY, USA.

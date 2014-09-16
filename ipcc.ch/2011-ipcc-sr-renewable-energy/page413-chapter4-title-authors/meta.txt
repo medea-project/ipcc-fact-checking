@@ -1,0 +1,20 @@
+Year: 2011
+Title: Geothermal Energy
+File: ../SRREN_Full_Report.pdf
+Page: 413
+
+Description:
+Goldstein, B., G. Hiriart, R. Bertani,
+C. Bromley, L. Gutiérrez-Negrín, E. Huenges,
+H. Muraoka, A. Ragnarsson, J. Tester,
+V. Zui,
+2011: Geothermal Energy.
+In IPCC Special Report
+on Renewable Energy Sources
+and Climate Change Mitigation
+[O. Edenhofer, R. Pichs-Madruga, Y. Sokona,
+K. Seyboth, P. Matschoss, S. Kadner,
+T. Zwickel, P. Eickemeier, G. Hansen,
+S. Schlömer, C. von Stechow (eds)],
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.
