@@ -1,0 +1,25 @@
+Year: 2012
+Title: Chapter 9: Case Studies
+File: ../SREX_Full_Report.pdf
+Page: 499
+
+Description:
+Murray, V., G. McBean, M. Bhatt,
+S. Borsch, T.S. Cheong, W.F. Erian,
+S. Llosa, F. Nadim, M. Nunez,
+R. Oyun, and A.G. Suarez,
+2012: Case studies.
+In: Managing the Risks of Extreme Events and Disasters
+to Advance Climate Change Adaptation
+[Field, C.B., V. Barros, T.F. Stocker,
+D. Qin, D.J. Dokken, K.L. Ebi,
+M.D. Mastrandrea, K.J. Mach, G.-K. Plattner,
+S.K. Allen, M. Tignor, and P.M. Midgley (eds.)].
+
+A Special Report of Working Groups I and II
+of the Intergovernmental Panel on Climate Change (IPCC).
+
+Cambridge University Press,
+Cambridge, UK, and New York, NY, USA,
+
+pp. 487-542.

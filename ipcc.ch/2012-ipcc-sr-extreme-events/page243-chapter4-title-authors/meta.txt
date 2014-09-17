@@ -1,0 +1,26 @@
+Year: 2012
+Title: Chapter 4: Changes in Impacts of Climate Extremes: Human Systems and Ecosystems
+File: ../SREX_Full_Report.pdf
+Page: 243
+
+Description:
+Handmer, J., Y. Honda, Z.W. Kundzewicz,
+N. Arnell, G. Benito, J. Hatfield,
+I.F. Mohamed, P. Peduzzi, S. Wu,
+B. Sherstyukov, K. Takahashi, and Z. Yan,
+2012: Changes in impacts of climate extremes:
+human systems and ecosystems.
+In: Managing the Risks of Extreme Events and Disasters
+to Advance Climate Change Adaptation
+[Field, C.B., V. Barros, T.F. Stocker,
+D. Qin, D.J. Dokken, K.L. Ebi,
+M.D. Mastrandrea, K.J. Mach, G.-K. Plattner,
+S.K. Allen, M. Tignor, and P.M. Midgley (eds.)].
+
+A Special Report of Working Groups I and II
+of the Intergovernmental Panel on Climate Change (IPCC).
+
+Cambridge University Press,
+Cambridge, UK, and New York, NY, USA,
+
+pp. 231-290.

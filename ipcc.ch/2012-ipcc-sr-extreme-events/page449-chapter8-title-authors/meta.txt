@@ -1,0 +1,24 @@
+Year: 2012
+Title: Chapter 8: Toward a Sustainable and Resilient Future
+File: ../SREX_Full_Report.pdf
+Page: 449
+
+Description:
+O’Brien, K., M. Pelling, A. Patwardhan,
+S. Hallegatte, A. Maskrey, T. Oki,
+U. Oswald-Spring, T. Wilbanks, and P.Z. Yanda,
+2012: Toward a sustainable and resilient future.
+In: Managing the Risks of Extreme Events and Disasters
+to Advance Climate Change Adaptation
+[Field, C.B., V. Barros, T.F. Stocker,
+D. Qin, D.J. Dokken, K.L. Ebi,
+M.D. Mastrandrea, K.J. Mach, G.-K. Plattner,
+S.K. Allen, M. Tignor, and P.M. Midgley (eds.)].
+
+A Special Report of Working Groups I and II
+of the Intergovernmental Panel on Climate Change (IPCC).
+
+Cambridge University Press,
+Cambridge, UK, and New York, NY, USA,
+
+pp. 437-486.

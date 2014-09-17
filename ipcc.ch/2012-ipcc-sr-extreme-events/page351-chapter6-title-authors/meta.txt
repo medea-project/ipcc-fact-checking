@@ -1,0 +1,25 @@
+Year: 2012
+Title: Chapter 6: National Systems for Managing the Risks from Climate Extremes and Disasters
+File: ../SREX_Full_Report.pdf
+Page: 351
+
+Description:
+Lal, P.N., T. Mitchell, P. Aldunce,
+H. Auld, R. Mechler, A. Miyan,
+L.E. Romano, and S. Zakaria,
+2012: National systems for managing the risks
+from climate extremes and disasters.
+In: Managing the Risks of Extreme Events and Disasters
+to Advance Climate Change Adaptation
+[Field, C.B., V. Barros, T.F. Stocker,
+D. Qin, D.J. Dokken, K.L. Ebi,
+M.D. Mastrandrea, K.J. Mach, G.-K. Plattner,
+S.K. Allen, M. Tignor, and P.M. Midgley (eds.)].
+
+A Special Report of Working Groups I and II
+of the Intergovernmental Panel on Climate Change (IPCC).
+
+Cambridge University Press,
+Cambridge, UK, and New York, NY, USA,
+
+pp. 339-392.

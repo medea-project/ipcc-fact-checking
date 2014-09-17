@@ -1,0 +1,24 @@
+Year: 2012
+Title: Chapter 5: Managing the Risks from Climate Extremes at the Local Level
+File: ../SREX_Full_Report.pdf
+Page: 303
+
+Description:
+Cutter, S., B. Osman-Elasha, J. Campbell,
+S.-M. Cheong, S. McCormick, R. Pulwarty,
+S. Supratid, and G. Ziervogel,
+2012: Managing the risks from climate extremes at the local level.
+In: Managing the Risks of Extreme Events and Disasters
+to Advance Climate Change Adaptation
+[Field, C.B., V. Barros, T.F. Stocker,
+D. Qin, D.J. Dokken, K.L. Ebi,
+M.D. Mastrandrea, K.J. Mach, G.-K. Plattner,
+S.K. Allen, M. Tignor, and P.M. Midgley (eds.)].
+
+A Special Report of Working Groups I and II
+of the Intergovernmental Panel on Climate Change (IPCC).
+
+Cambridge University Press,
+Cambridge, UK, and New York, NY, USA,
+
+pp. 291-338.

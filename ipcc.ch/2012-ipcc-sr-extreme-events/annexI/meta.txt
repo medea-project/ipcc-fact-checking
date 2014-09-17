@@ -1,0 +1,21 @@
+Year: 2012
+Title: Annex I: Authors and Expert Reviewers
+File: ../SREX_Full_Report.pdf
+Page: 557-565
+
+Description:
+IPCC, 2012: Authors and expert reviewers annex.
+In: Managing the Risks of Extreme Events and Disasters
+to Advance Climate Change Adaptation
+[Field, C.B., V. Barros, T.F. Stocker,
+D. Qin, D.J. Dokken, K.L. Ebi,
+M.D. Mastrandrea, K.J. Mach, G.-K. Plattner,
+S.K. Allen, M. Tignor, and P.M. Midgley (eds.)].
+
+A Special Report of Working Groups I and II
+of the Intergovernmental Panel on Climate Change (IPCC).
+
+Cambridge University Press,
+Cambridge, UK, and New York, NY, USA,
+
+pp. 545-553.

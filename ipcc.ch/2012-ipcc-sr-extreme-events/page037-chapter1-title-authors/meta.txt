@@ -1,0 +1,25 @@
+Year: 2012
+Title: Chapter 1: Climate Change: New Dimensions in Disaster Risk, Exposure, Vulnerability, and Resilience
+File: ../SREX_Full_Report.pdf
+Page: 37
+
+Description:
+Lavell, A., M. Oppenheimer, C. Diop,
+J. Hess, R. Lempert, J. Li,
+R. Muir-Wood, and S. Myeong,
+2012: Climate change:
+new dimensions in disaster risk,
+exposure, vulnerability, and resilience.
+In: Managing the Risks of Extreme Events and Disasters
+to Advance Climate Change Adaptation
+[Field, C.B., V. Barros, T.F. Stocker,
+D. Qin, D.J. Dokken, K.L. Ebi,
+M.D. Mastrandrea, K.J. Mach, G.-K. Plattner,
+S.K. Allen, M. Tignor, and P.M. Midgley (eds.)].
+A Special Report of Working Groups I and II
+of the Intergovernmental Panel on Climate Change (IPCC).
+
+Cambridge University Press,
+Cambridge, UK, and New York, NY, USA,
+
+pp. 25-64.
