@@ -1,6 +1,6 @@
 Year: 1990
 Title: Climate Change: The IPCC Impacts Assessment (1990)
-URL: http://www.ipcc.ch/publications_and_data/publications_ipcc_first_assessment_1990_wg2.shtml
+URL: http://www.ipcc.ch/ipccreports/far/wg_II/ipcc_far_wg_II_full_report.pdf
 Tags: ipcc, ar1, wg2
 
 Description:

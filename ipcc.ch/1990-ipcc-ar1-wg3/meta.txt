@@ -1,6 +1,6 @@
 Year: 1990
 Title: Climate Change: The IPCC Response Strategies (1990)
-URL: http://www.ipcc.ch/publications_and_data/publications_ipcc_first_assessment_1990_wg3.shtml
+URL: http://www.ipcc.ch/ipccreports/far/wg_III/ipcc_far_wg_III_full_report.pdf
 Tags: ipcc, ar1, wg3
 
 Description:
