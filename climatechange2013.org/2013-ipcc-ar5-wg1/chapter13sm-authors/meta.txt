@@ -1,0 +1,22 @@
+Year: 2013
+Title: Sea Level Change Supplementary Material
+URL: http://www.climatechange2013.org/images/report/WG1AR5_Ch13SM_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+Church, J.A., P.U. Clark, A. Cazenave,
+J.M. Gregory, S. Jevrejeva, A. Levermann,
+M.A. Merrifield, G.A. Milne, R.S. Nerem,
+P.D. Nunn, A.J. Payne, W.T. Pfeffer,
+D. Stammer and A.S. Unnikrishnan,
+2013: Sea Level Change Supplementary Material.
+In: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Available from www.climatechange2013.org and www.ipcc.ch.

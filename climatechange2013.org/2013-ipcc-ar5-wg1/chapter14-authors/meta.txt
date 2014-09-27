@@ -1,0 +1,25 @@
+Year: 2013
+Title: Climate Phenomena and their Relevance for Future Regional Climate Change
+URL: http://www.climatechange2013.org/images/report/WG1AR5_Chapter14_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+Christensen, J.H., K. Krishna Kumar, E. Aldrian,
+S.-I. An, I.F.A. Cavalcanti, M. de Castro,
+W. Dong, P. Goswami, A. Hall,
+J.K. Kanyanga, A. Kitoh, J. Kossin,
+N.-C. Lau, J. Renwick, D.B. Stephenson,
+S.-P. Xie and T. Zhou,
+2013: Climate Phenomena and their Relevance
+for Future Regional Climate Change.
+In: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

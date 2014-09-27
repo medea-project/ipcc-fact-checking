@@ -1,0 +1,23 @@
+Year: 2013
+Title: Detection and Attribution of Climate Change: from Global to Regional
+URL: http://www.climatechange2013.org/images/report/WG1AR5_Chapter10_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+Bindoff, N.L., P.A. Stott, K.M. AchutaRao,
+M.R. Allen, N. Gillett, D. Gutzler,
+K. Hansingo, G. Hegerl, Y. Hu,
+S. Jain, I.I. Mokhov, J. Overland,
+J. Perlwitz, R. Sebbari and X. Zhang,
+2013: Detection and Attribution of Climate Change: from Global to Regional.
+In: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

@@ -1,0 +1,24 @@
+Year: 2013
+Title: Long-term Climate Change: Projections, Commitments and Irreversibility
+URL: http://www.climatechange2013.org/images/report/WG1AR5_Chapter12_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+Collins, M., R. Knutti, J. Arblaster,
+J.-L. Dufresne, T. Fichefet, P. Friedlingstein,
+X. Gao, W.J. Gutowski, T. Johns,
+G. Krinner, M. Shongwe, C. Tebaldi,
+A.J. Weaver and M. Wehner,
+2013: Long-term Climate Change:
+Projections, Commitments and Irreversibility.
+In: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

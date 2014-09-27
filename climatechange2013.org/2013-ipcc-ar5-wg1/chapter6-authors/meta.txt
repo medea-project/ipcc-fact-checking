@@ -1,0 +1,24 @@
+Year: 2013
+Title: Carbon and Other Biogeochemical Cycles
+URL: http://www.climatechange2013.org/images/report/WG1AR5_Chapter06_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+Ciais, P., C. Sabine, G. Bala,
+L. Bopp, V. Brovkin, J. Canadell,
+A. Chhabra, R. DeFries, J. Galloway,
+M. Heimann, C. Jones, C. Le Quéré,
+R.B. Myneni, S. Piao and P. Thornton,
+2013: Carbon and Other Biogeochemical Cycles.
+
+In: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

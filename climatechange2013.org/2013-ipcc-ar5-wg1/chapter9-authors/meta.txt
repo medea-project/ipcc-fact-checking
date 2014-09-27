@@ -1,0 +1,24 @@
+Year: 2013
+Title: Evaluation of Climate Models
+URL: http://www.climatechange2013.org/images/report/WG1AR5_Chapter09_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+Flato, G., J. Marotzke, B. Abiodun,
+P. Braconnot, S.C. Chou, W. Collins,
+P. Cox, F. Driouech, S. Emori,
+V. Eyring, C. Forest, P. Gleckler,
+E. Guilyardi, C. Jakob, V. Kattsov,
+C. Reason and M. Rummukainen,
+2013: Evaluation of Climate Models.
+In: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

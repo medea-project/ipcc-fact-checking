@@ -1,0 +1,24 @@
+Year: 2013
+Title: Observations: Atmosphere and Surface
+URL: http://www.climatechange2013.org/images/report/WG1AR5_Chapter02_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+Hartmann, D.L., A.M.G. Klein Tank, M. Rusticucci,
+L.V. Alexander, S. Brönnimann, Y. Charabi,
+F.J. Dentener, E.J. Dlugokencky, D.R. Easterling,
+A. Kaplan, B.J. Soden, P.W. Thorne,
+M. Wild and P.M. Zhai,
+
+2013: Observations: Atmosphere and Surface.
+In: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

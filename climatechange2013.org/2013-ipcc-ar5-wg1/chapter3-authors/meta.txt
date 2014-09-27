@@ -1,0 +1,24 @@
+Year: 2013
+Title: Observations: Ocean
+URL: http://www.climatechange2013.org/images/report/WG1AR5_Chapter03_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+Rhein, M., S.R. Rintoul, S. Aoki,
+E. Campos, D. Chambers, R.A. Feely,
+S. Gulev, G.C. Johnson, S.A. Josey,
+A. Kostianoy, C. Mauritzen, D. Roemmich,
+L.D. Talley and F. Wang,
+
+2013: Observations: Ocean.
+In: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

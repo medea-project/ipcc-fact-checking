@@ -1,0 +1,24 @@
+Year: 2013
+Title: Near-term Climate Change: Projections and Predictability
+URL: http://www.climatechange2013.org/images/report/WG1AR5_Chapter11_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+Kirtman, B., S.B. Power, J.A. Adedoyin,
+G.J. Boer, R. Bojariu, I. Camilloni,
+F.J. Doblas-Reyes, A.M. Fiore, M. Kimoto,
+G.A. Meehl, M. Prather, A. Sarr,
+C. Schär, R. Sutton, G.J. van Oldenborgh,
+G. Vecchi and H.J. Wang,
+2013: Near-term Climate Change: Projections and Predictability.
+In: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

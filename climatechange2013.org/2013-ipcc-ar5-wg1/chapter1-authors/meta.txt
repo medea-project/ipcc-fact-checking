@@ -1,0 +1,23 @@
+Year: 2013
+Title: Introduction
+URL: http://www.climatechange2013.org/images/report/WG1AR5_Chapter01_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+Cubasch, U., D. Wuebbles, D. Chen,
+M.C. Facchini, D. Frame, N. Mahowald,
+and J.-G. Winther,
+
+2013: Introduction.
+In:
+Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

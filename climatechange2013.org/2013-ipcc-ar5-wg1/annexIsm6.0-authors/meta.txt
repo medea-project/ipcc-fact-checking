@@ -1,0 +1,21 @@
+Year: 2013
+Title: Annex I: Atlas of Global and Regional Climate Projections Supplementary Material RCP6.0
+URL: http://www.climatechange2013.org/images/report/WG1AR5_AISM6.0_FINAL.pdf
+Tags: ipcc, ar5, wg1
+
+Description:
+IPCC, 2013: Annex I: Atlas of Global and Regional Climate Projections
+Supplementary Material RCP6.0
+[van Oldenborgh, G.J., M. Collins, J. Arblaster,
+J.H. Christensen, J. Marotzke, S.B. Power,
+M. Rummukainen and T. Zhou (eds.)].
+In: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I
+to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner,
+M. Tignor, S.K. Allen, J. Boschung,
+A. Nauels, Y. Xia, V. Bex
+and P.M. Midgley (eds.)].
+
+Available from www.climatechange2013.org and www.ipcc.ch.
