@@ -27,7 +27,7 @@ var fs = require('fs');
 var cheerio = require('cheerio');
 var path = require('path');
 
-glob("chapter*-ca*-profile/*.html", function(err,matches){
+glob("*-ca*-profile/*.html", function(err,matches){
   matches.forEach(function(inputFileName){
     console.log("Read: "+inputFileName);
     var fileText = fs.readFileSync(inputFileName,{encoding:'utf8'});
