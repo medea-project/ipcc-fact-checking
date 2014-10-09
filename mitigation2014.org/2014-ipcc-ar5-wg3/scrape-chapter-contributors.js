@@ -38,6 +38,18 @@ var emptyLine = {
   "Affiliation Country": ""
 };
 
+function getHeaders(){
+  return [
+    "Chapter",
+    "Title",
+    "Role",
+    "Name",
+    "Institution",
+    "Citizenship",
+    "Affiliation Country"
+  ];
+}
+
 var authorBox = {
   "Chapter": function($){
     return $(this).parents('div').prevAll('h1').html();
@@ -107,7 +119,12 @@ glob("*-contributors/*.html", function(err,matches){
     var $ = cheerio.load(fileText);
     artoo.setContext($);
 
-    var csv = artoo.helpers.toCSVString( getData() );
+    var csv = artoo.helpers.toCSVString(
+      getData(),
+      {
+        order: getHeaders()
+      }
+    );
     console.log("Scraped: "+csv);
 
     var outputFileName = path.dirname(inputFileName)+path.sep+'data.csv';
