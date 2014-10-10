@@ -10,11 +10,11 @@ SELECT
   numbers.line,
   numbers.value AS `Chapter`,
   IFNULL(titles.value,"") AS `Title`,
-  roles.value AS `Role`,
-  names.value AS `Name`,
-  institutions.value AS `Institution`,
-  citizenships.value AS `Citizenship`,
-  countries.value AS `Affiliation Country`
+  IFNULL(roles.value,"") AS `Role`,
+  IFNULL(names.value,"") AS `Name`,
+  IFNULL(institutions.value,"") AS `Institution`,
+  IFNULL(citizenships.value,"") AS `Citizenship`,
+  IFNULL(countries.value,"") AS `Affiliation Country`
 FROM
   (
     SELECT dataset, line, value
@@ -38,7 +38,7 @@ FROM
     AND line>1
   ) titles
   USING (dataset, line)
-  JOIN
+  LEFT JOIN
   (
     SELECT dataset, line, value
     FROM facts
@@ -50,7 +50,7 @@ FROM
     AND line>1
   ) roles
   USING (dataset, line)
-  JOIN
+  LEFT JOIN
   (
     SELECT dataset, line, value
     FROM facts
@@ -62,7 +62,7 @@ FROM
     AND line>1
   ) names
   USING (dataset, line)
-  JOIN
+  LEFT JOIN
   (
     SELECT dataset, line, value
     FROM facts
@@ -74,7 +74,7 @@ FROM
     AND line>1
   ) institutions
   USING (dataset, line)
-  JOIN
+  LEFT JOIN
   (
     SELECT dataset, line, value
     FROM facts
@@ -86,7 +86,7 @@ FROM
     AND line>1
   ) citizenships
   USING (dataset, line)
-  JOIN
+  LEFT JOIN
   (
     SELECT dataset, line, value
     FROM facts
