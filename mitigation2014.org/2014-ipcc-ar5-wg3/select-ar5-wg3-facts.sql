@@ -1,6 +1,6 @@
 USE ipcc_facts
 
-SET @commit='4f7b157';
+SET @commit='d392e75';
 SET @source='mitigation2014.org';
 SET @document='2014-ipcc-ar5-wg3';
 SET @except_dataset='all-authors';
@@ -12,9 +12,21 @@ SELECT
   IFNULL(titles.value,"") AS `Title`,
   IFNULL(roles.value,"") AS `Role`,
   IFNULL(names.value,"") AS `Name`,
-  IFNULL(institutions.value,"") AS `Institution`,
-  IFNULL(citizenships.value,"") AS `Citizenship`,
-  IFNULL(countries.value,"") AS `Affiliation Country`
+  COALESCE(
+    institutions.value,
+    profiles.organization,
+    ""
+  ) AS `Institution`,
+  COALESCE(
+    citizenships.value,
+    profiles.citizenship,
+    ""
+  ) AS `Citizenship`,
+  COALESCE(
+    countries.value,
+    profiles.affiliation,
+    ""
+  ) AS `Affiliation Country`
 FROM
   (
     SELECT dataset, line, value
@@ -74,6 +86,59 @@ FROM
     AND line>1
   ) institutions
   USING (dataset, line)
+  LEFT JOIN
+  (
+    SELECT DISTINCT
+      profile_names.value AS name,
+      profile_organizations.value AS organization,
+      profile_affiliations.value AS affiliation,
+      profile_citizenships.value AS citizenship
+    FROM
+      (
+        SELECT dataset, line, value
+        FROM facts
+        WHERE name='Name'
+        AND commit=@commit
+        AND source=@source
+        AND document=@document
+        AND dataset LIKE '%-profile'
+      ) profile_names
+      LEFT JOIN
+      (
+        SELECT dataset, line, value
+        FROM facts
+        WHERE name='Organization'
+        AND commit=@commit
+        AND source=@source
+        AND document=@document
+        AND dataset LIKE '%-profile'
+      ) profile_organizations
+      USING (dataset, line)
+      LEFT JOIN
+      (
+        SELECT dataset, line, value
+        FROM facts
+        WHERE name='Affiliation'
+        AND commit=@commit
+        AND source=@source
+        AND document=@document
+        AND dataset LIKE '%-profile'
+      ) profile_affiliations
+      USING (dataset, line)
+      LEFT JOIN
+      (
+        SELECT dataset, line, value
+        FROM facts
+        WHERE name='Citizenship'
+        AND commit=@commit
+        AND source=@source
+        AND document=@document
+        AND dataset LIKE '%-profile'
+      ) profile_citizenships
+      USING (dataset, line)
+    GROUP BY name
+  ) profiles
+  ON names.value = profiles.name
   LEFT JOIN
   (
     SELECT dataset, line, value
