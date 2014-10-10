@@ -50,35 +50,39 @@ function getHeaders(){
   ];
 }
 
+function trimText($){
+  return $(this).text().trim();
+}
+
 var authorBox = {
   "Chapter": function($){
-    return $(this).parents('div').prevAll('h1').html();
+    return $(this).parents('div').prevAll('h1').text().trim();
   },
   "Title": function($){
-    return $(this).parent().prevAll('h2').html();
+    return $(this).parent().prevAll('h2').text().trim();
   },
   "Role": function($){
-    return $(this).prevAll('h1').html().slice(0,-1);
+    return $(this).prevAll('h1').text().trim().slice(0,-1);
   },
-  "Name": {sel:"h3"},
-  "Institution": {sel:"p:nth-of-type(1)"},
-  "Citizenship": {sel:"p:nth-of-type(2)>span"},
-  "Affiliation Country": {sel:"p:nth-of-type(3)>span"}
+  "Name": {sel:"h3", method:trimText},
+  "Institution": {sel:"p:nth-of-type(1)", method:trimText},
+  "Citizenship": {sel:"p:nth-of-type(2)>span", method:trimText},
+  "Affiliation Country": {sel:"p:nth-of-type(3)>span", method:trimText}
 };
 
 var authorItem = {
   "Chapter": function($){
-    return $(this).parents('div').prevAll('h1').html();
+    return $(this).parents('div').prevAll('h1').text().trim();
   },
   "Title": function($){
-    return $(this).parent().parent().prevAll('h2').html();
+    return $(this).parent().parent().prevAll('h2').text().trim();
   },
   "Role": function($){
-    return $(this).parent().prevAll('h1').html().slice(0,-1);
+    return $(this).parent().prevAll('h1').text().trim().slice(0,-1);
   },
-  "Name": {sel:"b>span"},
+  "Name": {sel:"b>span", method:trimText},
   "Institution": empty,
-  "Citizenship": {sel:"b+span"},
+  "Citizenship": {sel:"b+span", method:trimText},
   "Affiliation Country": empty
 };
 
