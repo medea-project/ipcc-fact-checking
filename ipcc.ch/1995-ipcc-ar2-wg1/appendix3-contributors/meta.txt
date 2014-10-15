@@ -1,0 +1,8 @@
+Year: 1995
+Title: Appendix 3
+File: ../ipcc_sar_wg_I_full_report.pdf
+Pages: 551-563
+Tags: ipcc, ar2, wg1
+
+Description:
+Contributors to IPCC WGI Report
