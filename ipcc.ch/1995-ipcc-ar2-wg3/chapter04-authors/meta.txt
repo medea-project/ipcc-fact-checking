@@ -1,0 +1,5 @@
+Year: 1995
+Title: Intertemporal Equity, Discounting, and Economic Efficiency
+File: ../ipcc_sar_wg_III_full_report.pdf
+Pages: 126
+Tags: ipcc, ar2, wg3

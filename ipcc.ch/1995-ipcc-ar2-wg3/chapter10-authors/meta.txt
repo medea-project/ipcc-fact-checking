@@ -1,0 +1,5 @@
+Year: 1995
+Title: Integrated Assessment of Climate Change: An Overview and Comparison of Approaches and Results
+File: ../ipcc_sar_wg_III_full_report.pdf
+Pages: 360
+Tags: ipcc, ar2, wg3

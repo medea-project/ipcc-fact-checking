@@ -1,0 +1,5 @@
+Year: 1995
+Title: Estimating the Costs of Mitigating Greenhouse Gases
+File: ../ipcc_sar_wg_III_full_report.pdf
+Pages: 259
+Tags: ipcc, ar2, wg3

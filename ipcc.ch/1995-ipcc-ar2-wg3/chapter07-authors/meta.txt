@@ -1,0 +1,5 @@
+Year: 1995
+Title: A Generic Assessment of Response Options
+File: ../ipcc_sar_wg_III_full_report.pdf
+Pages: 223
+Tags: ipcc, ar2, wg3

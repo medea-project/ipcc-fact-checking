@@ -1,0 +1,5 @@
+Year: 1995
+Title: A Review of Mitigation Cost Studies
+File: ../ipcc_sar_wg_III_full_report.pdf
+Pages: 291
+Tags: ipcc, ar2, wg3

@@ -1,0 +1,8 @@
+Year: 1995
+Title: Appendix 1
+File: ../ipcc_sar_wg_III_full_report.pdf
+Pages: 430-432
+Tags: ipcc, ar2, wg3
+
+Description:
+CONTRIBUTORS TO THE IPCC WG III SECOND ASSESSMENT REPORT

@@ -1,0 +1,5 @@
+Year: 1995
+Title: An Economic Assessment of Policy Instruments for Combatting Climate Change
+File: ../ipcc_sar_wg_III_full_report.pdf
+Pages: 389
+Tags: ipcc, ar2, wg3

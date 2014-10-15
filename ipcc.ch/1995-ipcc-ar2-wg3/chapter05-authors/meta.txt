@@ -1,0 +1,5 @@
+Year: 1995
+Title: Applicability of Techniques of Cost-Benefit Analysis to Climate Change
+File: ../ipcc_sar_wg_III_full_report.pdf
+Pages: 144
+Tags: ipcc, ar2, wg3

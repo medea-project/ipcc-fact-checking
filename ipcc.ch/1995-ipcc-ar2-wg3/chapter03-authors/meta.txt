@@ -1,0 +1,5 @@
+Year: 1995
+Title: Equity and Social Considerations
+File: ../ipcc_sar_wg_III_full_report.pdf
+Pages: 81
+Tags: ipcc, ar2, wg3

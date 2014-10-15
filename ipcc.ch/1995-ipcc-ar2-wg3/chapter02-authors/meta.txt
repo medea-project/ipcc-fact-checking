@@ -1,0 +1,5 @@
+Year: 1995
+Title: Decision-Making Frameworks for Addressing Climate Change
+File: ../ipcc_sar_wg_III_full_report.pdf
+Pages: 58
+Tags: ipcc, ar2, wg3
