@@ -1,0 +1,5 @@
+Year: 1995
+Title: Summary for Policymakers: Scientific-Technical Analyses of Impacts, Adaptations, and Mitigation of Climate Change
+File: ../ipcc_sar_wg_II_full_report.pdf
+Pages: 29
+Tags: ipcc, ar2, wg2

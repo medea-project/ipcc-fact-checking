@@ -1,0 +1,5 @@
+Year: 1995
+Title: Methods for Assessment of Mitigation Options
+File: ../ipcc_sar_wg_II_full_report.pdf
+Pages: 846
+Tags: ipcc, ar2, wg2

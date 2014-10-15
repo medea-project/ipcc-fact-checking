@@ -1,0 +1,5 @@
+Year: 1995
+Title: Agriculture in a Changing CUmate: Impacts and Adaptation
+File: ../ipcc_sar_wg_II_full_report.pdf
+Pages: 438
+Tags: ipcc, ar2, wg2

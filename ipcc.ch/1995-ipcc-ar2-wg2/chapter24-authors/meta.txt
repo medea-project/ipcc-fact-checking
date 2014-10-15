@@ -1,0 +1,5 @@
+Year: 1995
+Title: Management of Forests for Mitigation of Greenhouse Gas Emissions
+File: ../ipcc_sar_wg_II_full_report.pdf
+Pages: 784
+Tags: ipcc, ar2, wg2

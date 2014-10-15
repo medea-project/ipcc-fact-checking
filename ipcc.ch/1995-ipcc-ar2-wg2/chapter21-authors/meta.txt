@@ -1,0 +1,5 @@
+Year: 1995
+Title: Mitigation Options in the Transportation Sector
+File: ../ipcc_sar_wg_II_full_report.pdf
+Pages: 690
+Tags: ipcc, ar2, wg2
