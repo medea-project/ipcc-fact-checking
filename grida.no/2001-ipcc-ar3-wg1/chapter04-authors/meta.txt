@@ -1,0 +1,4 @@
+Year: 2001
+Title: 4. Atmospheric Chemistry and Greenhouse Gases
+URL: http://www.grida.no/climate/ipcc_tar/wg1/127.htm
+Tags: ipcc, ar3, wg1

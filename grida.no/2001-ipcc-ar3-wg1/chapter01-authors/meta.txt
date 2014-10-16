@@ -1,0 +1,4 @@
+Year: 2001
+Title: 1. The Climate System: an Overview
+URL: http://www.grida.no/climate/ipcc_tar/wg1/038.htm
+Tags: ipcc, ar3, wg1

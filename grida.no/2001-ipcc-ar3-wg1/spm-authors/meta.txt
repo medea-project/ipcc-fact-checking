@@ -1,0 +1,9 @@
+Year: 2001
+Title: Summary for Policymakers
+File: ../front/WG1_TAR-FRONT.pdf
+Pages: 11
+Tags: ipcc, ar3, wg1
+
+Description:
+A Report of Working Group I
+of the Intergovernmental Panel on Climate Change

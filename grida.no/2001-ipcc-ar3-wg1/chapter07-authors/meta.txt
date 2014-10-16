@@ -1,0 +1,4 @@
+Year: 2001
+Title: 7. Physical Climate Processes and Feedbacks
+URL: http://www.grida.no/climate/ipcc_tar/wg1/260.htm
+Tags: ipcc, ar3, wg1
