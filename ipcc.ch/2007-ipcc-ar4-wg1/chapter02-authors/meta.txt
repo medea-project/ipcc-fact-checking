@@ -1,0 +1,4 @@
+Year: 2007
+Title: Chapter 2: Changes in Atmospheric Constituents and in Radiative Forcing
+URL: http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch2.html
+Tags: ipcc, ar4, wg1

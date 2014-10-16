@@ -1,0 +1,4 @@
+Year: 2007
+Title: Chapter 11: Regional Climate Projections
+URL: http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch11.html
+Tags: ipcc, ar4, wg1

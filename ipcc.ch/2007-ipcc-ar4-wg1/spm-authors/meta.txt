@@ -1,0 +1,4 @@
+Year: 2007
+Title: Summary for Policymakers
+URL: http://www.ipcc.ch/publications_and_data/ar4/wg1/en/spm.html
+Tags: ipcc, ar4, wg1
