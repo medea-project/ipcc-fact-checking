@@ -1,0 +1,4 @@
+Year: 2007
+Title: Chapter 19: Assessing Key Vulnerabilities and the Risk from Climate Change
+URL: http://www.ipcc.ch/publications_and_data/ar4/wg2/en/ch19.html
+Tags: ipcc, ar4, wg2

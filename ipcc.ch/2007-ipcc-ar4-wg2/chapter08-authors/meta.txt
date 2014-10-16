@@ -1,0 +1,4 @@
+Year: 2007
+Title: Chapter 8: Human Health
+URL: http://www.ipcc.ch/publications_and_data/ar4/wg2/en/ch8.html
+Tags: ipcc, ar4, wg2
