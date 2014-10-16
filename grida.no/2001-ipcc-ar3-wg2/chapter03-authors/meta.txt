@@ -1,0 +1,4 @@
+Year: 2001
+Title: 3. Developing and Applying Scenarios
+URL: http://www.grida.no/climate/ipcc_tar/wg2/122.htm
+Tags: ipcc, ar3, wg2

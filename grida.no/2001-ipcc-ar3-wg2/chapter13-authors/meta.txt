@@ -1,0 +1,4 @@
+Year: 2001
+Title: 13. Europe
+URL: http://www.grida.no/climate/ipcc_tar/wg2/491.htm
+Tags: ipcc, ar3, wg2
