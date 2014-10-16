@@ -1,0 +1,4 @@
+Year: 2001
+Title: 2. Greenhouse Gas Emission Mitigation Scenarios and Implications
+URL: http://www.grida.no/climate/ipcc_tar/wg3/068.htm
+Tags: ipcc, ar3, wg3

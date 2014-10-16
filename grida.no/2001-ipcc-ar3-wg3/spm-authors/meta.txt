@@ -1,0 +1,4 @@
+Year: 2001
+Title: Summary for Policymakers
+URL: http://www.grida.no/climate/ipcc_tar/wg3/003.htm
+Tags: ipcc, ar3, wg3
