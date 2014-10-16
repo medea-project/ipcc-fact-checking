@@ -1,0 +1,12 @@
+Year: 2007
+Title: Annex III
+URL: http://www.ipcc.ch/publications_and_data/ar4/wg3/en/annex3sannex-iii.html
+Tags: ipcc, ar4, wg3
+
+Description:
+Contributors to the IPCC WGIII Fourth Assessment Report
+
+Coordinating lead authors, lead authors, contributing authors
+and review editors are listed alphabetically by surname;
+when nationality is different from country of residence
+it is mentioned second.

@@ -1,0 +1,4 @@
+Year: 2007
+Title: Technical Summary
+URL: http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ts.html
+Tags: ipcc, ar4, wg3
