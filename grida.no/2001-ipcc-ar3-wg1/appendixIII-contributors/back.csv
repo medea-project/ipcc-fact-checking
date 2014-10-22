@@ -1,6 +1,7 @@
 #,Chapter,Role,Name,"Institution, Country"
 TS,Technical Summary,Coordinating Lead Author,D.L. Albritton,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 TS,Technical Summary,Coordinating Lead Author,L.G. Meira Filho,"Agencia Espacial Brasileira, Brazil"
+,,,,
 TS,Technical Summary,Lead Author,Ulrich Cubasch,"Max-Planck Institute for Meteorology, Germany"
 TS,Technical Summary,Lead Author,Yihui Ding,"China Meteorological Administration, China"
 TS,Technical Summary,Lead Author,David J. Griggs,"Met Office, United Kingdom"
@@ -18,10 +19,12 @@ TS,Technical Summary,Lead Author,Joyce E. Penner,"University of Michigan, USA"
 TS,Technical Summary,Lead Author,S. Pollonais,"Environment Management Authority, Trinidad and Tobago"
 TS,Technical Summary,Lead Author,Thomas F. Stocker,"University of Bern, Switzerland"
 TS,Technical Summary,Lead Author,Kevin E. Trenberth,"National Center for Atmospheric Research (NCAR), USA"
+,,,,
 TS,Technical Summary,Review Editor,Fortunat Joos,"University of Bern, Switzerland"
 TS,Technical Summary,Review Editor,A. Ramirez-Rojas,"Universidad Central Venezuela, Venezuela"
 TS,Technical Summary,Review Editor,John M.R. Stone,"Environment Canada, Canada"
 TS,Technical Summary,Review Editor,John Zillman,"Bureau of Meteorology, Australia"
+,,,,
 TS,Technical Summary,Contributing Author,Myles R. Allen,"Rutherford Appleton Laboratory, United Kingdom"
 TS,Technical Summary,Contributing Author,Alphonsus Baede,"Royal Netherlands Meteorological Institute (KNMI), The Netherlands"
 TS,Technical Summary,Contributing Author,John A. Church,"Commonwealth Scientific and Industrial Research Organization (CSIRO), Australia"
@@ -54,14 +57,19 @@ TS,Technical Summary,Contributing Author,Ronald J. Stouffer,"National Oceanograp
 TS,Technical Summary,Contributing Author,S.-W. Wang,"Peking University, China"
 TS,Technical Summary,Contributing Author,Robert T. Watson,"World Bank, USA"
 TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Service, Malaysia"
+,,,,
 1,The Climate System: an Overview,Coordinating Lead Author,Alphonsus Baede,"Royal Netherlands Meteorological Institute (KNMI), The Netherlands"
+,,,,
 1,The Climate System: an Overview,Lead Author,Epiphane Dotou Ahlonsou,"Benin National Meteorological Service, Benin"
 1,The Climate System: an Overview,Lead Author,Yihui Ding,"China Meteorological Administration, China"
 1,The Climate System: an Overview,Lead Author,David Schimel,"Max-Planck Institute for Biogeochemistry, Germany"
+,,,,
 1,The Climate System: an Overview,Review Editor,Bert Bolin,"Retired, Sweden"
 1,The Climate System: an Overview,Review Editor,S. Pollonais,"Environment Management Authority, Trinidad and Tobago"
+,,,,
 2,Observed Climate Variability and Change,Coordinating Lead Author,Christopher K. Folland,"Met Office, United Kingdom"
 2,Observed Climate Variability and Change,Coordinating Lead Author,Thomas R. Karl,"National Oceanographic and Atmospheric Administration (NOAA), USA"
+,,,,
 2,Observed Climate Variability and Change,Lead Author,John R. Christy,"University of Alabama Huntsville, USA"
 2,Observed Climate Variability and Change,Lead Author,G.K.C. Clarke,"University of British Columbia, Canada"
 2,Observed Climate Variability and Change,Lead Author,G.V. Gruza,"Institute of Global Climate and Ecology, Russian Federation"
@@ -70,8 +78,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 2,Observed Climate Variability and Change,Lead Author,Johannes Oerlemans,"University of Utrecht, The Netherlands"
 2,Observed Climate Variability and Change,Lead Author,"Michael James ""Jim"" Salinger","National Institute of Water and Atmospheric Research, New Zealand"
 2,Observed Climate Variability and Change,Lead Author,M. Wang,"Chinese Academy of Sciences, China"
+,,,,
 2,Observed Climate Variability and Change,Review Editor,R. Hallgren,"American Meteorological Society, USA"
 2,Observed Climate Variability and Change,Review Editor,B.S. Nyenzi,"Zimbabwe Drought Monitoring Centre, Zimbabwe"
+,,,,
 2,Observed Climate Variability and Change,Contributing Author,M. Abbott,"Oregon State University, USA"
 2,Observed Climate Variability and Change,Contributing Author,R. Alexander,"N/A, N/A"
 2,Observed Climate Variability and Change,Contributing Author,Hans Alexandersson,"Swedish Meteorological and Hydrological Institute, Sweden"
@@ -211,7 +221,9 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 2,Observed Climate Variability and Change,Contributing Author,Shang-Ping Xie,"University of Hawaii, USA"
 2,Observed Climate Variability and Change,Contributing Author,Pavel Ya Groisman,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 2,Observed Climate Variability and Change,Contributing Author,Panmao Zhai,"China Meteorological Administration, China"
+,,,,
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Coordinating Lead Author,I. Colin Prentice,"Max-Planck Institute for Biogeochemistry, Germany"
+,,,,
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Lead Author,G.D. Farquhar,"Australian National University, Australia"
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Lead Author,M.J.R. Fasham,"Southampton Oceanography Centre, United Kingdom"
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Lead Author,M.L. Goulden,"University of California, USA"
@@ -221,8 +233,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Lead Author,C. Le Quiero,"Max-Planck Institute for Biogeochemistry, Germany"
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Lead Author,Robert (Bob) J. Scholes,"Council for Scientific and Industrial Research (CSIR), South Africa"
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Lead Author,J.M. Wallace,"University of Washington, USA"
+,,,,
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Review Editor,L.F. Pitelka,"University of Maryland, USA"
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Review Editor,A. Ramirez-Rojas,"Universidad Central Venezuela, Venezuela"
+,,,,
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Contributing Author,David Archer,"University of Chicago, USA"
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Contributing Author,M.R. Ashmore,"University of Bradford, United Kingdom"
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Contributing Author,O. Aumont,"Institut Pierre Simon Laplace (IPSL), France"
@@ -276,6 +290,7 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 3,The Carbon Cycle and Atmospheric Carbon Dioxide,Contributing Author,A. Yool,"Southampton Oceanography Centre, United Kingdom"
 4,Atmospheric Chemistry and Greenhouse Gases,Coordinating Lead Author,D.H. Ehhalt,"Institut fur Chemie der KFA Julich GmbH, Germany"
 4,Atmospheric Chemistry and Greenhouse Gases,Coordinating Lead Author,Michael Prather,"University of California Irvine, USA"
+,,,,
 4,Atmospheric Chemistry and Greenhouse Gases,Lead Author,Frank Dentener,"European Commission Joint Research Centre, Italy"
 4,Atmospheric Chemistry and Greenhouse Gases,Lead Author,R.G. Derwent,"Met Office, United Kingdom"
 4,Atmospheric Chemistry and Greenhouse Gases,Lead Author,E. Dlugokencky,"National Oceanographic and Atmospheric Administration (NOAA), USA"
@@ -286,8 +301,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 4,Atmospheric Chemistry and Greenhouse Gases,Lead Author,P. Matson,"Stanford University, USA"
 4,Atmospheric Chemistry and Greenhouse Gases,Lead Author,P. Midgley,"M&D Consulting, Germany"
 4,Atmospheric Chemistry and Greenhouse Gases,Lead Author,S.-W. Wang,"Peking University, China"
+,,,,
 4,Atmospheric Chemistry and Greenhouse Gases,Review Editor,Fortunat Joos,"University of Bern, Switzerland"
 4,Atmospheric Chemistry and Greenhouse Gases,Review Editor,Mack McFarland,"DuPont Fluoroproducts, USA"
+,,,,
 4,Atmospheric Chemistry and Greenhouse Gases,Contributing Author,Terje Berntsen,"Center for International Climate and Environment (CICERO), Norway"
 4,Atmospheric Chemistry and Greenhouse Gases,Contributing Author,I. Bey,"Harvard University, USA"
 4,Atmospheric Chemistry and Greenhouse Gases,Contributing Author,Guy Brasseur,"Max-Planck Institute for Meteorology, Germany"
@@ -346,7 +363,9 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 4,Atmospheric Chemistry and Greenhouse Gases,Contributing Author,Martin Wild,"Swiss Federal Institute of Technology, Switzerland"
 4,Atmospheric Chemistry and Greenhouse Gases,Contributing Author,Donald J. Wuebbles,"University of Illinois at Urbana-Champaign, USA"
 4,Atmospheric Chemistry and Greenhouse Gases,Contributing Author,R. Yantosca,"Harvard University, USA"
+,,,,
 5,"AER, their Direct and Indirect Effects",Coordinating Lead Author,Joyce E. Penner,"University of Michigan, USA"
+,,,,
 5,"AER, their Direct and Indirect Effects",Lead Author,M. Andreae,"Max-Planck Institute for Chemistry, Germany"
 5,"AER, their Direct and Indirect Effects",Lead Author,H. Annegarn,"University of the Witwatersrand, South Africa"
 5,"AER, their Direct and Indirect Effects",Lead Author,L. Barrie,"Environment Canada, Canada"
@@ -357,8 +376,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 5,"AER, their Direct and Indirect Effects",Lead Author,D. Murphy,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 5,"AER, their Direct and Indirect Effects",Lead Author,John Nganga,"University of Nairobi, Kenya"
 5,"AER, their Direct and Indirect Effects",Lead Author,G. Pitari,"Universite Degli Studi dellâ Aquila, Italy"
+,,,,
 5,"AER, their Direct and Indirect Effects",Review Editor,B.S. Nyenzi,"Zimbabwe Drought Monitoring Centre, Zimbabwe"
 5,"AER, their Direct and Indirect Effects",Review Editor,J. Prospero,"University of Miami, USA"
+,,,,
 5,"AER, their Direct and Indirect Effects",Contributing Author,F. Ackerman,"Tufts University, USA"
 5,"AER, their Direct and Indirect Effects",Contributing Author,P. Adams,"California Institute of Technology, USA"
 5,"AER, their Direct and Indirect Effects",Contributing Author,P. Austin,"University of British Columbia, Canada"
@@ -404,7 +425,9 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 5,"AER, their Direct and Indirect Effects",Contributing Author,R. Van Dingenen,"Enviroment Institute of European Commission, Italy"
 5,"AER, their Direct and Indirect Effects",Contributing Author,M. Van Weele,"Royal Netherlands Meteorological Institute (KNMI), The Netherlands"
 5,"AER, their Direct and Indirect Effects",Contributing Author,ZhongXiang Zhang,"University of Groningen, The Netherlands"
+,,,,
 6,Radiative Forcing of Climate Change,Coordinating Lead Author,Venkatachalam Ramaswamy,"National Oceanographic and Atmospheric Administration (NOAA), USA"
+,,,,
 6,Radiative Forcing of Climate Change,Lead Author,Olivier Boucher,"Laboratoire d'Optique Atmospherique, France"
 6,Radiative Forcing of Climate Change,Lead Author,Joanna Haigh,"Imperial College London, United Kingdom"
 6,Radiative Forcing of Climate Change,Lead Author,Didier Hauglustaine,"Centre National de la Recherche Scientifique (CNRS), France"
@@ -413,8 +436,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 6,Radiative Forcing of Climate Change,Lead Author,Teruyuki Nakajima,"University of Tokyo, Japan"
 6,Radiative Forcing of Climate Change,Lead Author,G.Y. Shi,"Chinese Academy of Sciences, China"
 6,Radiative Forcing of Climate Change,Lead Author,Susan Solomon,"National Oceanographic and Atmospheric Administration (NOAA), USA"
+,,,,
 6,Radiative Forcing of Climate Change,Review Editor,Fortunat Joos,"University of Bern, Switzerland"
 6,Radiative Forcing of Climate Change,Review Editor,Jayaraman Srinivasan,"Indian Institute of Science, India"
+,,,,
 6,Radiative Forcing of Climate Change,Contributing Author,Richard A. Betts,"Met Office, United Kingdom"
 6,Radiative Forcing of Climate Change,Contributing Author,R. Charlson,"Stockholm University, Sweden"
 6,Radiative Forcing of Climate Change,Contributing Author,C. Chuang,"Lawrence Livermore National Laboratory, USA"
@@ -448,7 +473,9 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 6,Radiative Forcing of Climate Change,Contributing Author,I. Tegen,"Max-Planck Institute for Biogeochemistry, Germany"
 6,Radiative Forcing of Climate Change,Contributing Author,Robert Van Dorland,"Royal Netherlands Meteorological Institute (KNMI), The Netherlands"
 6,Radiative Forcing of Climate Change,Contributing Author,ZhongXiang Zhang,"University of Groningen, The Netherlands"
+,,,,
 7,Physical Climate Processes and Feedbacks,Coordinating Lead Author,Thomas F. Stocker,"University of Bern, Switzerland"
+,,,,
 7,Physical Climate Processes and Feedbacks,Lead Author,R.A. Clarke,"Bedford Institute of Oceanography, Canada"
 7,Physical Climate Processes and Feedbacks,Lead Author,Hervé Le Treut,"Institut Pierre Simon Laplace (IPSL), France"
 7,Physical Climate Processes and Feedbacks,Lead Author,R.S. Lindzen,"Massachusetts Institute of Technology, USA"
@@ -459,8 +486,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 7,Physical Climate Processes and Feedbacks,Lead Author,P.J. Sellers,"National Aeronautics and Space Administration (NASA), USA"
 7,Physical Climate Processes and Feedbacks,Lead Author,Kevin E. Trenberth,"National Center for Atmospheric Research (NCAR), USA"
 7,Physical Climate Processes and Feedbacks,Lead Author,Jurgen Willebrand,"Institut fur Meereskunde an der Universitat Kiel, Germany"
+,,,,
 7,Physical Climate Processes and Feedbacks,Review Editor,S. Manabe,"Research Institute for Global Change, Japan"
 7,Physical Climate Processes and Feedbacks,Review Editor,P. Mason,"Met Office, United Kingdom"
+,,,,
 7,Physical Climate Processes and Feedbacks,Contributing Author,Richard B. Alley,"Pennsylvania State University, USA"
 7,Physical Climate Processes and Feedbacks,Contributing Author,Oleg A. Anisimov,"State Hydrological Institute, Russian Federation"
 7,Physical Climate Processes and Feedbacks,Contributing Author,C. Appenzeller,"University of Bern, Switzerland"
@@ -517,7 +546,9 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 7,Physical Climate Processes and Feedbacks,Contributing Author,M. Visbeck,"Columbia University, USA"
 7,Physical Climate Processes and Feedbacks,Contributing Author,S.E. Wijffels,"Commonwealth Scientific and Industrial Research Organization (CSIRO), Australia"
 7,Physical Climate Processes and Feedbacks,Contributing Author,Oliver Wild,"Frontier Research Center for Global Change, Japan"
+,,,,
 8,Model Evaluation,Coordinating Lead Author,Bryant J. McAvaney,"Bureau of Meteorology, Australia"
+,,,,
 8,Model Evaluation,Lead Author,Curt Covey,"Lawrence Livermore National Laboratory, USA"
 8,Model Evaluation,Lead Author,Sylvie Joussaume,"Institut Pierre Simon Laplace (IPSL), France"
 8,Model Evaluation,Lead Author,Vladimir M. Kattsov,"Voeikov Main Geophysical Observatory, Russian Federation"
@@ -527,8 +558,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 8,Model Evaluation,Lead Author,Andrew J. Weaver,"University of Victoria, Canada"
 8,Model Evaluation,Lead Author,Richard A. Wood,"Met Office, United Kingdom"
 8,Model Evaluation,Lead Author,Zong-Ci Zhao,"China Meteorological Administration, China"
+,,,,
 8,Model Evaluation,Review Editor,Y. Qian,"Nanjing University, China"
 8,Model Evaluation,Review Editor,John M.R. Stone,"Environment Canada, Canada"
+,,,,
 8,Model Evaluation,Contributing Author,Krishna Mirle Achutarao,"Lawrence Livermore National Laboratory, USA"
 8,Model Evaluation,Contributing Author,A. Arking,"National Aeronautics and Space Administration (NASA), USA"
 8,Model Evaluation,Contributing Author,A. Barnston,"National Oceanographic and Atmospheric Administration (NOAA), USA"
@@ -591,8 +624,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 8,Model Evaluation,Contributing Author,Shang-Ping Xie,"University of Hawaii, USA"
 8,Model Evaluation,Contributing Author,Y. Zhang,"University of Michigan, USA"
 8,Model Evaluation,Contributing Author,Francis W. Zwiers,"Environment Canada, Canada"
+,,,,
 9,Projections of Future Climate Change,Coordinating Lead Author,Ulrich Cubasch,"Max-Planck Institute for Meteorology, Germany"
 9,Projections of Future Climate Change,Coordinating Lead Author,Gerald A. Meehl,"National Center for Atmospheric Research (NCAR), USA"
+,,,,
 9,Projections of Future Climate Change,Lead Author,George J. Boer,"Environment Canada, Canada"
 9,Projections of Future Climate Change,Lead Author,Martin Dix,"Commonwealth Scientific and Industrial Research Organization (CSIRO), Australia"
 9,Projections of Future Climate Change,Lead Author,Akira Noda,"Japan Meteorological Agency, Japan"
@@ -600,8 +635,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 9,Projections of Future Climate Change,Lead Author,Catherine A. Senior,"Met Office, United Kingdom"
 9,Projections of Future Climate Change,Lead Author,Ronald J. Stouffer,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 9,Projections of Future Climate Change,Lead Author,K.S. Yap,"Malaysian Meteorological Service, Malaysia"
+,,,,
 9,Projections of Future Climate Change,Review Editor,J.-W. Kim,"Yonsei University, South Korea"
 9,Projections of Future Climate Change,Review Editor,John M.R. Stone,"Environment Canada, Canada"
+,,,,
 9,Projections of Future Climate Change,Contributing Author,Ayako Abe-Ouchi,"University of Tokyo, Japan"
 9,Projections of Future Climate Change,Contributing Author,S. Brinkop,"Institute of Atmospheric Physics Germany, Germany"
 9,Projections of Future Climate Change,Contributing Author,Martin Claussen,"Potsdam Institute for Climate Impact Research, Germany"
@@ -631,8 +668,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 9,Projections of Future Climate Change,Contributing Author,Tom M.L. Wigley,"National Center for Atmospheric Research (NCAR), USA"
 9,Projections of Future Climate Change,Contributing Author,M. Winton,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 9,Projections of Future Climate Change,Contributing Author,Francis W. Zwiers,"Environment Canada, Canada"
+,,,,
 10,Regional Climate Information – Evaluation and Projections,Coordinating Lead Author,Filippo Giorgi,"Abdus Salam International Centre for Theoretical Physics, Italy"
 10,Regional Climate Information – Evaluation and Projections,Coordinating Lead Author,Bruce Charles Hewitson,"University of Cape Town, South Africa"
+,,,,
 10,Regional Climate Information – Evaluation and Projections,Lead Author,John M. Christensen,"Risoe National Laboratory, Denmark"
 10,Regional Climate Information – Evaluation and Projections,Lead Author,Congbin Fu,"Chinese Academy of Sciences, China"
 10,Regional Climate Information – Evaluation and Projections,Lead Author,Mike Hulme,"University of East Anglia, United Kingdom"
@@ -640,8 +679,10 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 10,Regional Climate Information – Evaluation and Projections,Lead Author,Linda O. Mearns,"National Center for Atmospheric Research (NCAR), USA"
 10,Regional Climate Information – Evaluation and Projections,Lead Author,Hans von Storch,"GKSS Research Centre, Germany"
 10,Regional Climate Information – Evaluation and Projections,Lead Author,Penny Whetton,"Commonwealth Scientific and Industrial Research Organization (CSIRO), Australia"
+,,,,
 10,Regional Climate Information – Evaluation and Projections,Review Editor,M. Mietus,"Institute of Meteorology & Water Management, Poland"
 10,Regional Climate Information – Evaluation and Projections,Review Editor,Robert T. Watson,"World Bank, USA"
+,,,,
 10,Regional Climate Information – Evaluation and Projections,Contributing Author,Raymond Arritt,"Iowa State University, USA"
 10,Regional Climate Information – Evaluation and Projections,Contributing Author,Bryson C. Bates,"Commonwealth Scientific and Industrial Research Organization (CSIRO), Australia"
 10,Regional Climate Information – Evaluation and Projections,Contributing Author,Rasmus Benestad,"Frischsenteret, Norway"
@@ -689,16 +730,20 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 10,Regional Climate Information – Evaluation and Projections,Contributing Author,Robert Wilby,"University of Derby, United Kingdom"
 10,Regional Climate Information – Evaluation and Projections,Contributing Author,Oliver Wild,"Frontier Research Center for Global Change, Japan"
 10,Regional Climate Information – Evaluation and Projections,Contributing Author,Y. Xue,"University of California Los Angeles, USA"
+,,,,
 11,Changes in Sea Level,Coordinating Lead Author,John A. Church,"Commonwealth Scientific and Industrial Research Organization (CSIRO), Australia"
 11,Changes in Sea Level,Coordinating Lead Author,K. Gregory,"Centre for Business and the Environment, USA"
+,,,,
 11,Changes in Sea Level,Lead Author,Philippe Huybrechts,"Vrije Universiteit Brussel, Belgium"
 11,Changes in Sea Level,Lead Author,M. Kuhn,"University of Innsbruck, Austria"
 11,Changes in Sea Level,Lead Author,Kurt Lambeck,"Australian National University, Australia"
 11,Changes in Sea Level,Lead Author,M.T. Nhuan,"Hanoi University of Science, Vietnam"
 11,Changes in Sea Level,Lead Author,Dahe Qin,"Chinese Academy of Sciences, China"
 11,Changes in Sea Level,Lead Author,Philip Woodworth,"Bidston Observatory, United Kingdom"
+,,,,
 11,Changes in Sea Level,Review Editor,B.C. Douglas,"University of Maryland, USA"
 11,Changes in Sea Level,Review Editor,A. Ramirez-Rojas,"Universidad Central Venezuela, Venezuela"
+,,,,
 11,Changes in Sea Level,Contributing Author,Oleg A. Anisimov,"State Hydrological Institute, Russian Federation"
 11,Changes in Sea Level,Contributing Author,F.O. Bryan,"Program in Atmospheric and Oceanic Sciences, USA"
 11,Changes in Sea Level,Contributing Author,Anny Cazenave,"Laboratoire d'Etudes en Géophysique et Océanographie Spatiale (LEGOS), France"
@@ -730,12 +775,15 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 11,Changes in Sea Level,Contributing Author,H.J. Zwally,"National Aeronautics and Space Administration (NASA), USA"
 12,Detection of Climate Change and Attribution of Causes,Coordinating Lead Author,David J. Karoly,"Monash University, Australia"
 12,Detection of Climate Change and Attribution of Causes,Coordinating Lead Author,John F. B. Mitchell,"Met Office, United Kingdom"
+,,,,
 12,Detection of Climate Change and Attribution of Causes,Lead Author,Myles R. Allen,"Rutherford Appleton Laboratory, United Kingdom"
 12,Detection of Climate Change and Attribution of Causes,Lead Author,Gabriele C. Hegerl,"Texas A&M University, USA"
 12,Detection of Climate Change and Attribution of Causes,Lead Author,Jose Marengo,"National Institute for Space Research (INPE), Brazil"
 12,Detection of Climate Change and Attribution of Causes,Lead Author,Francis W. Zwiers,"Environment Canada, Canada"
+,,,,
 12,Detection of Climate Change and Attribution of Causes,Review Editor,Frederick H.M. Semazzi,"Southampton Oceanography Centre, United Kingdom"
 12,Detection of Climate Change and Attribution of Causes,Review Editor,Robert T. Watson,"World Bank, USA"
+,,,,
 12,Detection of Climate Change and Attribution of Causes,Contributing Author,Vicente Ricardo Barros,"Universidad de Buenos Aires, Argentina"
 12,Detection of Climate Change and Attribution of Causes,Contributing Author,M. Berliner,"Ohio State University, USA"
 12,Detection of Climate Change and Attribution of Causes,Contributing Author,George J. Boer,"Environment Canada, Canada"
@@ -764,14 +812,18 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 12,Detection of Climate Change and Attribution of Causes,Contributing Author,K.Ya. Vinnikov,"University of Maryland, USA"
 12,Detection of Climate Change and Attribution of Causes,Contributing Author,Tom M.L. Wigley,"National Center for Atmospheric Research (NCAR), USA"
 12,Detection of Climate Change and Attribution of Causes,Contributing Author,Pavel Ya Groisman,"National Oceanographic and Atmospheric Administration (NOAA), USA"
+,,,,
 13,Climate Scenario Development,Coordinating Lead Author,Mike Hulme,"University of East Anglia, United Kingdom"
 13,Climate Scenario Development,Coordinating Lead Author,Linda O. Mearns,"National Center for Atmospheric Research (NCAR), USA"
+,,,,
 13,Climate Scenario Development,Lead Author,Timothy Carter,"Finnish Environment Institute, Finland"
 13,Climate Scenario Development,Lead Author,Rattan Lal,"Ohio State University, USA"
 13,Climate Scenario Development,Lead Author,Rik Leemans,"National Institute for Public Health and the Environment (RIVM), The Netherlands"
 13,Climate Scenario Development,Lead Author,Penny Whetton,"Commonwealth Scientific and Industrial Research Organization (CSIRO), Australia"
+,,,,
 13,Climate Scenario Development,Review Editor,Luis Jose Mata,"Universidad Central Venezuela, Venezuela"
 13,Climate Scenario Development,Review Editor,Robert T. Watson,"World Bank, USA"
+,,,,
 13,Climate Scenario Development,Contributing Author,John Hay,"University of Waikato, New Zealand"
 13,Climate Scenario Development,Contributing Author,Andy Jones,"Met Office, United Kingdom"
 13,Climate Scenario Development,Contributing Author,Richard W. Katz,"National Center for Atmospheric Research (NCAR), USA"
@@ -779,10 +831,14 @@ TS,Technical Summary,Contributing Author,K.S. Yap,"Malaysian Meteorological Serv
 13,Climate Scenario Development,Contributing Author,Raymond C. Smith,"University of California Santa Barbara, USA"
 13,Climate Scenario Development,Contributing Author,Thomas F. Stocker,"University of Bern, Switzerland"
 13,Climate Scenario Development,Contributing Author,Robert Wilby,"University of Derby, United Kingdom"
+,,,,
 14,Advancing our Understanding,Coordinating Lead Author,B. Moore III,"University of New Hampshire, USA"
+,,,,
 14,Advancing our Understanding,Lead Author,W.L. Gates,"Lawrence Livermore National Laboratory, USA"
 14,Advancing our Understanding,Lead Author,Luis Jose Mata,"Universidad Central Venezuela, Venezuela"
 14,Advancing our Understanding,Lead Author,A. Underdal,"University of Oslo, Norway"
+,,,,
 14,Advancing our Understanding,Review Editor,Bert Bolin,"Retired, Sweden"
 14,Advancing our Understanding,Review Editor,A. Ramirez-Rojas,"Universidad Central Venezuela, Venezuela"
+,,,,
 14,Advancing our Understanding,Contributing Author,Ronald J. Stouffer,"National Oceanographic and Atmospheric Administration (NOAA), USA"
