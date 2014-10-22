@@ -1,4 +1,4 @@
 Year: 2001
 Title: Technical Summary
-URL: http://www.grida.no/publications/other/ipcc_tar/?src=/climate/ipcc_tar/wg1/010.htm
+URL: http://www.grida.no/climate/ipcc_tar/wg1/010.htm
 Tags: ipcc, ar3, wg1
