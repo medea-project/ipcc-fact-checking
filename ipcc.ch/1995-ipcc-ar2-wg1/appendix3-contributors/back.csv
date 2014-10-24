@@ -1,12 +1,42 @@
 #,Chapter,Role,Name,"Institution, Country"
+TS,Technical Summary,Lead Author,D.L. Albritton,"National Oceanographic and Atmospheric Administration (NOAA), USA"
+TS,Technical Summary,Lead Author,Bert Bolin,"N/A, Sweden"
+TS,Technical Summary,Lead Author,Kenneth L. Denman,"Institute of Ocean Sciences, Canada"
+TS,Technical Summary,Lead Author,Robert E. Dickinson,"University of Arizona, USA"
+TS,Technical Summary,Lead Author,W.L. Gates,"Lawrence Livermore National Laboratory, USA"
+TS,Technical Summary,Lead Author,H. Grassl,"World Meteorological Organization (WMO), Switzerland"
+TS,Technical Summary,Lead Author,Michael Grubb,"Royal Institute of International Affairs, United Kingdom"
+TS,Technical Summary,Lead Author,N. Harris,"European Ozone Research Coordinating Unit, United Kingdom"
+TS,Technical Summary,Lead Author,J.T. Houghton,"N/A, United Kingdom"
+TS,Technical Summary,Lead Author,P. Jonas,"University of Manchester Institute of Science and Technology (UMIST), United Kingdom"
+TS,Technical Summary,Lead Author,A. Kattenberg,"Royal Netherlands Meteorological Institute (KNMI), The Netherlands"
+TS,Technical Summary,Lead Author,Gordon McBean,"Environment Canada, Canada"
+TS,Technical Summary,Lead Author,Mack McFarland,"United Nations Environment Programme (UNEP), Kenya"
+TS,Technical Summary,Lead Author,G. Meira,"Agencia Espacial Brasileira, Brazil"
+TS,Technical Summary,Lead Author,J.M. Melillo,"Woods Hole Oceanographic Institution, USA"
+TS,Technical Summary,Lead Author,Neville Nicholls,"Bureau of Meteorology, Australia"
+TS,Technical Summary,Lead Author,Laban J. Ogallo,"University of Nairobi, Kenya"
+TS,Technical Summary,Lead Author,Michael Oppenheimer,"Environmental Defense Fund, USA"
+TS,Technical Summary,Lead Author,Michael Prather,"University of California Irvine, USA"
+TS,Technical Summary,Lead Author,Benjamin D. Santer,"Lawrence Livermore National Laboratory, USA"
+TS,Technical Summary,Lead Author,David Schimel,"National Center for Atmospheric Research (NCAR), USA"
+TS,Technical Summary,Lead Author,Keith P. Shine,"University of Reading, United Kingdom"
+TS,Technical Summary,Lead Author,Kevin E. Trenberth,"National Center for Atmospheric Research (NCAR), USA"
+TS,Technical Summary,Lead Author,R. Wanick,"University of Waikato, New Zealand"
+TS,Technical Summary,Lead Author,Robert T. Watson,"Office of Science and Technology Policy (OSTP), USA"
+TS,Technical Summary,Lead Author,John Zillman,"Bureau of Meteorology, Australia"
+,,,,
 1,The Climate System: an Overview,Coordinating Lead Author,Kevin E. Trenberth,"National Center for Atmospheric Research (NCAR), USA"
+,,,,
 1,The Climate System: an Overview,Lead Author,J.T. Houghton,"N/A, United Kingdom"
 1,The Climate System: an Overview,Lead Author,G. Meira,"Agencia Espacial Brasileira, Brazil"
+,,,,
 2,Radiative Forcing of Climate Change,Coordinating Lead Author,D.L. Albritton,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 2,Radiative Forcing of Climate Change,Coordinating Lead Author,P. Jonas,"University of Manchester Institute of Science and Technology (UMIST), United Kingdom"
 2,Radiative Forcing of Climate Change,Coordinating Lead Author,Michael Prather,"University of California Irvine, USA"
 2,Radiative Forcing of Climate Change,Coordinating Lead Author,David Schimel,"National Center for Atmospheric Research (NCAR), USA"
 2,Radiative Forcing of Climate Change,Coordinating Lead Author,Keith P. Shine,"University of Reading, United Kingdom"
+,,,,
 2,Radiative Forcing of Climate Change,Lead Author,D. Alves,"National Institute for Space Research (INPE), Brazil"
 2,Radiative Forcing of Climate Change,Lead Author,R. Charlson,"University of Washington, USA"
 2,Radiative Forcing of Climate Change,Lead Author,R.G. Derwent,"Met Office, United Kingdom"
@@ -28,6 +58,7 @@
 2,Radiative Forcing of Climate Change,Lead Author,Tom M.L. Wigley,"University Corporation for Atmospheric Research (UCAR), USA"
 2,Radiative Forcing of Climate Change,Lead Author,Donald J. Wuebbles,"Lawrence Livermore National Laboratory, USA"
 2,Radiative Forcing of Climate Change,Lead Author,X. Zhou,"China Meteorological Administration, China"
+,,,,
 2,Radiative Forcing of Climate Change,Contributing Author,F. Alyea,"Georgia Institute of Technology, USA"
 2,Radiative Forcing of Climate Change,Contributing Author,R. Anderson,"St. George's Medical School, United Kingdom"
 2,Radiative Forcing of Climate Change,Contributing Author,M. Andreae,"Max-Planck Institute for Chemistry, Germany"
@@ -37,6 +68,7 @@
 2,Radiative Forcing of Climate Change,Contributing Author,J. Butler,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 2,Radiative Forcing of Climate Change,Contributing Author,D. Cunnold,"Georgia Institute of Technology, USA"
 2,Radiative Forcing of Climate Change,Contributing Author,J. Dignon,"Lawrence Livermore National Laboratory, USA"
+,,,,
 2,Radiative Forcing of Climate Change,Contributing Author,E. Dlugokencky,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 2,Radiative Forcing of Climate Change,Contributing Author,James W. Elkins,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 2,Radiative Forcing of Climate Change,Contributing Author,Inez Fung,"University of Victoria, Canada"
@@ -77,12 +109,16 @@
 2,Radiative Forcing of Climate Change,Contributing Author,Ray Weiss,"University of California San Diego, USA"
 2,Radiative Forcing of Climate Change,Contributing Author,A. Wharner,"Institut fur Chemie der KFA Julich GmbH, Germany"
 2,Radiative Forcing of Climate Change,Contributing Author,Tim Whorf,"University of California San Diego, USA"
+,,,,
 3,Observed Climate Variability and Change,Coordinating Lead Author,Neville Nicholls,"Bureau of Meteorology, Australia"
+,,,,
 3,Observed Climate Variability and Change,Lead Author,G.V. Gruza,"Institute of Global Climate and Ecology, Russian Federation"
 3,Observed Climate Variability and Change,Lead Author,Jean Jouzel,"LMCE/DSM, France"
 3,Observed Climate Variability and Change,Lead Author,Thomas R. Karl,"National Oceanographic and Atmospheric Administration (NOAA), USA"
+,,,,
 3,Observed Climate Variability and Change,Lead Author,Laban J. Ogallo,"University of Nairobi, Kenya"
 3,Observed Climate Variability and Change,Lead Author,David E. Parker,"Met Office, United Kingdom"
+,,,,
 3,Observed Climate Variability and Change,Contributing Author,J. Angella,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 3,Observed Climate Variability and Change,Contributing Author,S. Anjian,"National Meteorological Centre, China"
 3,Observed Climate Variability and Change,Contributing Author,Phillip A. Arkin,"National Weather Service, USA"
@@ -128,6 +164,7 @@
 3,Observed Climate Variability and Change,Contributing Author,L. Hopkins,"Bureau of Meteorology, Australia"
 3,Observed Climate Variability and Change,Contributing Author,Mike Hulme,"University of East Anglia, United Kingdom"
 3,Observed Climate Variability and Change,Contributing Author,N. Ivachtchenko,"Hydrometeorological Research Centre of Russian Federation, Russian Federation"
+,,,,
 3,Observed Climate Variability and Change,Contributing Author,P. Jonas,"University of Manchester Institute of Science and Technology (UMIST), United Kingdom"
 3,Observed Climate Variability and Change,Contributing Author,Richard W. Katz,"National Center for Atmospheric Research (NCAR), USA"
 3,Observed Climate Variability and Change,Contributing Author,B. Kininmonth,"Bureau of Meteorology, Australia"
@@ -176,12 +213,15 @@
 3,Observed Climate Variability and Change,Contributing Author,Pavel Ya Groisman,"State Hydrological Institute, Russian Federation"
 3,Observed Climate Variability and Change,Contributing Author,Tetsuzo Yasunari,"University of Tsukuba, Japan"
 3,Observed Climate Variability and Change,Contributing Author,Q. Zu Jiangsu,"Meteorological Institute, China"
+,,,,
 4,Climate Processes,Coordinating Lead Author,Robert E. Dickinson,"University of Arizona, USA"
+,,,,
 4,Climate Processes,Lead Author,Pedro Leite da Silvia-Dias,"University of Sao Paulo, Brazil"
 4,Climate Processes,Lead Author,V. Meleshko,"Voeikov Main Geophysical Observatory, Russian Federation"
 4,Climate Processes,Lead Author,David A. Randall,"Colorado State University, USA"
 4,Climate Processes,Lead Author,E. Sarachik,"University of Washington, USA"
 4,Climate Processes,Lead Author,Julia Slingo,"Met Office, United Kingdom"
+,,,,
 4,Climate Processes,Contributing Author,A. Baitos,"Pennsylvania State University, USA"
 4,Climate Processes,Contributing Author,Olivier Boucher,"Institut Pierre Simon Laplace (IPSL), France"
 4,Climate Processes,Contributing Author,R.D. Cess,"State University of New York, USA"
@@ -213,7 +253,9 @@
 4,Climate Processes,Contributing Author,H. Sundquist,"University of Stockholm, Sweden"
 4,Climate Processes,Contributing Author,A. Vogelmann,"University of Arizona, USA"
 4,Climate Processes,Contributing Author,Andrew J. Weaver,"University of Victoria, Canada"
+,,,,
 5,Climate Models - Evaluation,Coordinating Lead Author,W.L. Gates,"Lawrence Livermore National Laboratory, USA"
+,,,,
 5,Climate Models - Evaluation,Lead Author,George J. Boer,"Environment Canada, Canada"
 5,Climate Models - Evaluation,Lead Author,Christopher K. Folland,"Met Office, United Kingdom"
 5,Climate Models - Evaluation,Lead Author,Ann Henderson-Sellers,"Macquarie University, Australia"
@@ -222,6 +264,7 @@
 5,Climate Models - Evaluation,Lead Author,Frederick H.M. Semazzi,"North Carolina State University, USA"
 5,Climate Models - Evaluation,Lead Author,Andrew J. Weaver,"University of Victoria, Canada"
 5,Climate Models - Evaluation,Lead Author,Q.-C. Zeng,"Chinese Academy of Sciences, China"
+,,,,
 5,Climate Models - Evaluation,Contributing Author,J. Boyle,"Lawrence Livermore National Laboratory, USA"
 5,Climate Models - Evaluation,Contributing Author,R.D. Cess,"State University of New York, USA"
 5,Climate Models - Evaluation,Contributing Author,T. Chen,"Macquarie University, Australia"
@@ -255,6 +298,7 @@
 5,Climate Models - Evaluation,Contributing Author,K. McGuffie,"University of Technology, USA"
 5,Climate Models - Evaluation,Contributing Author,Gerald A. Meehl,"National Center for Atmospheric Research (NCAR), USA"
 5,Climate Models - Evaluation,Contributing Author,Igor Mokhov,"Institute of Atmospheric Physics, Russian Federation"
+,,,,
 5,Climate Models - Evaluation,Contributing Author,Akira Noda,"Japan Meteorological Agency, Japan"
 5,Climate Models - Evaluation,Contributing Author,Bette Otto-Bliesner,"University of Texas, USA"
 5,Climate Models - Evaluation,Contributing Author,Timothy N. Palmer,"European Centre for Medium-Range Weather Forecasts (ECMWF), United Kingdom"
@@ -288,7 +332,9 @@
 5,Climate Models - Evaluation,Contributing Author,M. Zhang,"State University of New York Stony Brook, USA"
 5,Climate Models - Evaluation,Contributing Author,R. Zhang,"Chinese Academy of Sciences, China"
 5,Climate Models - Evaluation,Contributing Author,Francis W. Zwiers,"Environment Canada, Canada"
+,,,,
 6,Climate Models – Projections for the Future,Coordinating Lead Author,A. Kattenberg,"Royal Netherlands Meteorological Institute (KNMI), The Netherlands"
+,,,,
 6,Climate Models – Projections for the Future,Lead Author,Filippo Giorgi,"National Center for Atmospheric Research (NCAR), USA"
 6,Climate Models – Projections for the Future,Lead Author,H. Grassl,"World Meteorological Organization (WMO), Switzerland"
 6,Climate Models – Projections for the Future,Lead Author,Gerald A. Meehl,"National Center for Atmospheric Research (NCAR), USA"
@@ -297,6 +343,7 @@
 6,Climate Models – Projections for the Future,Lead Author,T. Tokioka,"Japan Meteorological Agency, Japan"
 6,Climate Models – Projections for the Future,Lead Author,Andrew J. Weaver,"University of Victoria, Canada"
 6,Climate Models – Projections for the Future,Lead Author,Tom M.L. Wigley,"University Corporation for Atmospheric Research (UCAR), USA"
+,,,,
 6,Climate Models – Projections for the Future,Contributing Author,A. Barros,"Pennsylvania State University, USA"
 6,Climate Models – Projections for the Future,Contributing Author,Martin Beniston,"ETH Zurich, Switzerland"
 6,Climate Models – Projections for the Future,Contributing Author,George J. Boer,"Environment Canada, Canada"
@@ -345,6 +392,7 @@
 6,Climate Models – Projections for the Future,Contributing Author,N.L. Miller,"Lawrence Livermore National Laboratory, USA"
 6,Climate Models – Projections for the Future,Contributing Author,James M. Murphy,"Met Office, United Kingdom"
 6,Climate Models – Projections for the Future,Contributing Author,Akira Noda,"Japan Meteorological Agency, Japan"
+,,,,
 6,Climate Models – Projections for the Future,Contributing Author,M. Noguer,"Met Office, United Kingdom"
 6,Climate Models – Projections for the Future,Contributing Author,J.M. Oberhuber,"Deutsches Klimarechenzentrum, Germany"
 6,Climate Models – Projections for the Future,Contributing Author,S. Parey,"Electricite de France (EDF), France"
@@ -368,11 +416,14 @@
 6,Climate Models – Projections for the Future,Contributing Author,D. Wilks,"Cornell University, USA"
 6,Climate Models – Projections for the Future,Contributing Author,I. Woodward,"University of Sheffield, United Kingdom"
 6,Climate Models – Projections for the Future,Contributing Author,Francis W. Zwiers,"Environment Canada, Canada"
+,,,,
 7,Changes in Sea Level,Coordinating Lead Author,D. Warrick,"University of Waikato, New Zealand"
+,,,,
 7,Changes in Sea Level,Lead Author,C. Le Provost,"Institut de Mecanique de Grenoble, France"
 7,Changes in Sea Level,Lead Author,M. Meier,"INSTAAR, USA"
 7,Changes in Sea Level,Lead Author,Johannes Oerlemans,"University of Utrecht, The Netherlands"
 7,Changes in Sea Level,Lead Author,Philip Woodworth,"Permanent Service for Mean Sea Level (PSMSL), United Kingdom"
+,,,,
 7,Changes in Sea Level,Contributing Author,Richard B. Alley,"Pennsylvania State University, USA"
 7,Changes in Sea Level,Contributing Author,C. Bentley,"University of Wisconsin, USA"
 7,Changes in Sea Level,Contributing Author,R. Bindschadler,"National Aeronautics and Space Administration (NASA), USA"
@@ -387,14 +438,18 @@
 7,Changes in Sea Level,Contributing Author,Wilfreid Haeberli,"ETH Zurich, Switzerland"
 7,Changes in Sea Level,Contributing Author,Philippe Huybrechts,"Alfred Wegener Institute for Polar and Marine Research, Germany"
 7,Changes in Sea Level,Contributing Author,T. Johannesson,"Orkustofnun (National Energy Authority), Iceland"
+,,,,
 7,Changes in Sea Level,Contributing Author,U. Mikolajewicz,"Max-Planck Institute for Meteorology, Germany"
 7,Changes in Sea Level,Contributing Author,Sarah C.B. Raper,"University of East Anglia, United Kingdom"
 7,Changes in Sea Level,Contributing Author,Dork Sahagian,"University of New Hampshire, USA"
 7,Changes in Sea Level,Contributing Author,Tom M.L. Wigley,"University Corporation for Atmospheric Research (UCAR), USA"
+,,,,
 8,Detection of Climate Change and Attribution of Causes,Coordinating Lead Author,Benjamin D. Santer,"Lawrence Livermore National Laboratory, USA"
+,,,,
 8,Detection of Climate Change and Attribution of Causes,Lead Author,Assaf Anyamba,"National Aeronautics and Space Administration (NASA), USA"
 8,Detection of Climate Change and Attribution of Causes,Lead Author,T.P. Barnett,"University of California San Diego, USA"
 8,Detection of Climate Change and Attribution of Causes,Lead Author,Tom M.L. Wigley,"University Corporation for Atmospheric Research (UCAR), USA"
+,,,,
 8,Detection of Climate Change and Attribution of Causes,Contributing Author,P. Bloomfield,"Merrill Lynch Derivative Products, USA"
 8,Detection of Climate Change and Attribution of Causes,Contributing Author,Edward Cook,"Columbia University, USA"
 8,Detection of Climate Change and Attribution of Causes,Contributing Author,Curt Covey,"Lawrence Livermore National Laboratory, USA"
@@ -425,11 +480,14 @@
 8,Detection of Climate Change and Attribution of Causes,Contributing Author,Karl E. Taylor,"Lawrence Livermore National Laboratory, USA"
 8,Detection of Climate Change and Attribution of Causes,Contributing Author,Simon Tett,"Met Office, United Kingdom"
 8,Detection of Climate Change and Attribution of Causes,Contributing Author,Francis W. Zwiers,"Environment Canada, Canada"
+,,,,
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Coordinating Lead Author,J.M. Melillo,"Woods Hole Oceanographic Institution, USA"
+,,,,
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Lead Author,G.D. Farquhar,"Australian National University, Australia"
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Lead Author,L.C. Prentice,"Lund University, Sweden"
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Lead Author,O. Sala,"Universidad de Buenos Aires, Argentina"
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Lead Author,E. Schuize,"Bayreuth University, Germany"
+,,,,
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,P. Bartiein,"University of Oregon, USA"
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,F. Bazzaz,"Harvard University, USA"
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,R. Bradshaw,"Swedish University of Agricultural Sciences, Sweden"
@@ -459,9 +517,12 @@
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,T. Smith,"University of Virginia, USA"
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,T. Webb,"Brown University, USA"
 9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,C. Whitiock,"University of Oregon, USA"
+,,,,
 10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,Coordinating Lead Author,Kenneth L. Denman,"Institute of Ocean Sciences, Canada"
+,,,,
 10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,Lead Author,E. Hofmann,"Old Dominion University, USA"
 10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,Lead Author,Harvey J. Marchant,"Department of Education,Science and Training, Australia"
+,,,,
 10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,M. Abbott,"Oregon State University, USA"
 10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,T. Bates,"National Oceanographic and Atmospheric Administration (NOAA), USA"
 10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,S. Calvert,"University of British Columbia, Canada"
@@ -479,32 +540,8 @@
 10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,K. Van Scoy,"Plymouth Marine Laboratory, United Kingdom"
 10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,John E. Walsh,"University of Illinois at Urbana-Champaign, USA"
 10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,Contributing Author,A. Watson,"Plymouth Marine Laboratory, United Kingdom"
+,,,,
 11,Advancing our Understanding,Coordinating Lead Author,Gordon McBean,"Environment Canada, Canada"
+,,,,
 11,Advancing our Understanding,Lead Author,P. Liss,"University of East Anglia, United Kingdom"
 11,Advancing our Understanding,Lead Author,Stephen Schneider,"Stanford University, USA"
-TS,Technical Summary,Lead Author,D.L. Albritton,"National Oceanographic and Atmospheric Administration (NOAA), USA"
-TS,Technical Summary,Lead Author,Bert Bolin,"N/A, Sweden"
-TS,Technical Summary,Lead Author,Kenneth L. Denman,"Institute of Ocean Sciences, Canada"
-TS,Technical Summary,Lead Author,Robert E. Dickinson,"University of Arizona, USA"
-TS,Technical Summary,Lead Author,W.L. Gates,"Lawrence Livermore National Laboratory, USA"
-TS,Technical Summary,Lead Author,H. Grassl,"World Meteorological Organization (WMO), Switzerland"
-TS,Technical Summary,Lead Author,Michael Grubb,"Royal Institute of International Affairs, United Kingdom"
-TS,Technical Summary,Lead Author,N. Harris,"European Ozone Research Coordinating Unit, United Kingdom"
-TS,Technical Summary,Lead Author,J.T. Houghton,"N/A, United Kingdom"
-TS,Technical Summary,Lead Author,P. Jonas,"University of Manchester Institute of Science and Technology (UMIST), United Kingdom"
-TS,Technical Summary,Lead Author,A. Kattenberg,"Royal Netherlands Meteorological Institute (KNMI), The Netherlands"
-TS,Technical Summary,Lead Author,Gordon McBean,"Environment Canada, Canada"
-TS,Technical Summary,Lead Author,Mack McFarland,"United Nations Environment Programme (UNEP), Kenya"
-TS,Technical Summary,Lead Author,G. Meira,"Agencia Espacial Brasileira, Brazil"
-TS,Technical Summary,Lead Author,J.M. Melillo,"Woods Hole Oceanographic Institution, USA"
-TS,Technical Summary,Lead Author,Neville Nicholls,"Bureau of Meteorology, Australia"
-TS,Technical Summary,Lead Author,Laban J. Ogallo,"University of Nairobi, Kenya"
-TS,Technical Summary,Lead Author,Michael Oppenheimer,"Environmental Defense Fund, USA"
-TS,Technical Summary,Lead Author,Michael Prather,"University of California Irvine, USA"
-TS,Technical Summary,Lead Author,Benjamin D. Santer,"Lawrence Livermore National Laboratory, USA"
-TS,Technical Summary,Lead Author,David Schimel,"National Center for Atmospheric Research (NCAR), USA"
-TS,Technical Summary,Lead Author,Keith P. Shine,"University of Reading, United Kingdom"
-TS,Technical Summary,Lead Author,Kevin E. Trenberth,"National Center for Atmospheric Research (NCAR), USA"
-TS,Technical Summary,Lead Author,R. Wanick,"University of Waikato, New Zealand"
-TS,Technical Summary,Lead Author,Robert T. Watson,"Office of Science and Technology Policy (OSTP), USA"
-TS,Technical Summary,Lead Author,John Zillman,"Bureau of Meteorology, Australia"
