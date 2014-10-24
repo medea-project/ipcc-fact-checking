@@ -1,4 +1,4 @@
 Year: 2001
 Title: 6. Policies, Measures, and Instruments
-URL: http://www.grida.no/publications/climate/ipcc_tar/wg3/224.htm
+URL: http://www.grida.no/climate/ipcc_tar/wg3/224.htm
 Tags: ipcc, ar3, wg3
