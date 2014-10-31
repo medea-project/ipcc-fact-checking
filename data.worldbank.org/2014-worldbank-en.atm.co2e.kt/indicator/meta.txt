@@ -1,0 +1,17 @@
+Year: 2014
+Title: CO2 emissions (kt)
+URL: http://api.worldbank.org/v2/en/indicator/en.atm.co2e.kt?downloadformat=csv
+File: en.atm.co2e.kt_Indicator_en_csv_v2.csv
+Tags: worldbank, data, carbon
+
+Description:
+Carbon dioxide emissions are those stemming
+from the burning of fossil fuels
+and the manufacture of cement.
+
+They include carbon dioxide produced during consumption
+of solid, liquid, and gas fuels and gas flaring.
+
+Source: Carbon Dioxide Information Analysis Center,
+Environmental Sciences Division, Oak Ridge National Laboratory,
+Tennessee, United States.
