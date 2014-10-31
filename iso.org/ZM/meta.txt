@@ -1,0 +1,11 @@
+Year: 2014
+Title: Alpha-2 code ZM
+URL: https://www.iso.org/obp/ui/#iso:code:3166:ZM
+Tags: iso, country, code
+
+Description:
+Standard: ISO 3166 — Codes for the representation
+of names of countries and their subdivisions
+
+Committee: ISO/TC 46
+ICS: 01.140.30
