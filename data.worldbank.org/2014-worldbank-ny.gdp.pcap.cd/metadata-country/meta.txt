@@ -1,0 +1,5 @@
+Year: 2014
+Title: GDP per capita (current US$)
+URL: http://api.worldbank.org/v2/en/indicator/ny.gdp.pcap.cd?downloadformat=csv
+File: Metadata_Country_ny.gdp.pcap.cd_Indicator_en_csv_v2.csv
+Tags: worldbank, metadata, gdp

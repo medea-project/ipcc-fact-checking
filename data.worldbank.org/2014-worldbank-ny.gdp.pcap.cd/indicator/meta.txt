@@ -1,0 +1,23 @@
+Year: 2014
+Title: GDP per capita (current US$)
+URL: http://api.worldbank.org/v2/en/indicator/ny.gdp.pcap.cd?downloadformat=csv
+File: ny.gdp.pcap.cd_Indicator_en_csv_v2.csv
+Tags: worldbank, data, gdp
+
+Description:
+GDP per capita is gross domestic product
+divided by midyear population.
+
+GDP is the sum of gross value added
+by all resident producers in the economy
+plus any product taxes
+and minus any subsidies not included in the value of the products.
+
+It is calculated without making deductions
+for depreciation of fabricated assets
+or for depletion and degradation of natural resources.
+
+Data are in current U.S. dollars.
+
+Source: World Bank national accounts data,
+and OECD National Accounts data files.
