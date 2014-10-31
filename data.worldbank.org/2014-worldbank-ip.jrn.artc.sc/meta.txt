@@ -1,0 +1,16 @@
+Year: 2014
+Title: Scientific and technical journal articles
+URL: http://data.worldbank.org/indicator/IP.JRN.ARTC.SC
+Tags: worldbank, data, academic, science, technology, papers
+
+Description:
+Scientific and technical journal articles refer to
+the number of scientific and engineering articles
+published in the following fields:
+physics, biology, chemistry, mathematics,
+clinical medicine, biomedical research,
+engineering and technology,
+and earth and space sciences.
+
+Source: National Science Foundation,
+Science and Engineering Indicators.
