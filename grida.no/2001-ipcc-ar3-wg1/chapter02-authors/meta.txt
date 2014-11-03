@@ -1,4 +1,4 @@
 Year: 2001
 Title: 2. Observed Climate Variability and Change
-ULR: http://www.grida.no/climate/ipcc_tar/wg1/048.htm
+URL: http://www.grida.no/climate/ipcc_tar/wg1/048.htm
 Tags: ipcc, ar3, wg1
