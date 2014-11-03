@@ -1,6 +1,6 @@
 Year: 2014
 Title: CO2 emissions (kt)
-URL: http://data.worldbank.org/indicator/EN.ATM.CO2E.KT/countries
+URL: http://data.worldbank.org/indicator/EN.ATM.CO2E.KT
 Tags: worldbank, data, carbon
 
 Description:
