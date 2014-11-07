@@ -1,0 +1,5 @@
+Year: 1990
+Title: Narrowing the Uncertainties: A Scientific Action Plan for Improved Prediction of Global Climate Change
+File: ../ipcc_far_wg_I_full_report.pdf
+Pages: 359
+Tags: ipcc, ar1, wg1
