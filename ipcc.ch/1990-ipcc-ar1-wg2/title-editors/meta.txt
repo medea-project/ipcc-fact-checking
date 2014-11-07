@@ -1,0 +1,5 @@
+Year: 1990
+Title: Climate Change: The IPCC Impacts Assessment
+File: ../ipcc_far_wg_II_full_report.pdf
+Pages: 7
+Tags: ipcc, ar1, wg2
