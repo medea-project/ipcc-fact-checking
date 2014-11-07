@@ -1,0 +1,5 @@
+Year: 1990
+Title: Technology Development and Transfer
+File: ../ipcc_far_wg_III_full_report.pdf
+Pages: 279
+Tags: ipcc, ar1, wg3

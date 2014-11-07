@@ -1,0 +1,5 @@
+Year: 1990
+Title: Coastal Zone Management
+File: ../ipcc_far_wg_III_full_report.pdf
+Pages: 189
+Tags: ipcc, ar1, wg3

@@ -1,0 +1,5 @@
+Year: 1990
+Title: Financial Mechanisms
+File: ../ipcc_far_wg_III_full_report.pdf
+Pages: 305
+Tags: ipcc, ar1, wg3
