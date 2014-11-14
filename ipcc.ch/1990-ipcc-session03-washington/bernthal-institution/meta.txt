@@ -1,0 +1,10 @@
+Year: 1990
+Title: 1.1
+File: ../third-session-report.pdf
+Pages: 4
+
+Description:
+"(...) The President of the United States of America, Mr. George Bush,
+addressed the Panel. He said: (...)
+(...) I want to thank Assistant Secretary Bernthal
+for his leadership from the U.S. side of things. (...)"
