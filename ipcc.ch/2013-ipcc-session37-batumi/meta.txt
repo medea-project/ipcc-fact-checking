@@ -1,0 +1,8 @@
+Year: 2013
+Title: Report
+URL: http://www.ipcc.ch/meetings/session37/final_report_37.pdf
+Tags: ipcc, session37, meeting
+
+Description:
+IPCC-37 (adoption and acceptance of 2 Methodology Reports),
+Batumi, Georgia, 14 - 18 October 2013

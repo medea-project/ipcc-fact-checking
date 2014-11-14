@@ -1,0 +1,9 @@
+Year: 2007
+Title: Report
+URL: http://www.ipcc.ch/meetings/session26/final_report_26.pdf
+Tags: ipcc, session26, meeting
+
+Description:
+9th Session of the IPCC Working Group III
+and 26th Session of the IPCC,
+Bangkok, Thailand, 30 April - 4 May 2007

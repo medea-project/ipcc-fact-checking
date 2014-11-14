@@ -1,0 +1,7 @@
+Year: 2012
+Title: Report
+URL: http://www.ipcc.ch/meetings/session35/final_report_35.pdf
+Tags: ipcc, session35, meeting
+
+Description:
+35th Session of the IPCC, Geneva, Switzerland, 6 - 9 June 2012

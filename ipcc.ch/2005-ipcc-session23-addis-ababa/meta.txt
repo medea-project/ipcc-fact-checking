@@ -1,0 +1,8 @@
+Year: 2005
+Title: Report
+URL: http://www.ipcc.ch/meetings/session23/final-report.pdf
+Tags: ipcc, session23, meeting
+
+Description:
+Second Joint Session IPCC Working Groups I & III and 23rd Session,
+Addis Ababa, Ethiopia, 6-8 April 2005

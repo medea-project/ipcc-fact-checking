@@ -1,0 +1,7 @@
+Year: 2013
+Title: Report
+URL: http://www.ipcc.ch/meetings/session36/final_report_36.pdf
+Tags: ipcc, session36, meeting
+
+Description:
+IPCC WGI-12 and IPCC-36, Stockholm, Sweden, 23 - 26 September 2013

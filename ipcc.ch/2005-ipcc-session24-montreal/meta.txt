@@ -1,0 +1,9 @@
+Year: 2005
+Title: Report
+URL: http://www.ipcc.ch/meetings/session24/final-report.pdf
+Tags: ipcc, session24, meeting
+
+Description:
+8th Session of the IPCC Working Group III
+and 24th Session of the IPCC,
+Montreal, 22-24 and 26-28 September 2005

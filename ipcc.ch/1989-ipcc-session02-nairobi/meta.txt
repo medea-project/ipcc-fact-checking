@@ -1,0 +1,7 @@
+Year: 1989
+Title: Report
+URL: http://www.ipcc.ch/meetings/session02/second-session-report.pdf
+Tags: ipcc, session02, meeting
+
+Description:
+2nd Session of the IPCC, Nairobi, 28-30 June 1989

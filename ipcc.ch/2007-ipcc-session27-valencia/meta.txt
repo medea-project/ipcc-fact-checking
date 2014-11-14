@@ -1,0 +1,7 @@
+Year: 2007
+Title: Report
+URL: http://www.ipcc.ch/meetings/session27/final-report.pdf
+Tags: ipcc, session27, meeting
+
+Description:
+27th Session of the IPCC, Valencia, 12-17 November 2007

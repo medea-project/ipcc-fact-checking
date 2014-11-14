@@ -1,0 +1,8 @@
+Year: 2002
+Title: Report
+URL: http://www.ipcc.ch/meetings/session19/final-report.pdf
+Tags: ipcc, session19, meeting
+
+Description:
+19th Session of the IPCC, Geneva, Switzerland,
+17-20 (morning only) April 2002

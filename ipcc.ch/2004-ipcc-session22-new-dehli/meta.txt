@@ -1,0 +1,7 @@
+Year: 2004
+Title: Report
+URL: http://www.ipcc.ch/meetings/session22/final-report.pdf
+Tags: ipcc, session22, meeting
+
+Description:
+22nd Session of the IPCC, New Delhi, India, 9-11 November 2004

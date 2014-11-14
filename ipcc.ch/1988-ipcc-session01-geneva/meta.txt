@@ -1,0 +1,7 @@
+Year: 1988
+Title: Report
+URL: http://www.ipcc.ch/meetings/session01/first-final-report.pdf
+Tags: ipcc, session01, meeting
+
+Description:
+1st Session of the IPCC, Geneva, 9 -11 November 1988

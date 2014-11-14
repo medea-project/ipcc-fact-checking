@@ -1,0 +1,7 @@
+Year: 1992
+Title: Report
+URL: http://www.ipcc.ch/meetings/session07/seventh-session-report.pdf
+Tags: ipcc, session07, meeting
+
+Description:
+7th Session of the IPCC, Geneva, 10-12 February 1992

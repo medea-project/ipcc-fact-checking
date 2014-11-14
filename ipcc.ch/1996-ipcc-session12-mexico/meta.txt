@@ -1,0 +1,7 @@
+Year: 1996
+Title: Report
+URL: http://www.ipcc.ch/meetings/session12/twelfth-session-report.pdf
+Tags: ipcc, session12, meeting
+
+Description:
+12th Session of the IPCC, Mexico City, 11-13 September 1996

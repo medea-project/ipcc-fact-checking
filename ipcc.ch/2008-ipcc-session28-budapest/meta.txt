@@ -1,0 +1,7 @@
+Year: 2008
+Title: Report
+URL: http://www.ipcc.ch/meetings/session28/final-report.pdf
+Tags: ipcc, session28, meeting
+
+Description:
+28th Session of the IPCC, Budapest, Hungary, 9-10 April 2008

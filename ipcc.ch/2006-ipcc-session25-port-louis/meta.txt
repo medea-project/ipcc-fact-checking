@@ -1,0 +1,7 @@
+Year: 2006
+Title: Report
+URL: http://www.ipcc.ch/meetings/session25/final-report.pdf
+Tags: ipcc, session25, meeting
+
+Description:
+25th Session of the IPCC, Port Louis, Mauritius, 26-28 April 2006

@@ -1,0 +1,7 @@
+Year: 1995
+Title: Report
+URL: http://www.ipcc.ch/meetings/session11/eleventh-session-report.pdf
+Tags: ipcc, session11, meeting
+
+Description:
+11th Session of the IPCC, Rome, 11-15 December 1995
