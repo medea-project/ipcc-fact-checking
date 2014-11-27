@@ -1,11 +1,45 @@
 Year: 2014
 Title: TECHNICAL SUMMARY
-URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-TS_FGDall.pdf
+URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-TS_FINAL.pdf
 Tags: ipcc, ar5, wg2
 
 Description:
-FINAL DRAFT
-IPCC WGII AR5 Technical Summary
-Do Not Cite, Quote, or Distribute
-Prior to Public Release
-on 31 March 2014
+Field, C.B., V.R. Barros, K.J. Mach,
+M.D. Mastrandrea, M. van Aalst, W.N. Adger,
+D.J. Arent, J. Barnett, R. Betts,
+T.E. Bilir, J. Birkmann, J. Carmin,
+D.D. Chadee, A.J. Challinor, M. Chatterjee,
+W. Cramer, D.J. Davidson, Y.O. Estrada,
+J.-P. Gattuso, Y. Hijioka, O. Hoegh-Guldberg,
+H.Q. Huang, G.E. Insarov, R.N. Jones,
+R.S. Kovats, P. Romero-Lankao, J.N. Larsen,
+I.J. Losada, J.A. Marengo, R.F. McLean,
+L.O. Mearns, R. Mechler, J.F. Morton,
+I. Niang, T. Oki, J.M. Olwoch,
+M. Opondo, E.S. Poloczanska, H.-O. Pörtner,
+M.H. Redsteer, A. Reisinger, A. Revi,
+D.N. Schmidt, M.R. Shaw, W. Solecki,
+D.A. Stone, J.M.R. Stone, K.M. Strzepek,
+A.G. Suarez, P. Tschakert, R. Valentini,
+S. Vicuña, A. Villamizar, K.E. Vincent,
+R. Warren, L.L. White, T.J. Wilbanks,
+P.P. Wong, and G.W. Yohe,
+
+2014: Technical summary.
+In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part A: Global and Sectoral Aspects.
+
+Contribution of Working Group II
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Field, C.B., V.R. Barros, D.J. Dokken,
+K.J. Mach, M.D. Mastrandrea, T.E. Bilir,
+M. Chatterjee, K.L. Ebi, Y.O. Estrada,
+R.C. Genova, B. Girma, E.S. Kissel,
+A.N. Levy, S. MacCracken, P.R. Mastrandrea,
+and L.L. White (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom
+and New York, NY, USA,
+pp. 35-94.

@@ -1,13 +1,13 @@
 Year: 2014
 Title: Summary for Policymakers
-URL: http://ipcc-wg2.gov/AR5/images/uploads/WG2AR5_SPM_FINAL.pdf
+URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-SPM_FINAL.pdf
 Tags: ipcc, ar5, wg2
 
 Description:
 IPCC, 2014: Summary for policymakers.
 In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
 PartA: Global and Sectoral Aspects.
-Contribution of Working GroupII
+Contribution of Working Group II
 to the Fifth Assessment Report
 of the Intergovernmental Panel on Climate Change
 [Field, C.B., V.R. Barros, D.J. Dokken,

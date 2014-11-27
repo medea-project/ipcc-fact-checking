@@ -1,10 +1,26 @@
 Year: 2014
-Title:
-URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap1_FGDall.pdf
+Title: Point of Departure
+URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap1_FINAL.pdf
 Tags: ipcc, ar5, wg2
 
 Description:
-FINAL DRAFT
-IPCC WGII AR5 Chapter 1
-Do Not Cite, Quote, or Distribute
-Prior to Public Release on 31 March 2014
+Burkett, V.R., A.G. Suarez, M. Bindi,
+C. Conde, R. Mukerji, M.J. Prather,
+A.L. St. Clair, and G.W. Yohe,
+2014: Point of departure.
+In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part A: Global and Sectoral Aspects.
+Contribution of Working Group II
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Field, C.B., V.R. Barros, D.J. Dokken,
+K.J. Mach, M.D. Mastrandrea, T.E. Bilir,
+M. Chatterjee, K.L. Ebi, Y.O. Estrada,
+R.C. Genova, B. Girma, E.S. Kissel,
+A.N. Levy, S. MacCracken, P.R. Mastrandrea,
+and L.L. White(eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom
+and New York, NY, USA,
+pp.169-194.
