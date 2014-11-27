@@ -1,0 +1,25 @@
+1567
+28 Polar Regions
+Coordinating Lead Authors:
+Joan Nymand Larsen (Iceland), Oleg A. Anisimov (Russian Federation)
+Lead Authors:
+Andrew Constable (Australia), Anne B. Hollowed (USA), Nancy Maynard (USA), Pål Prestrud
+(Norway), Terry D. Prowse (Canada), John M.R. Stone (Canada)
+Contributing Authors:
+Terry V. Callaghan (UK), Mark Carey (USA), Peter Convey (UK), Andrew Derocher (Canada),
+Bruce C. Forbes (Finland), Peter T. Fretwell (UK), Solveig Glomsrød (Norway), Dominic Hodgson
+(UK), Eileen Hofmann (USA), Grete K. Hovelsrud (Norway), Gita L. Ljubicic (Canada),
+Harald Loeng (Norway), Eugene Murphy (UK), Steve Nicol (Australia), Anders Oskal (Norway),
+James D. Reist (Canada), Phil Trathan (UK), Barbara Weinecke (Australia), Fred Wrona
+(Canada)
+Review Editors:
+Maria Ananicheva (Russian Federation), F. Stuart Chapin III (USA)
+Volunteer Chapter Scientist:
+Vasiliy Kokorev (Russian Federation)
+This chapter should be cited as:
+Larsen, J.N., O.A. Anisimov, A. Constable, A.B. Hollowed, N. Maynard, P. Prestrud, T.D. Prowse, and J.M.R. Stone, 2014:
+Polar regions. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part B: Regional Aspects. Contribution
+of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Barros, V.R.,
+C.B. Field, D.J. Dokken, M.D. Mastrandrea, K.J. Mach, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C. Genova,
+B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, and L.L. White (eds.)]. Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA, pp. 1567-1612.

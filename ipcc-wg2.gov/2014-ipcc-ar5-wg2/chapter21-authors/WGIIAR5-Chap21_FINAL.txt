@@ -1,0 +1,23 @@
+1133
+21 Regional Context
+Coordinating Lead Authors:
+Bruce Hewitson (South Africa), Anthony C. Janetos (USA)
+Lead Authors:
+Timothy R. Carter (Finland), Filippo Giorgi (Italy), Richard G. Jones (UK), Won-Tae Kwon
+(Republic of Korea), Linda O. Mearns (USA), E. Lisa F. Schipper (Sweden), Maarten K. van Aalst
+(Netherlands)
+Contributing Authors:
+Eren Bilir (USA), Monalisa Chatterjee (USA/India), Katharine J. Mach (USA), Carol McSweeney
+(UK), Grace Redmond (UK), Vanessa Schweizer (USA), Luke Wirth (USA), Claire van Wyk
+(South Africa)
+Review Editors:
+Thomas Downing (USA), Phil Duffy (USA)
+Volunteer Chapter Scientist:
+Kristin Kuntz-Duriseti (USA)
+This chapter should be cited as:
+Hewitson, B., A.C. Janetos, T.R. Carter, F. Giorgi, R.G. Jones, W.-T. Kwon, L.O. Mearns, E.L.F. Schipper, and M. van Aalst,
+2014: Regional context. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part B: Regional Aspects.
+Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate
+Change [Barros, V.R., C.B. Field, D.J. Dokken, M.D. Mastrandrea, K.J. Mach, T.E. Bilir, M. Chatterjee, K.L. Ebi,
+Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, and L.L. White (eds.)].
+Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, pp. 1133-1197.

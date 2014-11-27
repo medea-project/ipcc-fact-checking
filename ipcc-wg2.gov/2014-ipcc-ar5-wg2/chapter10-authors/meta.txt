@@ -1,0 +1,28 @@
+Year: 2014
+Title: Key Economic Sectors and Services
+URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap10_FINAL.pdf
+Tags: ipcc, ar5, wg2
+
+Description:
+Arent, D.J., R.S.J. Tol, E. Faust,
+J.P. Hella, S. Kumar, K.M. Strzepek,
+F.L. Tóth, and D. Yan,
+
+2014: Key economic sectors and services.
+In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part A: Global and Sectoral Aspects.
+
+Contribution of Working Group II
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Field, C.B., V.R. Barros, D.J. Dokken,
+K.J. Mach, M.D. Mastrandrea, T.E. Bilir,
+M. Chatterjee, K.L. Ebi, Y.O. Estrada,
+R.C. Genova, B. Girma, E.S. Kissel,
+A.N. Levy, S. MacCracken, P.R. Mastrandrea,
+and L.L. White (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom
+and New York, NY, USA,
+pp. 659-708.

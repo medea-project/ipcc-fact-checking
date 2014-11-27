@@ -1,0 +1,28 @@
+Year: 2014
+Title: Food Security andFood Production Systems
+URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap7_FINAL.pdf
+Tags: ipcc, ar5, wg2
+
+Description:
+Porter, J.R., L. Xie, A.J. Challinor,
+K. Cochrane, S.M. Howden, M.M. Iqbal,
+D.B. Lobell, and M.I. Travasso,
+
+2014: Food security and food production systems.
+In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part A: Global and Sectoral Aspects.
+
+Contribution of Working Group II
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Field, C.B., V.R. Barros, D.J. Dokken,
+K.J. Mach, M.D. Mastrandrea, T.E. Bilir,
+M. Chatterjee, K.L. Ebi, Y.O. Estrada,
+R.C. Genova, B. Girma, E.S. Kissel,
+A.N. Levy, S. MacCracken, P.R. Mastrandrea,
+and L.L. White (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom
+and New York, NY, USA,
+pp. 485-533.

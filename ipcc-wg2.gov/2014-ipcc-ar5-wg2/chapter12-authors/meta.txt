@@ -1,0 +1,28 @@
+Year: 2014
+Title: Human Security
+URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap12_FINAL.pdf
+Tags: ipcc, ar5, wg2
+
+Description:
+Adger, W.N., J.M. Pulhin, J. Barnett,
+G.D. Dabelko, G.K. Hovelsrud, M. Levy,
+Ú. Oswald Spring, and C.H. Vogel,
+
+2014: Human security.
+In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part A: Global and Sectoral Aspects.
+
+Contribution of Working Group II
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Field, C.B., V.R. Barros, D.J. Dokken,
+K.J. Mach, M.D. Mastrandrea, T.E. Bilir,
+M. Chatterjee, K.L. Ebi, Y.O. Estrada,
+R.C. Genova, B. Girma, E.S. Kissel,
+A.N. Levy, S. MacCracken, P.R. Mastrandrea,
+and L.L. White (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom
+and New York, NY, USA,
+pp. 755-791.

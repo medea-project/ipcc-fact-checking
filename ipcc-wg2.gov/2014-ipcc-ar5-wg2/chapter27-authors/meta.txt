@@ -1,0 +1,28 @@
+Year: 2014
+Title: Central and South America
+URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap27_FINAL.pdf
+Tags: ipcc, ar5, wg2
+
+Description:
+Magrin, G.O., J.A. Marengo, J.-P. Boulanger,
+M.S. Buckeridge, E. Castellanos, G. Poveda,
+F.R. Scarano, and S. Vicuña,
+
+2014: Central and South America.
+In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part B: Regional Aspects.
+
+Contribution of Working Group II
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Barros, V.R., C.B. Field, D.J. Dokken,
+M.D. Mastrandrea, K.J. Mach, T.E. Bilir,
+M. Chatterjee, K.L. Ebi, Y.O. Estrada,
+R.C. Genova, B. Girma, E.S. Kissel,
+A.N. Levy, S. MacCracken, P.R. Mastrandrea,
+and L.L. White (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom
+and New York, NY, USA,
+pp. 1499-1566.

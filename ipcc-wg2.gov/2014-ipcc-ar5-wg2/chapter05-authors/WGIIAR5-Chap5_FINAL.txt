@@ -1,0 +1,25 @@
+361
+5 Coastal Systemsand Low-Lying Areas
+Coordinating Lead Authors:
+Poh Poh Wong (Singapore), Iñigo J. Losada (Spain)
+Lead Authors:
+Jean-Pierre Gattuso (France), Jochen Hinkel (Germany), Abdellatif Khattabi (Morocco),
+Kathleen L. McInnes (Australia), Yoshiki Saito (Japan), Asbury Sallenger (USA)
+Contributing Authors:
+So-Min Cheong (Republic of Korea), Kirstin Dow (USA), Carlos M. Duarte (Australia/Spain),
+Kristie L. Ebi (USA), Lucy Faulkner (UK), Masahiko Isobe (Japan), Jack Middelburg
+(Netherlands), Susanne Moser (USA), Mark Pelling (UK), Edmund Penning-Rowsell (UK),
+Sybil Seitzinger (USA), Marcel Stive (Netherlands), Richard S.J. Tol (Netherlands),
+Athanasios Vafeidis (Greece/Germany)
+Review Editors:
+Robert J. Nicholls (UK), Filipe Santos (Portugal)
+Volunteer Chapter Scientist:
+Sara Amez (Spain)
+This chapter should be cited as:
+Wong, P.P., I.J. Losada, J.-P. Gattuso, J. Hinkel, A. Khattabi, K.L. McInnes, Y. Saito, and A. Sallenger, 2014: Coastal
+systems and low-lying areas. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A:
+Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change [Field, C.B., V.R. Barros, D.J. Dokken, K.J. Mach,
+M.D. Mastrandrea, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy,
+S. MacCracken, P.R. Mastrandrea, and L.L. White (eds.)]. Cambridge University Press, Cambridge, United
+Kingdom and New York, NY, USA, pp. 361-409.

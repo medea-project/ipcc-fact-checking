@@ -1,0 +1,29 @@
+Year: 2014
+Title: Climate-Resilient Pathways: Adaptation, Mitigation, and Sustainable Development
+URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap20_FINAL.pdf
+Tags: ipcc, ar5, wg2
+
+Description:
+Denton, F., T.J. Wilbanks, A.C. Abeysinghe,
+I. Burton, Q. Gao, M.C. Lemos,
+T. Masui, K.L. O’Brien, and K. Warner,
+
+2014: Climate-resilient pathways:
+adaptation, mitigation, and sustainable development.
+In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part A: Global and Sectoral Aspects.
+
+Contribution of Working Group II
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Field, C.B., V.R. Barros, D.J. Dokken,
+K.J. Mach, M.D. Mastrandrea, T.E. Bilir,
+M. Chatterjee, K.L. Ebi, Y.O. Estrada,
+R.C. Genova, B. Girma, E.S. Kissel,
+A.N. Levy, S. MacCracken, P.R. Mastrandrea,
+and L.L. White (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom
+and New York, NY, USA,
+pp. 1101-1131.

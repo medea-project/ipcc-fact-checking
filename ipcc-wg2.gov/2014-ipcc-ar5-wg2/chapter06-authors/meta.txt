@@ -1,0 +1,28 @@
+Year: 2014
+Title: Ocean Systems
+URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap6_FINAL.pdf
+Tags: ipcc, ar5, wg2
+
+Description:
+Pörtner, H.-O., D.M. Karl, P.W. Boyd,
+W.W.L. Cheung, S.E. Lluch-Cota, Y. Nojiri,
+D.N. Schmidt, and P.O. Zavialov,
+
+2014: Ocean systems.
+In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part A: Global and Sectoral Aspects.
+
+Contribution of Working Group II
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Field, C.B., V.R. Barros, D.J. Dokken,
+K.J. Mach, M.D. Mastrandrea, T.E. Bilir,
+M. Chatterjee, K.L. Ebi, Y.O. Estrada,
+R.C. Genova, B. Girma, E.S. Kissel,
+A.N. Levy, S. MacCracken, P.R. Mastrandrea,
+and L.L. White (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom
+and New York, NY, USA,
+pp. 411-484.

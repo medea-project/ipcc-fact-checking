@@ -1,0 +1,28 @@
+Year: 2014
+Title: Freshwater Resources
+URL: http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap3_FINAL.pdf
+Tags: ipcc, ar5, wg2
+
+Description:
+Jiménez Cisneros, B.E., T. Oki, N.W. Arnell,
+G. Benito, J.G. Cogley, P. Döll,
+T. Jiang, and S.S. Mwakalila,
+
+2014: Freshwater resources.
+In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part A: Global and Sectoral Aspects.
+
+Contribution of Working Group II
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Field, C.B., V.R. Barros, D.J. Dokken,
+K.J. Mach, M.D. Mastrandrea, T.E. Bilir,
+M. Chatterjee, K.L. Ebi, Y.O. Estrada,
+R.C. Genova, B. Girma, E.S. Kissel,
+A.N. Levy, S. MacCracken, P.R. Mastrandrea,
+and L.L. White (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom
+and New York, NY, USA,
+pp. 229-269.

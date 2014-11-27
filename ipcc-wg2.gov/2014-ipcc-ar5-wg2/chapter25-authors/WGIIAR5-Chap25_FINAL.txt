@@ -1,0 +1,29 @@
+1371
+25 Australasia
+Coordinating Lead Authors:
+Andy Reisinger (New Zealand), Roger L. Kitching (Australia)
+Lead Authors:
+Francis Chiew (Australia), Lesley Hughes (Australia), Paul C.D. Newton (New Zealand),
+Sandra S. Schuster (Australia), Andrew Tait (New Zealand), Penny Whetton (Australia)
+Contributing Authors:
+Jon Barnett (Australia), Susanne Becken (New Zealand), Paula Blackett (New Zealand),
+Sarah Boulter (Australia), Andrew Campbell (Australia), Daniel Collins (New Zealand),
+Jocelyn Davies (Australia), Keith Dear (Australia), Stephen Dovers (Australia), Kyla Finlay
+(Australia), Bruce Glavovic (New Zealand), Donna Green (Australia), Don Gunasekera
+(Australia), Simon Hales (New Zealand), John Handmer (Australia), Garth Harmsworth
+(New Zealand), Alistair Hobday (Australia), Mark Howden (Australia), Graeme Hugo
+(Australia), Sue Jackson (Australia), David Jones (Australia), Darren King (New Zealand),
+Miko Kirschbaum (New Zealand), Jo Luck (Australia), Yiheyis Maru (Australia), Jan McDonald
+(Australia), Kathy McInnes (Australia), Johanna Mustelin (Australia), Barbara Norman
+(Australia), Grant Pearce (New Zealand), Susan Peoples (New Zealand), Ben Preston (USA),
+Joseph Reser (Australia), Penny Reyenga (Australia), Mark Stafford-Smith (Australia),
+Xiaoming Wang (Australia), Leanne Webb (Australia)
+Review Editors:
+Blair Fitzharris (New Zealand), David Karoly (Australia)
+This chapter should be cited as:
+Reisinger, A., R.L. Kitching, F. Chiew, L. Hughes, P.C.D. Newton, S.S. Schuster, A. Tait, and P. Whetton, 2014:
+Australasia. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part B: Regional Aspects.
+Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate
+Change [Barros, V.R., C.B. Field, D.J. Dokken, M.D. Mastrandrea, K.J. Mach, T.E. Bilir, M. Chatterjee, K.L. Ebi,
+Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, and L.L. White
+(eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, pp. 1371-1438.

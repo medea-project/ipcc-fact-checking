@@ -1,0 +1,25 @@
+1499
+27 Central and South America
+Coordinating Lead Authors:
+Graciela O. Magrin (Argentina), José A. Marengo (Brazil)
+Lead Authors:
+Jean-Phillipe Boulanger (France), Marcos S. Buckeridge (Brazil), Edwin Castellanos
+(Guatemala), Germán Poveda (Colombia), Fabio R. Scarano (Brazil), Sebastián Vicuña (Chile)
+Contributing Authors:
+Eric Alfaro (Costa Rica), Fabien Anthelme (France), Jonathan Barton (UK), Nina Becker
+(Germany), Arnaud Bertrand (France), Ulisses Confalonieri (Brazil), Amanda Pereira de Souza
+(Brazil), Carlos Demiguel (Spain), Bernard Francou (France), Rene Garreaud (Chile),
+Iñigo Losada (Spain), Melanie McField (USA), Carlos Nobre (Brazil), Patricia Romero Lankao
+(Mexico), Paulo Saldiva (Brazil), Jose Luis Samaniego (Mexico), María Travasso (Argentina),
+Ernesto Viglizzo (Argentina), Alicia Villamizar (Venezuela)
+Review Editors:
+Leonidas Osvaldo Girardin (Argentina), Jean Pierre Ometto (Brazil)
+Volunteer Chapter Scientist:
+Nina Becker (Germany)
+This chapter should be cited as:
+Magrin, G.O., J.A. Marengo, J.-P. Boulanger, M.S. Buckeridge, E. Castellanos, G. Poveda, F.R. Scarano, and S. Vicuña,
+2014: Central and South America. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part B:
+Regional Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel
+on Climate Change [Barros, V.R., C.B. Field, D.J. Dokken, M.D. Mastrandrea, K.J. Mach, T.E. Bilir, M. Chatterjee,
+K.L. Ebi, Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, and L.L. White
+(eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, pp. 1499-1566.

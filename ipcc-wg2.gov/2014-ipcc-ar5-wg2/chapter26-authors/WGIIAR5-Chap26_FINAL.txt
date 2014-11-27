@@ -1,0 +1,27 @@
+1439
+26 North America
+Coordinating Lead Authors:
+Patricia Romero-Lankao (Mexico), Joel B. Smith (USA)
+Lead Authors:
+Debra J. Davidson (Canada), Noah S. Diffenbaugh (USA), Patrick L. Kinney (USA), Paul Kirshen
+(USA), Paul Kovacs (Canada), Lourdes Villers Ruiz (Mexico)
+Contributing Authors:
+William Anderegg (USA), Jessie Carr (USA), Anthony Cheng (USA), Thea Dickinson (Canada),
+Ellen Douglas (USA), Hallie Eakin (USA), Daniel M. Gnatz (USA), Mary Hayden (USA),
+Maria Eugenia Ibarraran Viniegra (Mexico), Blanca E. Jiménez Cisneros (Mexico), Rob de Loë
+(Canada), Michael D. Meyer (USA), Catherine Ngo (USA), Amrutasri Nori-Sarma (India),
+Greg Oulahen (Canada), Diana Pape (USA), Ana Peña del Valle (Mexico), Roger Pulwarty
+(USA), Ashlinn Quinn (USA), Fabiola S. Sosa-Rodriguez (Mexico), Daniel Runfola (USA),
+Landy Sánchez Peña (Mexico), Bradley H. Udall (USA), Fiona Warren (Canada),
+Kate Weinberger (USA), Tom Wilbanks (USA)
+Review Editors:
+Ana Rosa Moreno (Mexico), Linda Mortsch (Canada)
+Volunteer Chapter Scientist:
+William Anderegg (USA)
+This chapter should be cited as:
+Romero-Lankao, P., J.B. Smith, D.J. Davidson, N.S. Diffenbaugh, P.L. Kinney, P. Kirshen, P. Kovacs, and L. Villers Ruiz,
+2014: North America. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part B: Regional Aspects.
+Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate
+Change [Barros, V.R., C.B. Field, D.J. Dokken, M.D. Mastrandrea, K.J. Mach, T.E. Bilir, M. Chatterjee, K.L. Ebi,
+Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, and L.L. White (eds.)].
+Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, pp. 1439-1498.

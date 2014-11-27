@@ -1,0 +1,22 @@
+195
+2 Foundations forDecision Making
+Coordinating Lead Authors:
+Roger N. Jones (Australia), Anand Patwardhan (India)
+Lead Authors:
+Stewart J. Cohen (Canada), Suraje Dessai (UK/Portugal), Annamaria Lammel (France),
+Robert J. Lempert (USA), M. Monirul Qader Mirza (Bangladesh/Canada), Hans von Storch
+(Germany)
+Contributing Authors:
+Werner Krauss (Germany), Johanna Wolf (Germany/Canada), Celeste Young (Australia)
+Review Editors:
+Rosina Bierbaum (USA), Nicholas King (South Africa)
+Volunteer Chapter Scientist:
+Pankaj Kumar (India/Japan)
+This chapter should be cited as:
+Jones, R.N., A. Patwardhan, S.J. Cohen, S. Dessai, A. Lammel, R.J. Lempert, M.M.Q. Mirza, and H. von Storch,
+2014: Foundations for decision making. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change [Field, C.B., V.R. Barros, D.J. Dokken, K.J. Mach,
+M.D. Mastrandrea, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy,
+S. MacCracken, P.R. Mastrandrea, and L.L. White (eds.)]. Cambridge University Press, Cambridge, United
+Kingdom and New York, NY, USA, pp. 195-228.

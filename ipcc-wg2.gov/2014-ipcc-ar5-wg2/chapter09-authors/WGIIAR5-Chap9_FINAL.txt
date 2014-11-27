@@ -1,0 +1,24 @@
+613
+9 Rural Areas
+Coordinating Lead Authors:
+Purnamita Dasgupta (India), John F. Morton (UK)
+Lead Authors:
+David Dodman (Jamaica), Barış Karapinar (Turkey/Switzerland), Francisco Meza (Chile),
+Marta G. Rivera-Ferre (Spain), Aissa Toure Sarr (Senegal), Katharine E. Vincent (South Africa)
+Contributing Authors:
+Ashish Aggarwal (India), Netra Chhetri (USA/Nepal), Tracy Cull (South Africa),
+Jose Gustavo Feres (Brazil), Jeremy Haggar (UK), George Hutchinson (UK), Feliu López-i-Gelats
+(Spain), Megan Mills-Novoa (USA), Nandan Nawn (India), Catherine Norman (USA),
+Andreas Scheba (Austria), Tetsuji Tanaka (Japan) 
+Review Editors:
+Edward R. Carr (USA), Nirivololona Raholijao (Madagascar)
+Volunteer Chapter Scientist:
+Hauke Broecker (Germany)
+This chapter should be cited as:
+Dasgupta, P., J.F. Morton, D. Dodman, B. Karapinar, F. Meza, M.G. Rivera-Ferre, A. Toure Sarr, and K.E. Vincent,
+2014: Rural areas. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and
+Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental
+Panel on Climate Change [Field, C.B., V.R. Barros, D.J. Dokken, K.J. Mach, M.D. Mastrandrea, T.E. Bilir,
+M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken,
+P.R. Mastrandrea, and L.L. White (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New
+York, NY, USA, pp. 613-657.
