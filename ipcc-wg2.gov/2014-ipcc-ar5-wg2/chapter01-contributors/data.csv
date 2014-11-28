@@ -1,13 +1,23 @@
-Chapter,Role,Name,Affiliation,Country/Organization
-Chapter 01,Coordinating Lead Author,Virginia Burkett,United States Geological Survey,United States
-Chapter 01,Coordinating Lead Author,Avelino G. Suarez,"Institute of Ecology and Systematics, Cuban Environmental Agency",Cuba
-,,,,
-Chapter 01,Lead Author,,,
-Chapter 01,Lead Author,,,
-Chapter 01,Lead Author,,,
-Chapter 01,Lead Author,,,
-Chapter 01,Lead Author,,,
-Chapter 01,Lead Author,,,
-,,,,
-Chapter 01,Review Editor,,,
-Chapter 01,Review Editor,,,
+Chapter,Title,Role,Name,Institution,Country
+Chapter 01,Point of departure,Coordinating Lead Author,Virginia Burkett,United States Geological Survey,United States
+Chapter 01,Point of departure,Coordinating Lead Author,Avelino G. Suarez,"Institute of Ecology and Systematics, Cuban Environmental Agency",Cuba
+,,,,,
+Chapter 01,Point of departure,Lead Author,Marco Bindi,University of Florence,Italy
+Chapter 01,Point of departure,Lead Author,Cecilia Conde,"Centro de Ciencias de la Atmósfera, Universidad Nacional Autónoma de México",Mexico
+Chapter 01,Point of departure,Lead Author,Rupa Mukerji,HELVETAS Swiss Intercooperation,India
+Chapter 01,Point of departure,Lead Author,Michael Prather,"University of  California,  Irvine",United States
+Chapter 01,Point of departure,Lead Author,Asuncion Lera St. Clair,Centre for International Climate and Environmental Research - Oslo,Norway
+Chapter 01,Point of departure,Lead Author,Gary Yohe,Wesleyan University,United States
+,,,,,
+Chapter 01,Point of departure,Review Editor,Hervé Le Treut,Laboratoire de Météorologie Dynamique/ Institut Pierre Simon Laplace,France
+Chapter 01,Point of departure,Review Editor,Jean Palutikof,Griffith University,Australia
+,,,,,
+Chapter 01,Point of departure,Volunteer Chapter Scientist,Emmanuel Nyambod,European Centre Européen de Recherches Int’l et Stratégiques,Cameroon
+,,,,,
+Chapter 01,Point of departure,Contributing Author,Sarah Cornell,,United Kingdom
+Chapter 01,Point of departure,Contributing Author,Katharine Mach,,United States
+Chapter 01,Point of departure,Contributing Author,Michael Mastrandrea,,United States
+Chapter 01,Point of departure,Contributing Author,Jan Minx,,Germany
+Chapter 01,Point of departure,Contributing Author,Riccardo Pravettoni,,Norway
+Chapter 01,Point of departure,Contributing Author,Kristin Seyboth,,United States
+Chapter 01,Point of departure,Contributing Author,Christoph von Stechow,,Germany
