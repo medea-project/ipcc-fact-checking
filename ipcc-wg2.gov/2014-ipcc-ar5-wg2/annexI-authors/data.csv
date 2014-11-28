@@ -1,540 +1,2434 @@
 Country,"Name, Institution"
 Algeria,"Houria Djoudi, Center for International Forestry Research (CIFOR)"
 ,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
-Argentina,
+Argentina,"Susana Beatriz Adamo, Columbia University"
+Argentina,"Osvaldo Canziani, Academia Argentina de Ciencias Ambientales"
+Argentina,"Anibal Eduardo Carbajo, Universidad Nacional de San Martín"
+Argentina,"Hector Ginzo, Academia Argentina de Ciencias Ambientales"
+Argentina,"Leonidas Osvaldo Girardin, Fundación Bariloche"
+Argentina,"Graciela Magrin, Instituto Nacional de Tecnología Agropecuaria"
+Argentina,"Juan Jose Neiff, National Scientific and Technical Research Council (CONICET) / Universidad Nacional del Nordeste"
+Argentina,"Olga Clorinda Penalba, Universidad de Buenos Aires"
+Argentina,"Rubén Piacentini, Institute of Physics, National University of Rosario / National Scientific and Technical Research Council (CONICET)"
+Argentina,"Miguel Angel Taboada, Instituto Nacional Tecnología Agropecuaria"
+Argentina,"Elda Tancredi, National University of Luján / International Human Dimensions Programme"
+Argentina,"María Isabel Travasso, Instituto Nacional de Tecnología Agropecuaria"
+Argentina,"Ernesto Viglizzo, National Institute for Agricultural Technology (INTA) / National Scientific and Technical Research Council (CONICET)"
+Argentina,"Alejandra Volpedo, University of Buenos Aires / National Scientific and Technical Research Council (CONICET)"
 ,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
+Australia,"Carolina Adler, Swiss Federal Institute of Technology (ETH) Zurich"
+Australia,"Adrian Barnett, Queensland University of Technology"
+Australia,"Jonathon Barnett, University of Melbourne"
+Australia,"Paul Beggs, Macquarie University"
+Australia,"Jensen Benedikte, Department of the Environment"
+Australia,"Helen Berry, University of Canberra"
+Australia,"Nick Bond, Griffith University"
+Australia,"Sarah Boulter, National Climate Change Adaptation Research Facility, Griffith University"
+Australia,"Kathryn Bowen, Australian National University"
+Australia,"Cassandra Brooke, World Wildlife Fund International"
+Australia,"Christopher J. Brown, University of Queensland"
+Australia,"Stuart Bunn, Griffith University"
+Australia,"Colin Butler, University of Canberra / National Centre for Epidemiology and Population Health, Australian National University"
+Australia,"Andrew Campbell, Charles Darwin University"
+Australia,"Lynda Chambers, Australian Bureau of Meteorology"
+Australia,"Francis Chiew, Commonwealth Scientific and Industrial Research Organization"
+Australia,"Hamish Clarke, The University of South Wales"
+Australia,"Andrew Constable, Australian Antarctic Division"
+Australia,"Carlos Corvalan, Pan America Health Organization / World Health Organization"
+Australia,"Lisa Cowan, Department of Primary Industries"
+Australia,"Jocelyn Davies, Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+Australia,"Tom Davies, Edge Environment"
+Australia,"Adam Davis, Manidis Roberts Pty Ltd"
+Australia,"Keith Dear, Australian National University"
+Australia,"Nega Debela, University of Tasmania"
+Australia,"Stephen Dovers, Australian National University"
+Australia,"Carlos M. Duarte, University of Western Australia / Spanish National Research Council"
+Australia,"Kyla Finlay, Department of Primary Industries, Victoria"
+Australia,"Elizabeth A. Fulton, Commonwealth Scientific and Industrial Research Organisation"
+Australia,"Kirsty Galloway McLean, United Nations University-Institute of Advanced Studies"
+Australia,"David George, Griffith University"
+Australia,"Habiba Gitay, The World Bank"
+Australia,"Sonia Graham, University of Melbourne"
+Australia,"Donna Green, University of New South Wales"
+Australia,"Don Gunasekera, Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+Australia,"John Handmer, Centre for Risk and Community Safety, RMIT University"
+Australia,"Kevin Hennessy, Commonwealth Scientific and Industrial Research Organization"
+Australia,"Beverley Henry, Queensland University of Technology"
+Australia,"Bradley Hiller, The World Bank"
 ,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
+Australia,"Alistair Hobday, Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+Australia,"Ove Hoegh-Guldberg, University of Queensland"
+Australia,"Neil Holbrook, University of Tasmania"
+Australia,"Mark Howden, Commonwealth Scientific and Industrial Research Organization (CSIRO)"
+Australia,"Lesley Hughes, Macquarie University"
+Australia,"Graeme Hugo, University of Adelaide"
+Australia,"Sue Jackson, Griffith University"
+Australia,"Benedikte Jensen, Department of Industry, Innovation, Climate Change, Science, Research and Tertiary Education"
+Australia,"David Jones, Bureau of Meteorology"
+Australia,"Roger N. Jones, Victoria University"
+Australia,"David Karoly, University of Melbourne"
+Australia,"Robert Kay, Adaptive Futures"
+Australia,"Marie Keatley, University of Melbourne"
+Australia,"Stuart Kent, University of Melbourne"
+Australia,"Roger Kitching, Griffith University"
+Australia,"Natasha Kuruppu, Institute for Sustainable Futures"
+Australia,"Constance Lever-Tracy, Flinders University of South Australia"
+Australia,"Stephan Lewandowsky, University of Western Australia"
+Australia,"Janice Lough, Australian Institute of Marine Science"
+Australia,"Margaret Loughnan, Monash University"
+Australia,"Jo Luck, Plant Biosecurity Cooperative Research Centre"
+Australia,"Cate Macinnis-Ng, University of Auckland"
+Australia,"Thilak Mallawaarachchi, University of Queensland"
+Australia,"Yiheyis Maru, Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+Australia,"Jan McDonald, University of Tasmania"
+Australia,"Melodie McGeoch, Monash University"
+Australia,"Kathleen McInnes, Commonwealth Scientific and Industrial Research Organization Marine and Atmospheric Research"
+Australia,"Roger McLean, University of New South Wales"
+Australia,"Anthony McMichael, Australian National University, Professor Emeritus"
+Australia,"Celia McMichael, La Trobe University"
+Australia,"Judith McNeill, University of New England"
+Australia,"Thomas Measham, Commonwealth Scientific and Industrial Research Organisation (CSIRO) Ecosystem Sciences"
+Australia,"Shahbaz Mehmood, Global Change Impact Studies Centre"
+Australia,"Gary Meyers, Commonwealth Scientific and Industrial Research Organisation (CSIRO) Marine and Atmospheric Research"
+Australia,"Kimberley Millers, University of Melbourne"
+Australia,"Michael Miloshis, Charles Darwin University"
+Australia,"Andrew Moore, Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+Australia,"Colette Mortreux, University of Melbourne"
+Australia,"Sharif Ahmed Mukul, The University of Queensland"
+Australia,"Shahbaz Mushtaq, University of Southern Queensland"
+Australia,"Steve Nicol, Australian Antarctic Division / Antarctic Climate and Ecosystems Cooperative Research Centre"
+Australia,"Ian Noble, Consultant"
+Australia,"Barbara Norman, University of Canberra / Australian National University"
+Australia,"Robert Norton, International Plant Nutrition Institute"
+Australia,"Mark Ooi, University of Wollongong"
+Australia,"Jean Palutikof, Griffith University"
+Australia,"Graeme Pearman, Monash University"
+Australia,"Jonathan Pickering, Australian National University"
+Australia,"Bob Pokrant, Curtin University"
+Australia,"Elvira Poloczanska, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marine and Atmospheric Research"
+Australia,"Scott Power, Bureau of Meteorology"
+Australia,"Joseph Reser, Griffith University"
+Australia,"Thomas Reuter, University of Melbourne"
+Australia,"Penny Reyenga, Department of Environment / Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+Australia,"Anthony J. Richardson, Commonwealth Scientific and Industrial Research Organization / University of Queensland"
+Australia,"Lauren Rickards, University of Melbourne"
+Australia,"David Rissik, Griffith University"
 ,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
-Australia,
+Australia,"Kevin Ronan, Central Queensland University"
+Australia,"Helen Ross, University of Queensland"
+Australia,"Neil Saintilan, Office of Environment and Heritage"
+Australia,"David S. Schoeman, University of the Sunshine Coast"
+Australia,"Sandra Schuster, Disaster Resilience and Climate Risk Consultant"
+Australia,"Neville Smith, Bureau of Meteorology (Retired)"
+Australia,"Timothy F. Smith, University of the Sunshine Coast"
+Australia,"Leon Soste, Department of Primary Industries"
+Australia,"Mark Stafford Smith, Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+Australia,"Will Steffen, Australian National University"
+Australia,"Roger Stone, University of Southern Queensland"
+Australia,"Shilu Tong, Queensland University of Technology"
+Australia,"Stephen Turton, James Cook University"
+Australia,"Xiaoming Wang, Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+Australia,"Elissa Waters, University of Melbourne"
+Australia,"Bob Webb, Australian National University"
+Australia,"Leanne Webb, Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+Australia,"Barbara Weinecke, Australian Antarctic Division / Antarctic Climate and Ecosystems Cooperative Research Centre"
+Australia,"Tony Weir, University of the South Pacific"
+Australia,"Seth Westra, University of Adelaide"
+Australia,"Penny Whetton, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marine and Atmospheric Research"
+Australia,"Nadine Elizabeth White, Southern Cross University"
+Australia,"Russell Wise, Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+Australia,"Eric Woehler, University of Tasmania"
+Australia,"Colin Woodroffe, University of Wollongong"
+Australia,"Paul Woods, World Vision"
+Australia,"Celeste Young, Victoria Institute of Strategic Economic Studies (VISES), Victoria University"
+Australia,"Md Younus, School of the Environment, Flinders University / Adelaide University"
 ,
-Austria,
-Austria,
-Austria,
-Austria,
-Austria,
-Austria,
-Austria,
-Austria,
-Austria,
-Austria,
+Austria,"Susanne Hanger, International Institute for Applied Systems Analysis"
+Austria,"Stefan Kienberger, University of Salzburg"
+Austria,"Reinhard Mechler, International Institute for Applied Systems Analysis / Vienna University of Economics"
+Austria,"Anthony Patt, Swiss Federal Institute of Technology"
+Austria,"Harald Pauli, Austrian Academy of Sciences"
+Austria,"Klaus Radunsky, Umweltbundesamt GmbH"
+Austria,"Peter Rauch, University of Natural Resources and Life Sciences, Vienna"
+Austria,"Bernhard Riegl, Nova Southeastern University"
+Austria,"Andreas Scheba, University of Manchester"
+Austria,"Vegard Skirbekk, International Institute for Applied Systems Analysis (IIASA)"
 ,
-Bahamas,
+Bahamas,"Adelle Thomas, College of the Bahamas"
 ,
-Bangladesh,
-Bangladesh,
-Bangladesh,
-Bangladesh,
-Bangladesh,
-Bangladesh,
-Bangladesh,
-Bangladesh,
-Bangladesh,
-Bangladesh,
+Bangladesh,"Atiq Kainan Ahmed, Asian Disaster Preparedness Center (ADPC)"
+Bangladesh,"Ahsan Uddin Ahmed, Centre for Global Change (CGC)"
+Bangladesh,"Mozaharul Alam, United Nations Environment Programme"
+Bangladesh,"Rawshan Ara Begum, University Kebangsaan Malaysia (UKM)"
+Bangladesh,"Saleemul Huq, International Institute for Environment and Development (IIED) / International Centre for Climate Change and Development (ICCCAD)"
+Bangladesh,"Haseeb Irfanullah, Practical Action"
+Bangladesh,"A K M Saiful Islam, Bangladesh University of Engineering and Technology"
+Bangladesh,"Sharmind Neelormi, GenderCC-Women for Climate Justice"
+Bangladesh,"M. Monirul Qader Mirza, Environment Canada"
+Bangladesh,"Golam Sarwar, Bangladesh Unnayan Parishad (BUP)"
 ,
-Barbados,
-Barbados,
+Barbados,"Leonard Nurse, University of the West Indies"
+Barbados,"Leisa Perch, United Nations Development Programme / World Centre for Sustainable Development (Centro Rio +)"
 ,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
-Belgium,
+Belgium,"Johan Bogaert, Nature and Energy Policy Division, Flemish Government"
+Belgium,"Wouter Buytaert, Imperial College London"
+Belgium,"Collin Claire, Direction Generale de l’environnement"
+Belgium,"Joann de Zegher, Stanford University"
+Belgium,"Drieu Godefridi, Cogito"
+Belgium,"Rafiq Hamdi, Royal Meteorological Institute of Belgium"
+Belgium,"Jean Hugé, Ghent University"
+Belgium,"Pol Knops, Katholieke Universiteit Leuven"
+Belgium,"Suzanne Leroy, Brunei University"
+Belgium,"Philippe Marbaix, Université catholique de Louvain"
+Belgium,"Andrea Tilche, European Commission Directorate"
+Belgium,"Rafael Tuts, United Nations Human Settlements Programme (UN Habitat)"
+Belgium,"Jean-Pascal van Ypersele, Université catholique de Louvain (TECLIM)"
+Belgium,"Martine Vanderstraeten, Belgian Federal Science Policy Office"
+Belgium,"Eline Vanuytrecht, Katholieke Universiteit Leuven"
+Belgium,"Dirk Verschuren, Ghent University"
+Belgium,"Romain Weikmans, Universite Libre de Bruxelles"
+Belgium,"Patrick Willems, Katholieke Universiteit Leuven"
 ,
-Bolivia,
+Bolivia,"Juan Hoffmaister, Ministry of Foreign Affairs"
 ,
-Botswana,
-Botswana,
+Botswana,"Pauline Dube, University of Botswana"
+Botswana,"Wame Lucretia Hambira, University of Botswana"
 ,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
-Brazil,
+Brazil,"Paulo Brando, Instituto de Pesquisa Ambiental da Amazônia (IPAM)"
+Brazil,"Marcos S. Buckeridge, University of Sao Paulo"
+Brazil,"Ulisses E. C. Confalonieri, Laboratório de Educação em Saúde e Ambiente / Centro de Pesquisas Rene Rachou / Oswaldo Cruz Foundation"
+Brazil,"Christiano de Campos, Petroleo Brasileiro SA"
+Brazil,Amanda Pereira de Souza
+Brazil,"Carolina Dubeux, Federal University of Rio de Janeiro-COPPE"
+Brazil,"Jose Gustavo Feres, Institute of Applied Economic Research"
+Brazil,"Felipe Ferreira, Ministry of External Relations, Brazil"
+Brazil,"José Marengo, Centro de Ciências do Sistema Terrestre (CCST) / Instituto Nacional de Pesquisas Espaciais (INPE) "
+Brazil,"Maria Muylaert de Araujo, Federal University of Rio de Janeiro"
+Brazil,"Carlos Nobre, Ministry of Science and Technology"
+Brazil,"Milton Nogueira da Silva, Climate Change Forum of Minas Gerais"
+Brazil,"Jean Pierre Ometto, National Institute for Space Research"
+Brazil,"Marcia Real, Universidade Federal Fluminense"
+Brazil,Paulo Saldiva
+Brazil,"Fabio R. Scarano, Conservation International / Universidade Federal do Rio de Janeiro"
+Brazil,"Maria Assunção Faus da Silva Dias, University of Sao Paulo"
+Brazil,"Roberto Teixeira Luz, Brazilian Geography and Statistics Institute (IBGE)"
+Brazil,"Andrea Young, State University of Campinas (UNICAMP)"
 ,
-Bulgaria,
+Bulgaria,"Emilia Pramova, Center for International Forestry Research (CIFOR)"
 ,
-Burkina Faso,
-Burkina Faso,
+Burkina Faso,"Leopold Some, Centre National de la Recherche Scientifique Technologique"
+Burkina Faso,"Dieudonné Pascal Yaka, Burkina Meteorological Authority / University of Ouagadougou"
 ,
-Cameroon,
-Cameroon,
-Cameroon,
-Cameroon,
-Cameroon,
+Cameroon,"Calvin Atewamba, National Agency for Information and Communication"
+Cameroon,"Michael Balinga, Center for International Forestry Research"
+Cameroon,"Beckline Mukete, University of Buea"
+Cameroon,"Johnson Ndi Nkem, United Nations Development Programme Cambodia"
+Cameroon,"Precillia Ijang Tata epouse Ngome, Institute of Agricultural Research for Development"
 ,
-Canada,
-Canada,
+Canada,"Robert Arnot, Natural Resources Canada"
+Canada,"David Atkinson, University of Victoria"
 ,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
+Canada,"Fikret Berkes, University of Manitoba Natural Resources Institute"
+Canada,"Pierre Bernier, Natural Resources Canada"
+Canada,"Peter Berry, Health Canada"
+Canada,"Mike Brklacich, Carleton University"
+Canada,"Ross Brown, Environment Canada"
+Canada,"Ian Burton, University of Toronto"
+Canada,"Elizabeth Bush, Environment Canada"
+Canada,"Christine Callihoo, Canadian Institute of Planners (CIP)"
+Canada,"Campbell Campbell, Natural Resources Canada"
+Canada,"Diane Chaumont, Ouranos"
+Canada,"William Cheung, University of British Columbia"
+Canada,"James Christian, Government of Canada"
+Canada,"Ian Church, Canadian Foundation for Climate and Atmospheric Sciences / International Polar Year (IPY) Canada"
+Canada,"J. Graham Cogley, Trent University"
+Canada,"Stewart Cohen, Adaptation and Impacts Research, Environment Canada"
+Canada,"Ashlee Cunsolo Willox, McGill University"
+Canada,"Debra Davidson, University of Alberta"
+Canada,"Ramon de Elia, Ouranos Consortium"
+Canada,"Rob de Loë, University of Waterloo"
+Canada,"Tom Deligiannis, University of Western Ontario"
+Canada,"Andrew Derocher, University of Alberta"
+Canada,"Narayan Dhital, Laval University"
+Canada,"Antony Diamond, University of New Brunswick"
+Canada,"Thea Dickinson, University of Toronto"
+Canada,"Karen Dodds, Environment Canada"
+Canada,"Simon Donner, University of British Columbia"
+Canada,"Victoria Edge, Public Health Agency of Canada"
+Canada,"Jason Edwards, Natural Resources Canada"
+Canada,"Susan Evans, World Wildlife Fund-Canada"
+Canada,"Richard Fernandes, Natural Resources Canada"
+Canada,"Richard Arthur Fleming, Canadian Forest Service"
+Canada,"Sean Fleming, Meteorological Service of Canada"
+Canada,"Evan Fraser, University of Guelph / University of Leeds"
+Canada,"Martin Gauthier, Natural Resources Canada"
+Canada,"Martin Girardin, Natural Resources Canada"
+Canada,"Blane Harvey, International Development Research Centre"
+Canada,"Erica Head, Fisheries and Oceans Canada"
+Canada,"Regine Hock, University of Alaska Fairbanks"
+Canada,"Darwin Horning, University of British Columbia Okanagan"
+Canada,"Carol Hunsberger, Institute of Social Studies"
+Canada,"Craig Johnson, University of Guelph"
+Canada,"Sanjay Khanna, Massey College in the University of Toronto"
+Canada,"Paul Kovacs, Institute for Catastrophic Loss Reduction"
+Canada,"Tajula Kulkarni, Aboriginal Affairs and Northern Development Canada"
+Canada,"Caroline Larrivée, Ouranos"
+Canada,"Liza Leclerc, Ouranos Consortium Incorporated"
+Canada,"Donald Lemmen, Natural Resources Canada"
+Canada,"Gita L. Ljubicic, Carleton University"
+Canada,"Connie Lovejoy, Université Laval"
+Canada,"Katie Lundy, Environment Canada"
+Canada,"Nick Macaluso, Environment Canada"
+Canada,"James MacLellan, University of New Brunswick"
+Canada,"Bob Manteaw, Government of Alberta"
+Canada,"Bonita McFarlane, Natural Resources Canada"
+Canada,"Stewart M. McKinnell, North Pacific Marine Science Organization"
+Canada,"Carrie Mitchell, International Development Research Centre (IDRC)"
+Canada,"Pat Roy Mooney, Action Group on Erosion, Technology and Concentration (ETC Group)"
+Canada,"Kathryn Moran, Ocean Networks Canada"
+Canada,"Hugues Morand, Agriculture and Agri-Food Canada"
+Canada,"Veronique Morin, Asian Institute of Technology"
+Canada,"Linda Mortsch, Environment Canada"
+Canada,"Trevor Murdock, Pacific Climate Impacts Consortium"
+Canada,"Douglas Nakashima, United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+Canada,"Mary I. O’Connor, University of British Columbia"
+Canada,"Nicholas Ogden, Public Health Agency of Canada"
+Canada,"Dan F. Orcherton, Pacific Centre for Envionment and Sustainable Development (PaCE-SD)"
 ,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
-Canada,
+Canada,"Greg Oulahen, Institute for Catastrophic Loss Reduction"
+Canada,"Stephen Parker, Public Health Agency of Canada"
+Canada,"David Pearson, Laurentian University"
+Canada,"R. Ian Perry, Fisheries and Oceans Canada"
+Canada,"Ian Perry, University of British Columbia"
+Canada,"David Price, Natural Resources Canada"
+Canada,"Terry Prowse, Environment Canada / University of Victoria"
+Canada,"Marie Raphoz, Ouranos, Consortium on Regional Climatology and Adaptation to Climate Change"
+Canada,"Graham Reeder, College of the Atlantic"
+Canada,"James D. Reist, Fisheries and Oceans Canada"
+Canada,"Christian Reuten, RWDI Air Incorporated"
+Canada,"David Sauchyn, University of Regina"
+Canada,"Daniel Scott, University of Waterloo"
+Canada,"Karin Simonson, Natural Resources Canada"
+Canada,"Elizabeth Smalley, Transport Canada"
+Canada,"Sharon Smith, Geological Survey of Canada"
+Canada,"Carolyn Smyth, Natural Resources Canada"
+Canada,"Dave Spittlehouse, Ministry of Forests, Lands and Natural Resource Operations, British Columbia"
+Canada,"Dáithí Stone, University of Cape Town / Lawrence Berkeley National Laboratory"
+Canada,"John Stone, Carleton University"
+Canada,"Roger B. Street, United Kingdom Climate Impacts Programme"
+Canada,"Liette Vasseur, Brock University"
+Canada,"Elizabeth Walsh, Natural Resources Canada"
+Canada,"Fiona Warren, Natural Resources Canada"
+Canada,"Frank Whitney, Institute of Ocean Sciences"
+Canada,"Andrew Wong, University of Waterloo"
+Canada,"David Wright, University of Ottawa"
+Canada,"Fred Wrona, Environment Canada"
+Canada,"Kristina Yuzva, United Nations University Institute for Environment and Human Security (UNU-EHS)"
+Canada,"Francis Zwiers, Pacific Climate Impacts Consortium / University of Victoria"
 ,
-Chile,
-Chile,
-Chile,
-Chile,
-Chile,
-Chile,
+Chile,"Paulina Aldunce, University of Chile"
+Chile,"Daniel Barrera, Ministry of Agriculture"
+Chile,Rene Garreaud
+Chile,"Maritza Jadrijevic, Ministry of Environment"
+Chile,"Francisco Meza, Pontificia Universidad Catolica de Chile"
+Chile,"Sebastian Vicuña, Pontificia Universidad Catolica de Chile"
 ,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
+China,"Rongshuo Cai, Third Institute of Oceanography, Chinese State Oceanic Administration"
+China,"Yi Cai, National Marine Environmental Forecasting Center"
+China,"Long Cao, Zhejiang University"
+China,"Liqi Chen, The Third Institute of Oceanography, State Oceanic Administration"
+China,"Minpeng Chen, Institution of Environment and Sustainable Development in Agriculture"
+China,"Richard T. Corlett, Chinese Academy of Sciences"
+China,"Xuefeng Cui, Beijing Normal University"
+China,"Yongiian Ding, Cold and Arid Regions Environmental and Engineering Research Institute"
+China,"Juqi Duan, National Climate Center, Chinese Meteorological Administration"
+China,"David Dudgeon, University of Hong Kong"
+China,"Ge Gao, National Climate Center, China Meteorological Administration"
+China,"Qingxian Gao, Chinese Research Academy of Environmental Sciences"
+China,"Qingzhu Gao, Institute of Environment and Sustainable Development in Agriculture"
+China,"Jie Guo, China Academy of Transportation Sciences"
+China,"Shiyi Guo, China Center for Information Industry Development"
+China,"He Qing Huang, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences"
+China,"Jikun Huang, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences"
+China,"Tong Jiang, China Meteorological Administration"
+China,"Zhongcheng Jiang, Institute of Karst Geology, Chinese Academy of Geological Sciences"
+China,"Cao Jianting, General Institute of Water Resources and Hydropower Planning (GIWP), Ministry of Water Resources"
 ,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
+China,"Yinhong Jin, Chinese Center for Disease Control and Prevention"
+China,"Yinlong Jin, Institute of Environmental Health and Related Products Safety, Chinese Center for Disease Control and Prevention"
+China,"Sai-ming Lee, Hong Kong Observatory"
+China,"Bingrui Li, Polar Research Institute of China, State Oceanic Administration"
+China,"Chaolun Li, Institute of Oceanology, Chinese Academy of Sciences"
+China,"Maosong Li, Chinese Academy of Agricultural Sciences"
+China,"Ning Li, Academy of Disaster Reduction and Emergency Management, Beijing Normal University"
+China,"Tiantian Li, Chinese Center for Disease Control and Prevention"
+China,"Wenjun Li, Beijing University"
+China,"Xiucang Li, National Climate Center, China Meteorological Adiministration"
+China,"Ying Li, National Climate Center, China Meteorological Adiministration"
+China,"Yu’e Li, Chinese Academy of Agricultural Sciences"
+China,"Erda Lin, Chinese Academy of Agricultural Sciences"
+China,"Bo Liu, National Climate Center,China Meteorological Adiministration"
+China,"Chunzen Liu, Ministry of Water Resources"
+China,"Luliu Liu, National Climate Center,China Meteorological Adiministration"
+China,"Qiyong Liu, National Institute for Communicable Disease Control and Prevention,"
+China,Chinese Center for Disease Control and Prevention
+China,"Hualou Long, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science (CAS)"
+China,"Qi Lu, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science (CAS)"
+China,"Xianfu Lu, Asian Development Bank"
+China,"Yong Luo, Qinghua University"
+China,"Shiming Ma, Institute of Environment and Sustainable Development in Agriculture"
+China,"Shiguang Miao, Institute of Urban Meteorology, China Meteorological Administration"
+China,"Xingguo Mo, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science (CAS)"
+China,"Lin Mou, State Oceanic Administration of China, National Marine Data and Information Service"
+China,"Genxing Pan, Nanjing Agricultural University"
+China,"Jiahua Pan, Chinese Academy of Social Sciences"
+China,"Xiaosheng Qin, Nanyang Technological University"
+China,"Jiansheng Qu, Data Center for Resources and Environmental Sciences, Chinese Academy of Science (CAS)"
+China,"Chao Ren, The Chinese University of Hong Kong"
+China,"Guoyu Ren, National Climate Center"
+China,"Lianchun Song, National Climate Center, China Meteorological Administration"
+China,"Yanling Song, China Meteorological Administration"
+China,"Buda Su, China Meteorological Administration"
+China,"Jianguo Tan, Shanghai Meteorological Institute"
+China,"Fulu Tao, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science (CAS)"
+China,"Chunfeng Wang, State Forestry Administration"
+China,"Chunsheng Wang, Second Institute of Oceanography, Chinese State Oceanic Administration"
+China,"Guoqing Wang, Nanjing Hydraulic Research Institute"
+China,"Jinxia Wang, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science (CAS)"
+China,"Xiao-Ling Wang, National Climate Center, China Meteorological Administration"
+China,"Jian Guo Wu, Chinese Academy of Environmental Sciences"
+China,"Shaohong Wu, Institute of Geographical Sciences and Natural Resources Research, Chinese Academy of Sciences"
+China,"Chaozong Xia, Academy of Forest Inventory and Planning"
+China,"Jun Xia, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science (CAS)"
+China,"Liyong Xie, Shenyang Agricultural University"
+China,"He Xu, College of Environmental Science and Engineering, Nankai University"
+China,"Hongmei Xu, National Climate Center, China Meteorological Administration"
+China,"Yinlong Xu, Institute of Environment and Sustainable Development in Agriculture (IEDA), Chinese Academy of Agricultural Sciences (CAAS)"
+China,"Denghua Yan, China Institute of Water Resources and Hydropower Research"
+China,"Luhui Yan, Tanzuji"
+China,"Xiangjun Yao, Food and Agriculture Organization of the United Nations (FAO)"
+China,"Siyuan Ye, Qingdao Institute of Marine Geology"
+China,"Songcai You, Chinese Academy of Agricultural Sciences"
 ,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
-China,
+China,"Rita Yu, Tyndall Centre for Climate Change Research, University of East Anglia"
+China,"Tianshan Zha, Beijing Forestry University"
+China,"Feng Zhang, Ministry of Housing and Urban-Rural Development"
+China,"Fengchun Zhang, Foreign Economic Cooperation Office, Ministry of Environmental Protection"
+China,"Guobin Zhang, State Forestry Administration"
+China,"Jianyun Zhang, Nanjing Institute of Water Resources and Hydropower Research"
+China,"Jinliang Zhang, Chinese Research Academy of Environmental Sciences"
+China,"Rui Zhang, Xiamen University"
+China,"Xiaochun Zhang, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences"
+China,"Yingnan Zhang, National Center for Food Safety Risk Assessment"
+China,"Zhibin Zhang, Institute of Zoology, Chinese Academy of Sciences"
+China,"Zong-Ci Zhao, National Climate Center"
+China,"Dawei Zheng, China Agricultural University"
+China,"Yan Zheng, Chinese Academy of Social Sciences (CASS)"
+China,"Xiaonong Zhou, National Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention"
+China,"Liucai Zhu, Ministry of Environmental Protection"
+China,"Xiaojin Zhu, National Climate Center"
+China,"Juncheng Zuo, Hohai University Colombia"
 ,
-Colombia,
-Colombia,
-Colombia,
-Colombia,
-Colombia,
-Colombia,
-Colombia,
-Colombia,
-Colombia,
-Colombia,
-Colombia,
+Colombia,"Angela Andrade, Conservation International"
+Colombia,"Omar-Dario Cardona, Universidad Nacional de Colombia, Instituto de Estudios Ambientales (IDEA)"
+Colombia,"Jason Garcia-Portilla, University of Sussex"
+Colombia,"Juanita Gonzalez Lamus, Institute of Hydrology Meteorology and Environmental Studies of Colombia (IDEAM)"
+Colombia,"Juan David Gutiérrez, Universidad de Santander"
+Colombia,"José Daniel Pabón-Caicedo, Universidad Nacional de Colombia"
+Colombia,"Germán Poveda, Department of Geosciences and Environment, Universidad Nacional de Colombia"
+Colombia,"Carmenza Robledo Abad, HELVETAS Swiss Intercooperation"
+Colombia,"Marcela Tarazona, Oxford Policy Management "
+Colombia,"Jorge Julian Velez, Universidad Nacional de Colombia Sede Manizales"
+Colombia,"Walter Vergara, Inter-American Development Bank (IDB)"
 ,
-Costa Rica,
-Costa Rica,
-Costa Rica,
-Costa Rica,
-Costa Rica,
-Costa Rica,
+Costa Rica,Eric Alfaro
+Costa Rica,"Oscar Calvo-Solano, Center for Geophysical Research"
+Costa Rica,"Maximiliano Campos, Organization of American States"
+Costa Rica,"Hugo Hidalgo, Universidad de Costa Rica"
+Costa Rica,"Juan Hoffmaister, Third World Network"
+Costa Rica,"Sergio Mora Castro, Independent Consultant"
 ,
-Cuba,
-Cuba,
+Cuba,"Cristobal Diaz Morejon, Ministry of Science, Technology and the Environment"
+Cuba,"Avelino G. Suarez, Institute of Ecology and Systematic, Cuban Environmental Agency"
 ,
-Cyprus,
+Cyprus,"Polyxeni Loizidou, AKTI Project and Research Centre"
 ,
-Czech Republic,
-Czech Republic,
+Czech Republic,"Sarka Blazkova, T.G. Masaryk Water Research Institute"
+Czech Republic,"Radim Tolasz, Czech Hydrometeorological Institute"
 ,
-Democratic Republic of the Congo,
+Democratic Republic of the Congo,"A. K. Sanga-Ngoie, Ritsumeikan Asia Pacific University"
 ,
-Denmark,
-Denmark,
-Denmark,
-Denmark,
-Denmark,
-Denmark,
-Denmark,
+Denmark,"Niels Aagaard, Danish Building Research Institute"
+Denmark,"Claus Beier, Technical University of Denmark"
+Denmark,"Keith Brander, Technical University of Denmark"
+Denmark,"Tina Christensen, Danish Meteorological Institute"
+Denmark,"Denisa Cupi, Technical University of Denmark"
+Denmark,"Ole Faergeman, Aarhus University Hospital"
+Denmark,"Louise Grøndahl, Danish Nature Agency"
 ,
-Denmark,
-Denmark,
-Denmark,
-Denmark,
-Denmark,
-Denmark,
-Denmark,
-Denmark,
-Denmark,
+Denmark,"Teunis Jansen, National Institute of Aquatic Resources, Technical University of Denmark"
+Denmark,"Anne Mette Jørgensen, Centre Danish Meteorological"
+Denmark,"Jonas Nielsen, Copenhagen University"
+Denmark,"Anne Olhoff, UNEP Risø Centre on Energy, Climate and Sustainable Development"
+Denmark,"Morten S. Olsen, Danish Energy Agency"
+Denmark,"John R. Porter, University of Copenhagen"
+Denmark,"Bent Sorensen, Roskilde University"
+Denmark,"Per Sørensen, Danish Coastal Authority"
+Denmark,"Hans Dencker Thulstrup, United Nations Educational, Scientific and Cultural Organization (UNESCO)"
 ,
-Ecuador,
+Ecuador,"Maria Jose Galarza, Ministerio del Ambiente del Ecuador"
 ,
-Egypt,
-Egypt,
-Egypt,
-Egypt,
-Egypt,
-Egypt,
-Egypt,
+Egypt,"Sherif Abdelrahim, IPCC National Focal Point"
+Egypt,"Mohamed Abdrabo, Institute of Graduate Studies and Research, University of Alexandria"
+Egypt,"Tamer Afifi, United Nations University Institute for Environment and Human Security"
+Egypt,"Ibrahim Elshinnawy, National Water Research Center"
+Egypt,"Mounir Wahba Labib, Third National Communication (TNC) Project"
+Egypt,"Amal Saad-Hussein, National Research Center"
+Egypt,"Mohamed Tawfic Ahmed, Suez Canal University"
 ,
-Ethiopia,
-Ethiopia,
-Ethiopia,
+Ethiopia,"Girmaw Bogale, United Nations Economic Commission for Africa"
+Ethiopia,"Berhane Grum, Mekelle University"
+Ethiopia,"Hussen Seid, University of Cape Town"
 ,
-Fiji,
-Fiji,
+Fiji,"Anirudh Singh, University of the South Pacific"
+Fiji,"Arthur Webb, Ocean and Islands Programme, SOPAC Division / Secretariat of the Pacific Community (SPC)"
 ,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
+Finland,"Miimu Airaksinen, VTT Technical Research Centre of Finland"
+Finland,"Timothy R. Carter, Finnish Environment Institute"
+Finland,"Majella Clarke, Forestry and Climate Change, Indufor"
+Finland,"Linda Ekholm, Ministry for Foreign Affairs"
+Finland,"Bruce C. Forbes, Arctic Centre, University of Lapland"
+Finland,"Simo Haanpää , Aalto University"
+Finland,"Kaija Hakala, MTT Agrifood Research Finland"
+Finland,"Mikko Halonen, Gaia Consulting Oy"
+Finland,"Antti Hannukkala, Agrifood Research Finland"
+Finland,"Asko Hannukkala, MTT Agrifood Research Finland"
+Finland,"Pirkko Heikinheimo, Ministry of the Environment"
+Finland,"Jani Heino, Finnish Environment Institute"
+Finland,"Anni Huhtala, Government Institute for Economic Research"
+Finland,"Kari Hyytiäinen, MTT Agrifood Research Finland"
+Finland,"Jatta Jämsén, Ministry for Foreign Affairs"
+Finland,"Sirkku Juhola, Aalto University"
+Finland,"Helena Kahiluoto, MTT Agrifood Research Finland"
+Finland,"Jaana Kaipainen, Ministry of Agriculture and Forestry"
+Finland,"Susanna Kankaanpää, Helsinki Region Environmental Services Authority (HSY)"
+Finland,"Anne Kasurinen, University of Eastern Finland"
+Finland,"Marjut Kaukolehto, University of Helsinki"
+Finland,"Pekka Lauri, International Institute for Applied Systems Analysis"
+Finland,"Heikki Lehtonen, MTT Agrifood Research "
+Finland,"Markus Lindner, European Forest Institute"
+Finland,"Sanna Luhtala, Finnish Meteorological Institute"
+Finland,"Johanna Mustelin, Griffith University"
+Finland,"Matti Nummelin, Ministry for Foreign Affairs"
+Finland,"Jouni Paavola, University of Leeds"
+Finland,"Juha Pekkanen, National Institute for Health"
+Finland,"Paula Perälä, Ministry of the Environment"
+Finland,"Nina Pirttioja, Finnish Environment Institute"
+Finland,"Jouni Räisänen, University of Helsinki"
+Finland,"Katri Rankinen, Finnish Environment Institute"
 ,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
-Finland,
+Finland,"Hannu Rintamäki, Finnish Institute of Occupational Health"
+Finland,"Philipp Schmidt-Thomé, Geological Survey of Finland"
+Finland,"Hanne Siikavirta, The Ministry of Employment and the Economy"
+Finland,"Kimmo Silvo, Finnish Environment Institute"
+Finland,"John Sumelius, University of Helsinki, Faculty of Agriculture and Forestry"
+Finland,"Monica Tennberg, University of Lapland"
+Finland,"Heikki Tuomenvirta, Finnish Meteorological Institute"
+Finland,"Anne Vehviläinen, Ministry of Agriculture and Forestry"
+,
+France,Fabien Anthelme
+France,"Audrey Baills, Bureau of Geological and Mining Research (BRGM)"
+France,"Pierre Batteau, Aix Marseille Université"
+France,"Gregory Beaugrand, Centre National de la Recherche Scientifique"
+France,"Celine Bellard, Université Paris-Sud"
+France,"Nicolas Beriot, Ministry of Ecology and Sustainable Development"
+France,"Etienne Berthier, Laboratoire d’Etudes en Géophysique et Océanographie Spatiales (LEGOS)"
+France,Arnaud Bertrand
+France,"Anne Blondlot, Ouranos"
+France,"Olivier Boucher, Laboratoire de Météorologie Dynamique / National Centre for Scientific Research (CNRS)"
+France,"Jean-Philipe Boulanger, Institut de Recherche pour le Développement"
+France,"Chris Bowler, École normale supérieure"
+France,"Nathalie Breda, French National Institute for Agricultural Research (INRA)"
+France,"Cyril Caminade, University of Liverpool"
+France,"Hélène Connor Lajambe, HELIO International"
+France,"Franck Courchamp, Université Paris-Sud"
+France,"Christophe Cudennec, Agrocampus Ouest"
+France,Philippe Cury
+France,"Nicolas Desramaut, Bureau of Geological and Mining Research (BRGM)"
+France,"Patrice Dumas, Centre International de Recherche sur l’Environnement et le Développement (CIRED)"
+France,"Virginie Duvat-Magnan, University of la Rochelle / National Centre for Scientific Research (CNRS)"
+France,"Samuel Etienne, École pratique des hautes études (EPHE)"
+France,"Evelyne Foerster, Bureau of Geological and Mining Research (BRGM)"
+France,"Bernard Francou, Institut de Recherche pour le Développement (IRD) / Laboratoire d’étude des Transferts en Hydrologie et Environnement (LTHE)"
+France,"JC Gaillard, The University of Auckland"
+France,"Simon Gascoin, Centre National de la Recherche Scientifique (CNRS)"
+France,"Jean-Pierre Gattuso, Centre National de la Recherche Scientifique (CNRS)"
+France,"Joel Guiot, Centre National de la Recherche Scientifique (CNRS)"
+France,"Stephane Hallegatte, The World Bank"
+France,"Deborah Idier, Bureau of Geological and Mining Research (BRGM)"
+France,"Stephanie Jenouvrier, Woods Hole Oceanographic Institution"
+France,"Sylvie Joussaume, Laboratoire des Sciences du Climat et de l’Environnement"
+France,"Zaneta Kubik, Paris Sorbonne University"
+France,"Benoit Laignel, Université de Rouen"
+France,"Annamaria Lammel, Université Paris 8"
+France,"Mariene Laruelle, George Washington University"
+France,"Goneri Le Cozannet, Bureau de Recherches Géologiques et Minières"
+France,"Olivier Le Pape, Agrocampus Quest"
+France,"Hervé Le Treut, Laboratoire de Météorologie Dynamique/ Institut Pierre Simon Laplace"
+France,"Paul Leadley, Université Paris"
+France,"Antoine Leblois, Centre International de Recherche sur l’Environnement et le Développement (CIRED)"
+France,"Alexia Leseur, CDC Climat Research"
+France,"Bruno Locatelli, Agricultural Research for Development (CIRAD) / Center for"
+France,International Forestry Research (CIFOR)
+France,"Denis Loustau, French National Institute for Agricultural Research (INRA)"
+France,"Philippe MacClenahan, Synergies Environnement"
+France,"Eric Martin, Meteo-France Centre National de Recherches Meteorologiques"
+France,"Timothee Ourbak, Ministere des Affaires Etrangeres"
+France,"Chantal Pacteau, Groupement d’Interet Scientifique GIS-Climat"
+France,"Martin Pecheux, Institut des Foraminifères Symbiotiques"
+France,"Michel Petit, Conseil General de L’industrie, de L’energie et des Technologies (CGIET)"
+,
+France,"Josyane Ronchail, Laboratory of Oceanography and Climate"
+France,"Bernard Seguin, Institut National de la Recherche Agronomique"
+France,"Guillaume Simioni, French National Institute for Agricultural Research (INRA)"
+France,"Jean-Francois Soussana, French National Institute for Agriculture, Food and Environment Research"
+France,"Benjamin Sultan, Laboratoire LOCEAN"
+France,"Jean-Philippe Vidal, Irstea"
+France,"Vincent Viguié, Centre International de Recherche sur l’Environnement et le Développement"
+,
+Germany,"Rita Adrian, Leibniz-Institute of Freshwater Ecology and Inland Fisheries"
+Germany,"Mariam Akhtar-Schuster, German Aerospace Center"
+Germany,"Jürgen Alheit, University of Rostock"
+Germany,"Jens Arle, German Federal Environment Agency"
+Germany,"Claudia Bach, United Nations University Institute for Environment and Human Security"
+Germany,"Ruth Badeberg, German Aerospace Center"
+Germany,"Christoph Bals, Germanwatch"
+Germany,"Armineh Barkhordarian, Institute of Coastal Research, Helmholtz-Zentrum Geesthacht"
+Germany,"Roland Barthel, Helmholtz Centre for Environmental Research (UFZ)"
+Germany,"Anne-Christine Becker, German Federal Agency for Nature Conservation"
+Germany,"Nina Becker, Helmholtz Centre for Environmental Research (UFZ) / Overseas Development Institute (ODI)"
+Germany,"Till Below, Competence Centre for Climate Change (GIZ)"
+Germany,"Joern Birkmann, United Nations University, Institute for Environment and Human Security"
+Germany,"Gisela Böhm, University of Bergen"
+Germany,"Andreas Bolte, Johann Heinrich von Thuenen-Institute (vTI)"
+Germany,"Angelika Brandt, University of Hamburg"
+Germany,"Hans Gunter Brauch , Free University of Berlin"
+Germany,"Michael Brzoska, University of Hamburg"
+Germany,"Dim Coumou, Potsdam Institute for Climate Impact Research"
+Germany,"Wolfgang Cramer, Potsdam Institute for Climate Impact Research (PIK) / Institut Méditerranéen de Biodiversité et d’Ecologie marine et continentale (IMBE)"
+Germany,"Achim Daschkeit, German Federal Environment Agency"
+Germany,"Petra Döll, Goethe University Frankfurt"
+Germany,"Klaus Elsenack, Carl von Ossietzky University Oldenburg"
+Germany,"Nilson Enno, German Federal Institute of Hydrology"
+Germany,"Raffael Ernst, Senckenberg Natural History Collections Dresden"
+Germany,"Rita Fabris, German Federal Environment Agency"
+Germany,"Eberhard Faust, Munich Reinsurance Company"
+Germany,"Simone Ruiz Fernandez, Allianz Climate Solutions"
+Germany,"Annelie Fincke, Project Management Agency, German Aerospace Center"
+Germany,"Wiltrud Fischer, German Aerospace Center"
+Germany,"Thomas Fischer, University of Tuebingen"
+Germany,"Martina Flörke, University of Kassel"
+Germany,"Johannes Förster, Helmholtz Centre for Environmental Research (UFZ)"
+Germany,"Joerg Friedrichs, University of Oxford"
+Germany,"Stefan Fronzek, Finnish Environment Institute"
+Germany,"Barbara Früh, German Weather Service"
+Germany,"Hartmut Fuenfgeld, RMIT University"
+Germany,"Ursula Fuentes-Hutfilter, Federal Ministry for the Environment, Nature Conservation and Nuclear Safety"
+Germany,"Hans-Martin Füssel, European Environment Agency"
+Germany,"Ruhi Gandhi, Humboldt University"
+Germany,"Matthias Garschagen, Institute for Environment and Human Security, United Nations University"
+Germany,"Sebastian Gerland, Norwegian Polar Institute"
+Germany,"Dieter Gerten, Potsdam Institute for Climate Impact Research"
+Germany,"Nicole Glanemann, University of Hamburg"
+Germany,"Inka Gnittke, Federal Ministry for the Environment, Nature Conservation and Nuclear Safety"
+Germany,"Stefan Greiving, Technical University of Dortmund"
+Germany,"Hans-Peter Grossart, Leibniz Institute of Freshwater Ecology and Inland Fisheries"
+Germany,"Torsten Grothmann, Carl von Ossietzky University of Oldenburg"
+Germany,"Gerrit Hansen, Potsdam Institute for Climate Impact Research"
+Germany,"Köthe Harald, Federal Ministry of Transport, Building and Urban Development"
+,
+Germany,"William Hare, Climate Analytics GmbH"
+Germany,"Sven Harmeling, Germanwatch"
+Germany,"Jochen Harnisch, KfW"
+Germany,"Marek Harsdorff, International Labour Office (ILO)"
+Germany,"Florian Hartig, Helmholtz Centre for Environmental Research (UFZ)"
+Germany,"Clemens Haße, Federal Environment Agency"
+Germany,"Heike Hebbinghaus, North-Rhine Westphalian State Agency for Nature, Environment and Consumer Protection"
+Germany,"Gabriele C. Hegerl, University of Edinburgh"
+Germany,"Hartmut Heinrich, Federal Maritime and Hydrographic Agency"
+Germany,"Hermann Held, University of Hamburg"
+Germany,"Andreas Hemp, University of Bayreuth"
+Germany,"Susanne Hempen, Federal Ministry for the Environment, Nature Conservation and Nuclear Safety"
+Germany,"Clemens Heuson, Helmholtz Centre for Environmental Research (UFZ)"
+Germany,"Thomas Hickler, Goethe University, Frankfurt"
+Germany,"Jacquelinie Hilbert, Federal Environment Agency"
+Germany,"Jochen Hinkel, Global Climate Forum (GCF)"
+Germany,"Dirk Hoffmann, Bolivian Mountain Institute (BMI)"
+Germany,"Dirk Hölscher, University of Göttingen"
+Germany,"Anne Holsten, Potsdam Institute of Climate Impact Research"
+Germany,"Britta Horstmann, German Development Institute"
+Germany,"Wulf Hülsmann, Federal Environment Agency"
+Germany,"Tobias Ide, Research Group Climate Change and Security"
+Germany,"Björn Ingendahl, Federal Ministry for the Environment, Nature Conservation and Nuclear Safety"
+Germany,"Venugopalan Ittekkot, University of Bremen (Retired)"
+Germany,"Daniela Jacob, Climate Service Center, Hamburg"
+Germany,"Annelie Janz Federal Ministry for the Environment, Nature Conservation and Nuclear Safety"
+Germany,"Andreas Kaeaeb, University of Oslo"
+Germany,"Leonhard Kaehler, Carl von Ossietzky Universitat of Oldenburg"
+Germany,"Uwe Kaminski, German Weather Service"
+Germany,"Marcus Kaplan, German Development Institute"
+Germany,"Karin Kartschall, Federal Environment Agency"
+Germany,"Kur Christian Kersebaum, Leibniz Centre for Agricultural Landscape Research"
+Germany,"Christina Koppe, German Meteorological Service"
+Germany,"Meinolf Koßmann, German Weather Service"
+Germany,"Werner Krauss, Institute for Coastal Research, Helmholtz Zentrum Geesthacht"
+Germany,"Frank Kreienkamp, Climate and Environment Consulting Potsdam GmbH"
+Germany,"Birgit Kuna, German Aerospace Center"
+Germany,"Oliver Lah, Wuppertal Institute for Climate, Environment and Energy"
+Germany,"Phan Thanh Lan, Humboldt University"
+Germany,"Tracy Lane, International Hydropower Association (IHA)"
+Germany,"Marcel Langner, Federal Environment Agency"
+Germany,"Walter Leal, Hamburg University of Applied Sciences"
+Germany,"Anja Mager, Federal Ministry for the Environment, Nature Conservation and Nuclear Safety"
+Germany,"Petra Mahrenholz, Federal Environment Agency"
+Germany,"Cornelia Maier, Laboratoire de Océanographie de Villefranche sur Mer"
+Germany,"Regina Maltry, Federal Ministry of Transport, Building and Urban Development"
+Germany,"Cindy Mathan, Federal Environment Agency"
+Germany,"Eva Franziska Matthies, Consultant"
+Germany,"Wilhelm May, Danish Meteorological Institute"
+Germany,"Bettina Menne, World Health Organization, Regional Office for Europe"
+Germany,"Lena Menzel, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research"
+Germany,"Annette Menzel, Technical University of Munich"
+Germany,"Andreas Meyer-Aurich, Leibniz-Institute for Agricultural Engineering Potsdam-Bornim"
+Germany,"Jan Minx, WGIII Technical Support Unit"
+Germany,"Fausto Mirabile, VDI Technologiezentrum GmbH"
+Germany,"Lutz Morgenstern, Federal Ministry for the Environment, Nature Conservation and Nuclear Safety"
+Germany,"Claudia Müller, German Aerospace Center"
+Germany,"Jens Mundhenke, Federal Ministry of Economics and Technology"
+Germany,"Christoph Oberlack, University of Freiburg"
+Germany,"Daniel Osberghaus, Centre for European Economic Research (ZEW)"
+Germany,"Frank Oskamp, Federal Ministry of Finance"
+,
+Germany,"Papasozomenou Ourania, Humboldt University"
+Germany,"Claudia Pahl-Wostl, University of Osnabruck"
+Germany,"Frank Paul, University of Zurich"
+Germany,"Anna Pechan, University of Oldenburg"
+Germany,"Juliane Petersen, Climate Service Centre, Helmholtz-Zentrum Geesthacht"
+Germany,"Hans-O. Pörtner, Alfred-Wegener-Institute for Polar and Marine Research"
+Germany,"Marco Puetz, Swiss Federal Institute for Forest, Snow and Landscape Research WSL"
+Germany,"Christoph Rau, Federal Environment Agency"
+Germany,"Christopher Reyer, Potsdam Institute for Climate Impact Research"
+Germany,"Joachim Rock, Johann Heinrich von Thuenen-Institute, Federal Research Institute for Rural Areas, Forestry and Fisheries"
+Germany,"Björn Rost, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research"
+Germany,"Reimund Rötter, MTT Agrifood Research Finland"
+Germany,"Armin Sandhoevel, Allianz Climate Solutions"
+Germany,"M. Satyanarayan, Ministry of Water Resources"
+Germany,"Inke Schauser, Federal Environment Agency"
+Germany,"Jürgen Scheffran, University of Hamburg"
+Germany,"Torsten Schlurmann, Franzius-Institut for Hydraulic, Waterways and Coastal Engineering"
+Germany,"Stefan Schneiderbauer, EURAC (European Academy)"
+Germany,"Benjamin Schraven, German Development Institute"
+Germany,"Hartmut Schug, VDI Technologiezentrum GmbH"
+Germany,"Lena Schulte-Uebbing, Wageningen University and Research Centre"
+Germany,"Sven Schulze, Hamburgisches WeltWirtschaftsInstitut (HWWI)"
+Germany,"Susanne Schwan, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) "
+Germany,"Reimund Schwarze, Helmholtz Leipzig"
+Germany,"Luitgard Schwendenmann, University of Auckland"
+Germany,"Josef Settele, Helmholtz Centre for Environmental Research"
+Germany,"Diana Sietz, Wageningen University"
+Germany,"Kreft Sönke, United Nations University Institute for Environmental and Human Security"
+Germany,"Horst Steg, German Aerospace Center"
+Germany,"Daniela Storch, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research"
+Germany,"Swenja Surminski, Grantham Research Institute on Climate Change and the Environment / London School of Economics and Political Science"
+Germany,"Andreas Täuber, Federal Ministry of Food, Agriculture and Consumer Protection"
+Germany,"Christiane Textor, German Aerospace Center"
+Germany,"Klement Tockner, Leibniz Institute of Freshwater Ecology and Inland Fisheries"
+Germany,"Petra van Rüth, Federal Environment Agency"
+Germany,"Andreas Vetter, Federal Environment Agency"
+Germany,"Thomaa Voigt, Federal Environment Agency"
+Germany,"Gottfried von Gemmingen, Federal Ministry for Economic Cooperation and Development"
+Germany,"Christoph von Stechow, WGIII Technical Support Unit"
+Germany,"Hans von Storch, Helmholtz-Zentrum Geesthacht"
+Germany,"Koko Warner, United Nations University Institute for Environment and Human Security"
+Germany,"Christian Webersik, University of Agder"
+Germany,"Juergen Weichselgartner, University of Kiel"
+Germany,"Christian Wiencke, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research"
+Germany,"Florian Wieneke, KfW Development Bank"
+Germany,"Marten Winter, Helmholtz Centre for Environmental Research (UFZ ) / German Centre for Integrative Biodiversity Research (iDiv)"
+Germany,"Astrid Wittmann, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research"
+Germany,"Tanja Wolf, World Health Organization Regional Office for Europe"
+Germany,"Sabine Wurzler, North Rhine Westphalia State Environment Agency"
+Germany,"Shelby Yamamoto, Heidelberg University"
+Germany,"Winfried Zacher, Germanwatch"
+Germany,"Peter Zeil, Center for Geoinformatics- Z_GIS, Salzburg University "
+Germany,"Michael Zissener, United Nations University Institute for Environment and Human Security (UNU-EHS)"
+Germany,"Johanna Wolf, Royal Roads University"
+,
+Ghana,"Ama Essel, Korle-Bu Teaching Hospital, University of Ghana Medical School"
+,
+Greece,"Kostas Balaras, Institute for Environmental Research and Sustainable Development, National Observatory of Athens"
+Greece,"Constantinos Cartalis, University of Athens"
+Greece,Dimitri Damigos National Technical University of Athens
+Greece,"Danae Diakoulaki, National Technical University of Athens"
+Greece,"Elena Georgopoulou, National Observatory of Athens"
+Greece,"Klea Katsouyanni, University of Athens Medical School"
+Greece,"Anastasios Kentarchos, European Commission DG-Research "
+Greece,"Denia Kolokotsa, Technical University of Crete"
+Greece,"Vally Koubi, University of Bern"
+Greece,"Aristeidis Koutroulis, Technical University of Crete"
+Greece,"Demetris Koutsoyiannis, National Technical University of Athens"
+Greece,"Anastasios Legakis, University of Athens"
+Greece,"Athanasios Loukas, University of Thessaly"
+Greece,"Andreas Matzarakis, University of Freiburg"
+Greece,"Dimitrios Melas, Aristotle University of Thessaloniki"
+Greece,"Nikolaos Nikolaidis, Technical University of Crete"
+Greece,"Matheos Santamouris, National University Athens"
+Greece,"Yannis Sarafidis, National Observatory of Athens, Institute for Environmental Research and Sustainable Development"
+Greece,"Dimitris Stathakis, University of Thessaly"
+Greece,"Nikolaos Stilianakis, European Commission"
+Greece,"Athanasios Vafeidis, University of Kiel"
+Greece,"Despoina Vokou, Aristotle University of Thessaloniki"
+Greece,"Prodromos Zanis, Aristotle University of Thessaloniki"
+,
+Guatemala,"Edwin Castellanos, Universidad del Valle de Guatemala"
+,
+Hungary,"Lukács Ákos, Ministry of National Development"
+Hungary,"Ferenc L. Tóth, International Atomic Energy Agency / Corvinus University"
+,
+Iceland,"Olafur S. Ástþórsson, Marine Research Institute"
+Iceland,"Halldor Bjornsson, Icelandic Meteorological Office"
+Iceland,"Tomas Jóhannessson, Icelandic Meteorological Office"
+Iceland,"Joan Nymand Larsen, Stefansson Arctic Institute"
+Iceland,"Jon Ólafsson, University of Iceland"
+Iceland,"Bjarni Sigurðsson, Agricultural University of Iceland"
+,
+India,"P.C. Abhilash, Banaras Hindu University"
+India,"Pramod Aggarwal, CGIAR Research Program on Climate Change, Agriculture, and Food Security"
+India,"Ashish Aggarwal, University of Manchester"
+India,"Rais Akhtar, Aligarh Muslim University"
+India,"Archis Ambulkar, Brinjac Engineering Incorporated"
+India,"S. Attri, Indian Meteorological Department"
+India,"Govindasamy Bala, Indian Institute of Science"
+India,"Suruchi Bhadwal, The Energy and Resources Institute"
+India,"Alka Bharat, M.A. National Institute of Technology"
+India,"Shelley Bhattacharya, Visva Bharati University"
+India,"Rita Chauhan, Jawaharial Nehru University"
+India,"Purnamita Dasgupta, Institute of Economic Growth, University of Delhi Enclave"
+India,"Susmita Dasgupta, The World Bank"
+India,"Jitendra Desai, Reliance Industries Limited"
+India,"Ramesh C. Dhiman, National Institute of Malaria Research (ICMR)"
+India,"Navroz Dubash, Centre for Policy Research"
+India,"Amit Garg, Indian Institute of Management, Ahmedabad"
+India,"Himangana Gupta, Panjab University"
+India,"Ahmad Hussain, Bihar State Electricity Board (Retired)"
+India,"Manmohan Kapshe, Maulana Azad National Institute of Technology"
+India,"Sanjiv Kumar, Center for Ocean-Land-Atmosphere Studies"
+India,"B. Mohan Kumar, Indian Council of Agricultural Research"
+India,"Surender Kumar, University of Delhi"
+India,"Salvador Lyngdoh, Wildlife Institute of India"
+India,"Ather Masoodi, Aligarh Muslim University"
+,
+India,"Manju Mohan, Indian Institute of Technology Delhi"
+India,"Pradeep Mujumdar, Indian Institute of Science"
+India,"Rupa Mukerji, HELVETAS Swiss Intercooperation"
+India,"Indu Murthy, Indian Institute of Social Sciences"
+India,"Malini Nair, Indiana Institute of Science"
+India,"Sreeja Nair, Lee Kuan School of Public Policy, National University of Singapore"
+India,"A.W. Naqvi, National Institute of Oceanography"
+India,"Nandan Nawn, West Bengal National University of Juridical Sciences"
+India,"Amrutasri Nori-Sarma, Indian Institute of Public Health"
+India,"Sumetee Pahwa Gajjar, Indian Institute for Human Settlements (IIHS)"
+India,"L.M.S. Palini, G.B. Institute of Himilayan Geology"
+India,"Anand Patwardhan, Indian Institute of Technology Bombay"
+India,"Zahoor Ahmad Pir, Government Girls Post Graduate College, Moti Tabela"
+India,"S.V.R.K. Prabhakar, Institute of Global Environmental Studies (IGES), Tokyo"
+India,"N.H. Ravindranath, Indian Institute of Social Sciences"
+India,"Rajasree Ray, Department of Economic Affairs"
+India,"Aromar Revi, Indian Institute for Human Settlements"
+India,"S. Satapathy, Ministry of Environment and Forests"
+India,"B.N. Satapathy, Planning Commission"
+India,"Subodh Kumar Sharma, Ministry of Environment and Forests"
+India,"C. Sharma, National Physical Laboratory"
+India,"Aakash Shrivastava, National Centre for Disease Control, Ministry of Health and"
+India,Family Welfare
+India,"Balwinder Singh, Pacific Northwest National Laboratory"
+India,"Naresh Soora, Indian Institute of Agriculture Research"
+India,"Akhilesh Surjan, Kyoto University"
+India,"Renoj Thayyen, National Institute of Hydrology"
+India,"A. Unnikrishnan, National Institute of Oceanography"
+India,"B. Venkateshwarlu, Central Research Institute for Dryland Agriculture"
+,
+Indonesia,"Pramaditya Wicaksono, Universitas Gadjah Mada"
+,
+Iran,"Ali Reza Gohari, Isfahan University of Technology"
+,
+Ireland,"Margaret Desmond, Environmental Protection Agency"
+Ireland,"Alison Donnelly, Trinity College Dublin"
+Ireland,"Paul Egan, Trinity College Dublin"
+Ireland,"Patrick Goodman, Dublin Institute of Technology"
+Ireland,"Fion O’Connor, Met Office Hadley Centre"
+Ireland,"Clionadh Raleigh, Trinity College Dublin"
+Ireland,"John Sweeney, National University of Ireland Maynooth"
+,
+Italy,"Giovanni Bettini, Lund University"
+Italy,"Andrea Bigano, Fondazione Eni Enrico Mattei"
+Italy,"Marco Bindi, University of Florence"
+Italy,"Laura Bonzanigo, Ca’ Foscari University of Venice"
+Italy,"Marco Borga, University of Padova"
+Italy,"Francesco Bosello, University of Milan / Fondazione Eni Enrico Mattei"
+Italy,"Lorenzo Carrera, Ca’ Foscari University of Venice"
+Italy,"Claudio Cassardo, University of Torino"
+Italy,"Sergio Castellari, Centro Euro-Mediterraneo sui Cambiamenti Climatici / Istituto Nazionale di Geofisica e Vulcanologia (INGV) "
+Italy,"Maria Vincenza Chiriacò, University of Tuscia"
+Italy,"Paolo Ciavola, University of Ferrara"
+Italy,"Luisa Cristini, University of Hawaii"
+Italy,"Fabio Eboli, Fondazione Eni Enrico Mattei"
+Italy,"Andre Filpa, Universita Roma Tre"
+Italy,"Domenico Gaudioso, Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA)"
+Italy,"Valentina Giannini, Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) "
+Italy,"Francesca Giordano, Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA)"
+Italy,"Filippo Giorgi, Abdus Salam International Centre for Theoretical Physics"
+Italy,"Carlo Giupponi, Università Ca’ Foscari Venezia / Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)"
+Italy,"Georg Kaser, University of Innsbruck"
+Italy,"Leslie Lipper, Food and Agriculture Organization of the United Nations"
+Italy,"Andrea Milan, United Nations University Institute for Environment and Human Security"
+Italy,"Luca Montanarella, European Commission-Joint Research Centre, Institute for Environment and Sustainability"
+Italy,"Antonio Navarra, Centro Euro-Mediterranean Center for Climate Change"
+Italy,"Simone Ombuen, Universita Roma Tre"
+Italy,"Stefania Proietti, University of Perugia"
+Italy,"Lorenzo Quaglietta, University of Rome"
+Italy,"Carlo Rondinini, University of Rome"
+Italy,"Cristina Sabbioni, Institute of Atmospheric Sciences and Climate, Italian National Research Council"
+Italy,"Gianluca Sara, University of Palermo"
+Italy,"Carlo Scaramella, World Food Programme (WFP)"
+Italy,"Luciana Sinisi, Institute for Environmental Protection and Research"
+Italy,"Donatella Spano, University of Sassari"
+Italy,"Chiara Trabacchi, Ca’ Foscari University of Venice"
+Italy,"Riccardo Valentini, University of Tuscia and Euro-Mediterranean Center for Climate Change"
+Italy,"Sara Venturini, Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) "
+Italy,"Federico Viscarra, Ca’ Foscari University of Venice"
+Italy,"Marianne Zeyringer, European Commission, Joint Research Centre"
+,
+Jamaica,"David Dodman, International Institute for Environment and Development (IIED) / University College London"
+Jamaica,"Clifford Mahlung, Meteorological Service"
+,
+Japan,"Sachiho Adachi, Japan Argency for Marine-Earth Science and Technology"
+Japan,"Keigo Akimoto, Research Institute of Innovative Technology for the Earth (RITE)"
+Japan,"Kenshi Baba, Center for Regional Research, Hosei University"
+Japan,"Sanae Chiba, Japan Agency for Marine-Earth Science and Technology (JAMSTEC)"
+Japan,"Mariko Fujimori, Pacific Consultants Company Ltd."
+Japan,"Kazuhiko Fukami, National Institute for Land and Infrastructure Management (NILIM) / Ministry of Land, Infrastructure, Transport and Tourism (MLIT)"
+Japan,"Masayuki Hara, Japan Agency for Marine-Earth Science and Technology"
+Japan,"Naomi Harada, Japan Agency for Marine-Earth Science and Technology"
+Japan,"Masahiro Hashizume, Institute of Tropical Medicine, Nagasaki University"
+Japan,"Ayami Hayashi, Research Institute of Innovative Technology for the Earth (RITE)"
+Japan,"Yasuaki Hijioka, National Institute for Environmental Studies"
+Japan,"Yukiko Hirabayashi, University of Tokyo"
+Japan,"Yasushi Honda, University of Tsukuba"
+Japan,"Toshichika Iizumi, National Institute for Agro-Environmental Sciences"
+Japan,"Masahiko Isobe, University of Tokyo"
+Japan,"Shin-ichi Ito, Fisheries Research Agency, Tohoku National Fisheries Research Institute"
+Japan,"Shinjiro Kanae, Tokyo Institute of Technology"
+Japan,"Hiromitsu Kanno, National Agricultural Research Center for Tohoku Region"
+Japan,"Hiroyasu Kawai, Port and Airport Research Institute"
+Japan,"Hajime Kayanne, University of Tokyo"
+Japan,"So Kazama, Tohoku University"
+Japan,"Akio Kitoh, University of Tsukuba"
+Japan,"Yoshiyuki Kiyono, Forestry and Forest Products Research Institute (FFPRI)"
+Japan,"Hiroaki Kondo, National Institute of Advanced Industrial Science and Technology (AIST)"
+Japan,"Toshichika Lizumi, National Institute for Agro-Environmental Sciences"
+Japan,"Toshihiko Masui, National Institute for Environmental Studies"
+Japan,"Tetsuya Matsui, Forestry and Forest Products Research Institute"
+Japan,"Nobuo Mimura, Ibaraki University"
+Japan,"Tsuneyoshi Mochizuki, Japan River Association"
+Japan,"Akihiko Murata, Japan Agency for Marine-Earth Science and Technology"
+Japan,"Toshiyuki Nakaegawa, Meteorological Research Institute, Japan Meteorological Agency"
+Japan,"Motoki Nishimori, National Institute for Agro-Environmental Sciences"
+Japan,"Yukihiro Nojiri, Nationall Institute for Environmental Studies"
+Japan,"Junichiro Oda, Research Institute of Innovative Technology for the Earth (RITE)"
+Japan,"Taikan Oki, University of Tokyo"
+Japan,"Norio Saito, Graduate School of Science and Engineering, Ibaraki University"
+,
+Japan,"Yoshiki Saito, National Institute of Advanced Industrial Science and Technology"
+Japan,"Rajib Shaw, Kyoto University"
+Japan,"Yoshiyuki Shimoda, Osaka University"
+Japan,"Masato Sugi, Research Institute for Global Change (RIGC) / Japan Agency for Marine-Earth Science and Technology (JAMSTEC)"
+Japan,"Toshihiko Sugiura, National Agriculture and Food Research Organization"
+Japan,"Taishi Sugiyama, Central Research Institute of Electric Power Industry"
+Japan,"Kiyoshi Takahashi, National Institute for Environmental Studies"
+Japan,"Kuniyoshi Takeuchi, International Centre for Water Hazard and Risk Management (ICHARM)"
+Japan,"Kazuhiko Takeuchi, United Nations University"
+Japan,"Masami Tamura, Ministry of Foreign Affairs of Japan"
+Japan,"Tetsuji Tanaka, Towett Institute of Nutrition and Health, University of Aberdeen"
+Japan,"Hasegawa Toshihiro, National Institute for Agro-Environmental Sciences"
+Japan,"Ikutaro Tsuyama, Forestry and Forest Products Research Institute"
+Japan,"Mitsutsune Yamaguchi, The University of Tokyo "
+Japan,"Kazuya Yasuhara, Ibaraki University"
+Japan,"Hiromune Yokoki, Ibaraki University"
+,
+Kenya,"Richard Anyah, University of Connecticut"
+Kenya,"Samwel Marigi, Kenya Meteorological Department"
+Kenya,"Margaret Mwangi, Pennsylvania State University"
+Kenya,"Maggie Opondo, University of Nairobi"
+,
+Luxembourg,"Andrew Ferrone, Public Research Centre-Gabriel Lippmann"
+,
+Madagascar,"Tatiana Arivelo, United Nations Economic Commission for Africa"
+Madagascar,"Nimbol Raelinera, National Meteorological Office"
+Madagascar,"Nirivololona Raholijao, National Meteorological Service"
+Madagascar,"Marie-Louise Rakotondrafara, Madagascar National Weather Service"
+,
+Malaysia,"Hoy Yen Chan, National University of Malaysia"
+Malaysia,"Joy Jacqueline Pereira, Universiti Kebangsaan Malaysia"
+Malaysia,"Jennifer Rubis, United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+,
+Maldives,"Amjad Abdulla, Ministry of Housing, Environment, and Energy"
+Maldives,"Mr./Ms. Zahid, Maldives Meteorological Service"
+,
+Malta,"Lino Pascal Briguglio, Islands and Small States Institute, University of Malta"
+,
+Mauritania,"Guéladio Cissé, Swiss Tropical and Public Health Institute"
+,
+Mauritius,"Premchand Coolaup, Mauritius Meteorological Services"
+,
+Mexico,"Fernando Aragón-Durand, Researcher and Independent Consultant"
+Mexico,"Clara Aranda, University of Cambridge"
+Mexico,"Marylin Bejarano, National Autonomous University of Mexico"
+Mexico,"Julio Campo Alves, Universidad Nacional Autónoma de México"
+Mexico,"Cecilia Conde, Centro de Ciencias de la Atmósfera, Universidad Nacional Autónoma de México"
+Mexico,"Pablo Del Monte-Luna, National Polytechnic Institute"
+Mexico,"Ana Elisa Peña del Valle Isla, Programa de Investigaciòn en Cambio Climático, Universidad Nacional Autónoma de México"
+Mexico,"Francisco Estrada Porrua, Centro de Ciencias de la Atmósfera, Universidad Nacional Autónoma de México"
+Mexico,"Ricardo Fuentes-Nieva, Oxfam Great Britain"
+Mexico,"Blanca E. Jiménez Cisneros, Universidad Nacional Autónoma de México / United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+Mexico,"Salvador E. Lluch-Cota, Centro de Investigaciones Biológicas del Noroeste, S.C."
+Mexico,"Alejandro Monterroso, Universidad Autonoma Chapingo"
+Mexico,"Ana Rosa Moreno, School of Medicine, Universidad Nacional Autónoma de México"
+Mexico,"Úrsula Oswald Spring, Universidad Nacional Autónoma de México"
+Mexico,"Ameyali Ramos Castillo, United Nations University Institute of Advanced Studies"
+Mexico,"Patricia Romero-Lankao, National Center for Atmospheric Research"
+Mexico,"Joseluis Samaniego, United Nations Economic Commission for Latin America and the Caribbean (ECLAC)"
+Mexico,"Landy Sánchez Peña, El Colegio de Mexico"
+Mexico,"Roberto A. Sanchez Rodriguez, El Colegio de la Frontera Norte"
+Mexico,"Ana Solorzano-Sanchez, Institute of Development Studies"
+Mexico,"Fabiola S. Sosa-Rodriguez, University of Waterloo"
+Mexico,"Lourdes Villers-Ruiz, Centro de Ciencias de la Atmósfera, Universidad Nacional Autónoma de México"
+Mexico,"Maria Eugenia Ibarraran Viniegra, Universidad Iberoamericana Puebla"
+,
+Morocco,"Karim Hilmi, Institut National de Recherche Halieutique"
+Morocco,"Abdellatif Khattabi, Ecole Nationale Forestiere d’Ingénieurs"
+Morocco,"Abdalah Mokssit, Direction de la Météorologie Nationale (DMN)"
+,
+Namibia,"Oliver C. Ruppel, University of Stellenbosch"
+,
+Nepal,"Tek Gurung, Consultant"
+,
+New Caledonia,"Johann Bell, Secretariat of the Pacific Community"
+,
+New Zealand,"Susanne Becken, Griffith University / Lincoln University"
+New Zealand,"Robert Bell, National Institute of Water and Atmospheric Research (NIWA)"
+New Zealand,"Paula Blackett, AgResearch"
+New Zealand,"Chris Cameron, Wellington City Council"
+New Zealand,"John Richard Campbell, University of Waikato"
+New Zealand,"Louise Parsons Chini, University of Maryland"
+New Zealand,"Daniel Collins, National Institute of Water and Atmospheric Research (NIWA)"
+New Zealand,"Brad Field, GNS Science"
+New Zealand,"Blair Fitzharris, University of Otago"
+New Zealand,"Olia Glade, Ministry for the Environment"
+New Zealand,"Bruce Glavovic, Massey University"
+New Zealand,"Frances Graham, Ministry of Health"
+New Zealand,"Vincent Gray, Climate Consultant"
+New Zealand,"Simon Hales, University of Otago, Wellington"
+New Zealand,"Garth Harmsworth, Landcare Research"
+New Zealand,"John Hay, University of the South Pacific"
+New Zealand,"Kate Hodgkinson, Ministry for the Environment"
+New Zealand,"Sam Holmes, Ministry for the Environment"
+New Zealand,"Darren King, National Institute of Water and Atmospheric Research (NIWA)"
+New Zealand,"Miko Kirschbaum, Landcare Research"
+New Zealand,"Tord Kjellstrom, Centre for Global Health Research, Umea University"
+New Zealand,"Julie Knauf, Ministry for the Environment"
+New Zealand,"Cliff Law, National Institute of Water and Atmospheric Research (NIWA)"
+New Zealand,"Judy Lawrence, PS Consulting"
+New Zealand,"Amanda Leathers, Ministry of Māori Development"
+New Zealand,"Graeme Lindsay, School of Population Health, University of Auckland"
+New Zealand,"Mary Livingston, Ministry for Primary Industries"
+New Zealand,"Martin Richard Manning, Victoria University of Wellington "
+New Zealand,"Henrik Moller, University of Otago"
+New Zealand,"Paul Newton, AgResearch"
+New Zealand,"Eric Pawson, University of Canterbury"
+New Zealand,"Grant Pearce, Scion"
+New Zealand,"Susan Peoples, AgResearch"
+New Zealand,"Helen Plume, Ministry for the Environment"
+New Zealand,"Andy Reisinger, New Zealand Agricultural Greenhouse Gas Research Centre"
+New Zealand,"Alice Ryan, Ministry for the Environment"
+New Zealand,"Bruce Harris Small, AgResearch Ltd"
+New Zealand,"Inga Smith, University of Otago"
+New Zealand,"Wayne Stephenson, University of Otago"
+,
+New Zealand,"Adolf Stroombergen, Infometrics"
+New Zealand,"Frances Sullivan, Local Government New Zealand"
+New Zealand,"Andrew Tait, National Institute of Water and Atmosphere"
+New Zealand,"Ian Turney, Ministry of Business, Innovation and Employment"
+New Zealand,"Alistair Woodward, University of Auckland"
+New Zealand,"David Wratt, National Institute of Water and Atmospheric Research"
+New Zealand,"Dan Zwartz, Ministry for the Environment"
+New Zealand,"Philip W. Boyd, Institute of Marine and Antractic Studies (IMAS)"
+,
+Nicaragua,"Juanita Jergenal, Ministry of the Environment and Natural Resources"
+,
+Niger,"Dieudonne Goudou, High Commission of Niger Valley Development"
+,
+Nigeria,"Ibidun Adelekan, University of Ibadan"
+Nigeria,"Julius Adewopo, University of Florida"
+Nigeria,Chineke Theo Chidiezie 
+Nigeria,"Etim Essien, University of Uyo"
+Nigeria,"Elochukwu Ezenekwe, Nnamdi Azikiwe University "
+Nigeria,"Emiola Gbobaniyi, Centre for Atmospheric Research"
+Nigeria,"Maruf Sanni, National Centre for Technology Management"
+Nigeria,Okoro Ugochukwu
+Nigeria,"Michael Uwagbae, Ambrose Alli University"
+Nigeria,Dike Victor
+,
+Norway,"Maja Stade Aaronaes, Norwegian Directorate for Nature Management"
+Norway,"Dag Lorents Aksnes, University of Bergen"
+Norway,"Helene Amundsen, Centre for International Climate and Environmental Research (CICERO)"
+Norway,"Claire Armstrong, Arctic University of Norway"
+Norway,"Torgrim Asphjell, Climate and Pollution Agency"
+Norway,"Tor A. Benjaminsen, Norwegian University of Life Sciences"
+Norway,"Halvard Buhaug, Peace Research Institute Oslo"
+Norway,"Anne Chapuis, Norwegian Environment Agency"
+Norway,"Oyvind Christophersen, Norwegian Environment Agency"
+Norway,"Linda Dalen, Norwegian Environment Agency"
+Norway,"Halvor Dannevig, Western Norway Research Institute"
+Norway,"Kenneth Drinkwater, Institute of Marine Research"
+Norway,"Arne Eide, Norwegian College of Fishery Science, University of Tromsø"
+Norway,"Siri Eriksen, Norwegian University of Life Sciences"
+Norway,"Per Fjeldal, Climate and Pollution Agency"
+Norway,"Jan Fuglestvedt, Centre for International Climate and"
+Norway,"Alice Gaustad, Climate and Pollution Agency"
+Norway,"Solveig Glomsrød, Centre for International Climate and Environmental Research (CICERO)"
+Norway,"Håvard Haarstad, University of Bergen"
+Norway,"Susanne Hanssen, Norwegian Directorate for Nature Management"
+Norway,"Dag Hessen, University of Oslo"
+Norway,"Hege Hisdal, Norwegian Water Resources and Energy Directorate"
+Norway,"Grete K. Hovelsrud, Nordland Research Institute"
+Norway,"Randi Ingvaldsen, Institute of Marine Research"
+Norway,"Ketil Isaksen, Norwegian Meteorological Institute Environmental Research (CICERO)"
+Norway,"Vikram Kolmannskog, Norwegian Refugee Council"
+Norway,"Kit Kovacs, Norwegian Polar Institute"
+Norway,"Maria Malene Kvalevåg, Norwegian Environment Agency"
+Norway,"Ole-Kristian Kvissel, Norwegian Environment Agency"
+Norway,"Herdis Laupsa, Norwegian Environment Agency"
+Norway,"Harold Leffertstra, Norwegian Environment Agency"
+Norway,"Else Marie Løbersli, Norwegian Directorate for Nature Management"
+Norway,"Harald Loeng, Institute of Marine Research / University of Tromsø"
+Norway,"Torleif Markussen Lunde, University of Bergen"
+Norway,"Andrei Marin, Norwegian University of Life Sciences"
+Norway,"Svein Disch Mathiesen, International Centre for Reindeer Husbandry"
+Norway,"Philip Mortensen, Norwegian Environment Agency"
+Norway,"Lars Otto Naess, Institute of Development, University of Sussex"
+Norway,"Stale Navrud, Norwegian University of Life Sciences"
+Norway,"Robert Amos Ngwira, Norwegian University of Life Sciences"
+Norway,"Birgit Njåstad, Norwegian Polar Institute"
+Norway,"Karen O’Brien, University of Oslo"
+Norway,"Ellen Øseth , Norwegian Polar Institute"
+Norway,"Anders Oskal, International Centre for Reindeer Husbandry"
+Norway,"Geir Ottersen, Institute of Marine Research"
+Norway,"Åsa Pedersen, Norwegian Environment Agency"
+Norway,"Riccardo Pravettoni, GRID-Arendal"
+Norway,"Pål Prestrud, Centre for International Climate and Environmental Research (CICERO)"
+Norway,"Gunnar Skotte, Norwegian Environment Agency"
+Norway,"Birger Solberg, Norwegian University of Life Sciences"
+Norway,"Asuncion Lera St. Clair, Centre for International Climate and Environmental Research (CICERO)"
+Norway,"Svein Sundby, Institute of Marine Research"
+Norway,"Linda Sygna, University of Oslo"
+Norway,"Vigdis Vestreng, Climate and Pollution Agency"
+Norway,"Amanda Villaruel, Norwegian Water Directorate"
+Norway,"Cecilie von Quillfeldt, Norwegian Polar Institute"
+Norway,"Anna von Streng Velken, Norwegian Environment Agency"
+Norway,"Dag Vongraven, Norwegian Polar Institute"
+,
+Pakistan,"Muhammad Adnan, Ministry of Climate Change"
+Pakistan,"Ghazanfar Ali, Global Change Impact Studies Centre (GCISC)"
+Pakistan,"Muhammad Amjad, Global Change Impact Studies Centre (GCISC)"
+Pakistan,"Javeria Ashraf, Global Change Impact Studies Centre (GCISC)"
+Pakistan,"Sobiah Becker, Munich Climate Insurance Initiative, United Nations University"
+Pakistan,"Qamar uz Zaman Chaudhry, Ministry of Climate Change Government of Pakistan"
+Pakistan,"Arif Goheer, Global Change Impact Studies Centre (GCISC)"
+Pakistan,"Muhammad Zia ur Rahman Hashmi, Global Change Impact Studies Centre (GCISC)"
+Pakistan,"Muhammad Mohsin Iqbal, Global Change Impact Studies Centre (GCISC)"
+Pakistan,"Naeem Manzoor, Global Change Impact Studies Centre (GCISC)"
+Pakistan,"Muhammad Munir Sheikh, Global Change Impact Studies Centre (GCISC)"
+,
+Panama,"José Fábrega, Universidad Tecnológica de Panamá"
+Panama,"Emilio Messina, Panama Canal Authority"
+Panama,"Casilda Saavedra, Technological University of Panama"
+,
+Peru,"Wilfredo Bulege-Gutiérrez, Universidad Continental"
+Peru,"Eduardo Calvo, Universidad Nacional Mayor de San Marcos"
+Peru,"Jhan Caro Espinoza, Instituto Geofísico del Perú (IGP)"
+Peru,"Catherine Mariela Coronado Leon, Universidad Cientifica del Sur"
+Peru,"Ken Takahashi, Instituto Geofísico del Perú"
+,
+Philippines,"Felino P. Lansigan, University of the Philippines Los Baños"
+Philippines,"Rodel Lasco, World Agroforestry Centre (ICRAF)"
+Philippines,"Manuel F. Montes, South Centre Global Governance for Development"
+Philippines,"Rosa Perez, Manila Observatory"
+Philippines,"Juan Pulhin, University of the Philippine Los Baños"
+Philippines,"Lourdes Tibig, Manila Observatory"
+Philippines,"Reiner Wassman, International Rice Research Institute (IRRI)"
+,
+Poland,"Krzysztof Błażejczyk, University of Warsaw"
+Poland,"Janusz Filipiak, Institute of Meteorology and Water Management National Research Institute"
+Poland,"Janusz Kindler, Warsaw University of Technology"
+Poland,"Zbigniew Kundzewicz, Polish Academy of Sciences"
+Poland,"Krzysztof Olendrzynski, United Nations Economic Commission for Europe"
+Poland,"Grzegorz Różyński, Institute of Hydroengineering of the Polish Academy of Sciences"
+Poland,"Maciej Sadowski, Institute of Environmental Protection National Research Institute"
+Poland,"Tomasz Walczykiewicz, Institute of Meteorology and Water Management National Research Institute"
+Poland,"Jan Marcin Węsławski, Institute of Oceanology of the Polish Academy of Sciences"
+Poland,"Thomasz Zylicz, University of Warsaw"
+,
+Portugal,"Sofia Bettencourt, The World Bank"
+Portugal,"Luciana das Neves, University of Porto-Faculty of Engineering"
+Portugal,"Diogo de Gusmao, Met Office Hadley Centre"
+Portugal,"Oscar Ferreira, University of Algarve"
+Portugal,"Teresa Fidalgo Fonseca, Universidade de Trás-os-Montes e Alto Douro"
+Portugal,"Bruno Moreira, Centre for Functional Ecology, University of Coimbra"
+Portugal,"Maria Manuela Portela, Instituto Superior Tecnico (IST)"
+Portugal,"Filipe Santos, University of Lisbon"
+Portugal,"Carla Andreia Silva Mora, University of Lisbon"
+Portugal,"Celine Verissimo, University College London"
+Portugal,"Goncalo Vieira, University of London"
+,
+Republic of Korea,"Tae Sung Cheong, National Disaster Management Institute"
+Republic of Korea,"So-Min Cheong, University of Kansas"
+Republic of Korea,"Youngeun Choi, Konkuk University"
+Republic of Korea,"JinYong Choi, Seoul National University"
+Republic of Korea,"Jae-Youn Jang, Ajou University"
+Republic of Korea,"Sukgeun Jung, Jeju National University"
+Republic of Korea,"Suam Kim, Pukyong National University"
+Republic of Korea,"Won-Tae Kwon, National Institute of Meteorological Research"
+Republic of Korea,"Seung-Ki Min, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marine and Atmospheric Research"
+Republic of Korea,"Soojeong Myeong, Korea Environment Institute"
+Republic of Korea,"Seung-Kyun Park, Korea Meteorological Administration"
+,
+Republic of Moldova,"Alexei Andreev, BIOTICA Ecological Society"
+Republic of Moldova,"Roman Corobov, Independent Researcher"
+Republic of Moldova,"Ilya Trombitsky, Eco-TIRAS International Environmental Association of River Keepers"
+,
+Romania,"Cosmin Corendea, United Nations University Institute for Environment and Human Security "
+Romania,"Valentina Mara, Columbia University"
+Romania,"Elena Mateescu, National Meteorological Administration of Romania"
+,
+Russian Federation,"Maria Ananicheva, Institute of Geography, Russian Academy of Sciences"
+Russian Federation,"Oleg A. Anisimov, State Hydrological Institute"
+Russian Federation,"Yuri Anokhin, Institute of Global Climate and Ecology of the Federal Service on Hydrometeorology and Environmental Monitoring, and Russian Academy of Sciences"
+Russian Federation,"Vsevolod Belkovich, P.P. Shirshov Institute of Oceanology"
+Russian Federation,"Alexey V. Eliseev, A.M.Obukhov Institute of Atmospheric Physics, Russian Academy of Sciences"
+Russian Federation,"Mikhail Flint, P.P. Shirshov Institute of Oceanology"
+Russian Federation,"Gregory Insarov, Institute of Geography, Russian Academy of Sciences"
+Russian Federation,"Yury Izrael, Institute of Global Climate and Ecology of the Federal Service on Hydrometeorology and Environmental Monitoring, and Russian Academy of Sciences"
+Russian Federation,"Andrey G. Kostianoy, P.P. Shirshov Institute of Oceanology, Russian Academy of Sciences"
+Russian Federation,"Anna Kukhta, Institute of Global Climate and Ecology of the Federal Service on Hydrometeorology and Environmental Monitoring, and Russian Academy of Sciences"
+Russian Federation,"Dmitry L. Musolin, Saint Petersburg State Forest Technical University"
+Russian Federation,"Vera Pavlova, Federal State Institution of Agricultural Meteorology"
+Russian Federation,"Boris Revich, Institute of Forecasting, Russian Academy of Science"
+Russian Federation,"Alexey Ryaboshapko, Institute of Global Climate and Ecology of the Federal Service on Hydrometeorology and Environmental Monitoring, and Russian Academy of Sciences"
+Russian Federation,"Sergey Semenov, Institute of Global Climate and Ecology of the Federal Service on Hydrometeorology and Environmental Monitoring, and Russian Academy of Sciences"
+Russian Federation,"Kristina Trusilova, Deutscher Wetterdienst"
+Russian Federation,"Peter Zavialov, P.P. Shirshov Institute of Oceanology"
+,
+Rwanda,"Didace Musoni, Rwanda Meteorological Agency Saint Lucia"
+Rwanda,"Keith Nichols, Caribbean Community Climate Change Centre"
+,
+Saudi Arabia,"Khalid Abuleif, IPCC Focal Point"
+Saudi Arabia,"Faisal Al Zawad, Presidency of Meteorology and Environment"
+,
+Senegal,"Salif Diop, United Nations Environment Programme / Scientific Assessment Branch (SAB) of the Division of Early Warning and Assessment (DEWA)"
+Senegal,"Aliou Diouf, ENDA Energie-Environnement-Développement"
+Senegal,"Papa Demba Fall, University Cheikh Anta Diop of Dakar, Institut fondamental d’Afrique Noire"
+Senegal,"Omar Ly, Environment and Fisheries Department / INGESAHEL-sa "
+Senegal,"Aminata Ndiaye, University Cheikh Anta Diop of Dakar"
+Senegal,"Jacques Andre Ndione, Centre de Suivi Ecologique"
+Senegal,"Isabelle Niang, University Cheikh Anta Diop"
+Senegal,"Aissa Toure Sarr, International Fund for Agricultural Development (IFAD)"
+,
+Serbia,"Andjelka Mihajlov, University of Novi Sad / Environmental Ambassadors for Sustainable Development"
+,
+Seychelles,"Rolph Payet, University of Seychelles"
+,
+Sierra Leone,"Abdulai Jalloh, West and Central African Council for Agricultural Research and Development (CORAF/WECARD)"
+Sierra Leone,"Osman Sankoh, INDEPTH Network/University of the Witwatersrand/Hanoi Medical University"
+,
+Singapore,"Winston Chow, National University of Singapore"
+Singapore,"Li Ding, Nanyang Technological University (NTU)"
+Singapore,"Xixi Lu, University of Singapore"
+Singapore,"Andreas Schaffer, Nanyang Technological University (NTU)"
+Singapore,"Poh Poh Wong, National University of Singapore (Retired)"
+,
+Slovakia,"Jaroslav Mysiak, Fondazione Eni Enrico Mattei; and Euro-Mediteranean Center for Climate Change"
+Slovakia,"Jan Szolgay, Slovak University of Technology"
+,
+Slovenia,"Lucka Kajfez Bogataj, University of Ljubljana"
+,
+South Africa,"Emma Archer van Garderen, Council for Scientific and Industrial Research (CSIR)"
+South Africa,"Sally Archibald, Natural Resources and the Environment, Council for Scientific and Industrial Research / University of the Witwatersrand"
+South Africa,"Jane Battersby, African Centre for Cities, University of Cape Town"
+South Africa,"Kevern Cochrane, Rhodes University"
+South Africa,"Tracy Cull, Kulima Integrated Development Solutions (Pty) Ltd."
+South Africa,"Wendy Foden, University of the Witwatersrand"
+South Africa,"Rebecca Garland, Natural Resources and the Environment Unit, Council for Scientific and Industrial Research"
+South Africa,"Bruce Hewitson, University of Cape Town"
+South Africa,"Nicholas King, Consultant"
+South Africa,"Christopher Lennard, Climate Systems Analysis Group, University of Cape Town"
+South Africa,"Andrew Mather, eThekwini Municipality"
+South Africa,"Alexio Mbereko, University of Kwazulu-Natal"
+South Africa,"Guy F. Midgley, South African National Biodiversity Institute"
+South Africa,"Coleen Moloney, Marine Research Institute"
+South Africa,"Jane Mukarugwiza Olwoch, South African National Space Agency (SANSA)"
+South Africa,"Pierre Mukheibir, University of Technology Sydney"
+South Africa,"Debra Roberts, eThekwini Municipality"
+South Africa,"Michael Henry Schleyer, Oceanographic Research Institute"
+South Africa,"Robert Scholes, Council for Scientific and Industrial Research (CSIR), Natural Resources and the Environment (NRE)"
+South Africa,"Roland Schulze, University of KwaZulu-Natal"
+South Africa,"Sarshen Scorgie, Conservation South Africa"
+South Africa,"Sheona Shackleton, Rhodes University"
+South Africa,"Mxolisi Shongwe, South African Weather Service"
+South Africa,"James Thurlow, United Nations University’s World Institute for Development Economics Research"
+South Africa,"Rabelani Tshikalanke, International Climate Change Mitigation, Environmental Affairs"
+South Africa,"Penny Urquhart, Independent Consultant"
+South Africa,"Claire van Wyk, University of Cape Town"
+South Africa,"Katharine Vincent, Kulima Integrated Development Solutions / University Witwatersrand Johannesburg"
+South Africa,"Coleen Vogel, University of Pretoria"
+South Africa,"Caradee Wright, Council for Scientific and Industrial Research"
+,
+Spain,"X. Anton Alvarez-Salgado, CSIC Instituto de Investigaciones Marinas"
+Spain,"Ricardo Anadon, University of Oviedo"
+Spain,"Javier Aristegui, Universidad de Las Palmas de Gran Canaria"
+Spain,"Gerardo Benito, Spanish Council for Scientific Research"
+Spain,"Antonio Bode, Instituto Espanol de Oceanografia"
+Spain,"Ibáñez Carles, Institute for Food Research and Technology (IRTA)"
+Spain,"Juan-Carlos Ciscar, European Commission"
+Spain,"Jordi Cortina, University of Alicante"
+Spain,"Roger Cremades, University of Hamburg"
+Spain,"Carlos de Miguel, United Nations Economic Commission for Latin America and the"
+,
+Caribbean,"Cristina Garcia-Diaz, Spanish Climate Change Office"
+Caribbean,"Raquel Garza Garrido, Spanish Climate Change Office"
+Caribbean,"M. Dolores Garza-Gil, University of Vigo"
+Caribbean,"Jonathan Gómez Cantero, Universidad de Alicante"
+Caribbean,"Ana Iglesias, Universidad Politecnica de Madrid"
+Caribbean,"Julio Diaaz Jimenez, Carlos III Institute of Health, National School of Public Health"
+Caribbean,"Olcina Jorge, University of Alicante"
+Caribbean,"Carmen Lacambra Segura, Grupo La era"
+Caribbean,"Cristina Linares Gil, Instituto de Salud Carlos III"
+Caribbean,"Maria-Carmen Llasat, University of Barcelona"
+Caribbean,"Josep Lloret, University of Girona"
+Caribbean,"Feliu López-i-Gelats, Center for Agro-food Economy and Development (CREDA-UPC-IRTA)"
+Caribbean,"Iñigo J. Losada, Universidad de Cantabria, Environmental Hydraulics Institute IH Cantabria"
+Caribbean,"Anil Markandya, Basque Centre for Climate Change"
+Caribbean,"Jorge Martínez Chamorro, Gobierno de Canarias"
+Caribbean,"Juan Carlos Montero, Health Sciences Institute"
+Caribbean,"José M. Moreno, University of Castilla-La Mancha"
+Caribbean,"Lino Naranjo, MeteoGalicia"
+Caribbean,"Francisco José Pascual Pérez, Spanish Climate Change Office"
+Caribbean,"Carle Pelejero Institució Catalana de Recerca i Estudis Avançats (ICREA) / Institut de Ciències del Mar, CSIC"
+Caribbean,"Josep Penuelas, Centre for Ecological Research and forestry Applications (CREAF) / Consejo Superior de Investigaciones Cientificas (CSIC)"
+Caribbean,"José Ramón Picatoste Ruggeroni, Spanish Climate Change Office"
+Caribbean,"Salvador Pueyo, Institut Català de Ciències del Clima (IC3)"
+Caribbean,"Sonia Quiroga, Universidad de Alcala"
+Caribbean,"Victor Resco de Dios, University of Western Sydney"
+Caribbean,"Marta G. Rivera-Ferre, University of Vic-Central University of Catalonia"
+Caribbean,"Dionisio Rodriguez Alvarez, Xunta de Galicia"
+Caribbean,"Beatriz Rodriguez-Labajos, Autonomous University of Barcelona"
+Caribbean,"Bruno Sanchez Andrade Nuno, gain.org"
+Caribbean,"Ethemcan Turhan, Universitat Autonoma de Barcelona"
+Caribbean,"Ramón Vallejo, Universidad de Barcelona"
+Caribbean,"David Velázquez, Universidad Autónoma de Madrid"
+,
+,
+,
+Sri Lanka,"Achala Chandani Abeysinghe, International  Institute for Environment and Development"
+Sri Lanka,"Amithirigala Jayawardena, International Centre for Water Hazard and Risk Management (ICHARM)"
+,
+State of Palestine,"Nedal Katbeh-Bader, Ministry of Environmental Affairs Environment Quality Authority (EQA)"
+State of Palestine,"Imad Khatib, Palestine Academy for Science and Technology"
+,
+Sudan,"Balgis Osman-Elasha, African Development Bank"
+Sudan,"Sumaya Zakieldeen, University of Khartoum"
+,
+Sweden,"Lotta Andersson, Swedish Meteorological and Hydrological Institute"
+Sweden,"Lars Bärring, Swedish Meteorological and Hydrological Institute"
+Sweden,"Kristina Blennow, Swedish University of Agricultural"
+Sweden,"Anna Bratt, County Administrative Board"
+Sweden,"Annika Carlsson-Kanyama, Swedish Defense Research Agency"
+Sweden,"Charlotte Cederbom, Swedish Geotechnical Institute"
+Sweden,"Goran Duus-Otterstrom, University of Gothenburg"
+Sweden,"Adam Felton, Swedish University of Agricultural Sciences"
+Sweden,"Carina Keskitalo, Umea University"
+Sweden,"Richard J.T. Klein, Stockholm Environment Institute"
+Sweden,"Elisabet Lindgren, Karolinska Institutet"
+Sweden,"Ulf Molau, University of Gothenburg"
+Sweden,"Lennart Olsson, Lund University"
+Sweden,"Markku Rummukainen, Lund University / Swedish Meteorological and Hydrological Institute"
+Sweden,"Rainer Sauerborn, Umeå University"
+Sweden,"E. Lisa F. Schipper, Stockholm Environment Institute"
+Sweden,"Åsa Sjöström, Swedish Meteorological and Hydrological Institute"
+Sweden,"Sofie Storbjork, Linkoping University"
+,
+Switzerland,"Simon K. Allen, IPCC Working Group I Technical Support Unit"
+Switzerland,"Martin Beniston, Institute for Environmental Sciences University of Geneva "
+Switzerland,"Thomas Bernauer, Swiss Federal Institute of Technology (ETH) Zurich"
+Switzerland,"David Bresch, Swiss Reinsurance Company"
+Switzerland,"Nicole Clot, HELVETAS Swiss Intercooperation"
+Switzerland,"Johann Dupuis, Swiss Graduate School of Public Administration (IDHEAP)"
+Switzerland,"Urs Feller, University of Bern"
+Switzerland,"Andreas Fischlin, Swiss Federal Institute of Technology (ETH) Zurich, Systems Ecology"
+Switzerland,"Thomas Frölicher, Institute of Biogeochemistry and Pollutant Dynamics, Swiss Federal Institute of Technology (ETH) Zurich"
+Switzerland,"Yuka Nathalie Greiler, Swiss Federal Agency for Development and Cooperation"
+Switzerland,"Wilfried Haeberli, University of Zurich"
+Switzerland,"Christian Huggel, University of Zurich"
+Switzerland,"Christian Körner, University of Basel"
+Switzerland,"Herbert Lang, Swiss Federal Institute of Technology (ETH) Zurich"
+Switzerland,"Heike Lischke, Swiss Federal Institute for Forest, Snow and Landscape Research"
+Switzerland,"Juerg Luterbacher, Justus Liebig University"
+Switzerland,"Axel Michaelowa, University of Zurich"
+Switzerland,"Lea Mueller, Swiss Reinsurance Company Ltd."
+Switzerland,"Ulrike Mueller-Boeker, University of Zurich"
+Switzerland,"Adrian Muller, Research Institute of Organic Agriculture FiBL"
+Switzerland,"Alexander Nauels, IPCC Working Group I Technical Support Unit"
+Switzerland,"Etienne Piguet, University of Neuchâtel"
+Switzerland,"Gian-Kasper Plattner, IPCC Working Group I Technical Support Unit"
+Switzerland,"Ana Maria Priceputu, United Nations Environment Programme"
+Switzerland,"Dominik Reusser, Potsdam Institute for Climate Impact Research"
+Switzerland,"José Romero, Federal Office for the Environment"
+Switzerland,"Dominic Roser, University of Zurich / University of Graz"
+Switzerland,"This Rutishauser, University of Bern"
+Switzerland,"Jan Sedlacek, Institute for Atmospheric and Climate Science, Swiss Federal Institute of Technology (ETH) Zurich"
+Switzerland,"Thomas F. Stocker, IPCC Working Group I Technical Support Unit"
+Switzerland,"Yu Xia, IPCC Working Group I Technical Support Unit"
+Switzerland,"Hong Yang, Swiss Federal Institute for Aquatic Science and Technology"
+,
+Tanzania,"Joseph P. Hella, Sokoine University of Agriculture"
+Tanzania,"Shadrack S. Mwakalila, University of Dar es Salaam"
+,
+Thailand,"Bundit Limmeechokchai, Sirindhorn International Institute of Technology, THAMMASAT University"
+,
+The former Yugoslav Republic of Macedonia,"Vladimir Kendrovski, World Health Organization Regional Office for Europe"
+,
+The Gambia,"Fatima Denton, African Climate Policy Centre, United Nations Economic Commission for Africa"
+The Gambia,"Fatou Ndey Gaye, Ministry of Forestry and Environment"
+The Gambia,Sirra Njai
+The Gambia,"Sidat Yaffa, University of The Gambia"
+,
+The Netherlands,"Fernanda Minikowski Achete, UNESCO Institute for Water Education"
+The Netherlands,"Valeria Agamennone, Vrije University Amsterdam"
+The Netherlands,"Farhana Ahmed, UNESCO Institute for Water Education"
+The Netherlands,"Julito Aligaen, UNESCO Institute for Water Education"
+The Netherlands,"Wondmyibza Tsegaye Bayou, Wageningen University"
+The Netherlands,"Frans G.H. Berkhout, King’s College London"
+The Netherlands,"Pieter Bloemen, Ministry of Infrastructure and the Environment"
+The Netherlands,"Andrew Bollinger, Delft University of Technology"
+The Netherlands,"Christiaan Both, University of Groningen"
+The Netherlands,"Wouter Botzen, Vrije Universiteit Amsterdam"
+The Netherlands,"Laurens M. Bouwer, Deltares"
+The Netherlands,"Anne Sjoerd Brouwer, Utrecht University"
+The Netherlands,"Bas Clabbers, Ministry of Economic Affairs, Department of Nature and Biodiversity"
+The Netherlands,"Sjoerd Croqué, Ministry of Economic Affairs, European Agricultural Policy and Food Security"
+The Netherlands,"Maarten de Jong, Wageningen University"
+The Netherlands,"Roos M. den Uyl, Utrecht University"
+The Netherlands,"Katrien Descheemaeker, Plant Production Systems, Wageningen University"
+The Netherlands,"Peter P.J. Driessen, Utrecht University"
+The Netherlands,"Mario Duarte Duque, UNESCO Institute for Water Education"
+The Netherlands,"Giema Ebrahim, UNESCO Institute for Water Education"
+The Netherlands,"David Eitelberg, Vrije University Amsterdam"
+The Netherlands,"Kai Fang, Leiden University"
+The Netherlands,"Ronald Flipphi, Ministry of Infrastructure and Environment"
+The Netherlands,"Hayo Haanstra, Ministry of Economic Affairs"
+The Netherlands,"Linh Hoang, UNESCO Institute for Water Education"
+The Netherlands,"Andries Hof, Netherlands Environmental Assessment Agency"
+The Netherlands,"Rumana Hossain, Wageningen University"
+The Netherlands,"Rohan Jain, UNESCO Institute for Water Education"
+The Netherlands,"Rob Jongman, Wageningen University"
+The Netherlands,"Olaf Jonkeren, PBL Netherlands Environmental Assessment Agency"
+The Netherlands,"Jeanelle Joseph, Wageningen University"
+The Netherlands,"Pavel Kabat, International Institute for Applied Systems Analysis (IIASA)"
+The Netherlands,"Mark Koetse, Vrije University Amsterdam"
+The Netherlands,"Elco Koks, Vrije University Amsterdam"
+The Netherlands,"Hans Komakech, UNESCO Institute for Water Education"
+The Netherlands,"Rik Leemans, Wageningen University"
+The Netherlands,"Chris Manyamba, Wageningen University"
+The Netherlands,"Belinda McFadgen, Vrije University Amsterdam"
+The Netherlands,"Heleen Mees, Utrecht University"
+The Netherlands,"Lieke Melsen, Wageningen University"
+The Netherlands,"Jack Middelburg, Utrecht University"
+The Netherlands,"Erik Min, Royal Netherlands Meteorological Institute (KNMI)"
+The Netherlands,"Iris Monnereau, University of the West Indies"
+The Netherlands,"Francesc Montserrat, Netherlands Institute for Sea Research"
+The Netherlands,"Piero Morseletto, Vrije University Amsterdam"
+The Netherlands,"Micah Mukungu Mukolwe, UNESCO Institute for Water Education"
+The Netherlands,"Aidin Niamir, University of Twente"
+The Netherlands,"Pedi Obani, UNESCO Institute for Water Education"
+The Netherlands,"Abby Onencan, Vrije University Amsterdam"
+The Netherlands,"Astra Ooms, Vrije University Amsterdam"
+The Netherlands,"Amandine Pastor, Wageningen University"
+The Netherlands,"Pieter Pauw, German Development Institute"
+The Netherlands,"Adriaan Perrels, Finnish Meteorological Institute"
+The Netherlands,"Arthur Petersen, PBL Netherlands Environmental Assessment Agency"
+The Netherlands,"Catharina Philippart, Royal Netherlands Institute for Sea Research"
+The Netherlands,"Mirjam Poppe, Ministry of Economic Affairs, Department of Nature and Biodiversity"
+The Netherlands,"Piet Rietveld, Vrije University Amsterdam"
+The Netherlands,"Johanna Schild, Vrije University Amsterdam"
+The Netherlands,"Arina Schrier, Wetlands International"
+The Netherlands,"Pita Spruijt, Vrije University Amsterdam"
+The Netherlands,"Marcel Stive, Delft University of Technology (DUT)"
+The Netherlands,"Wouter Suring, Vrije University Amsterdam"
+The Netherlands,"Behnam Taebi, Delft University of Technology"
+The Netherlands,"Caroline Uittenbroek, Utrecht University"
+The Netherlands,"Maarten van Aalst, Red Cross / Red Crescent Climate Centre"
+The Netherlands,"Vincent van den Bergen, Ministry of Infrastructure and the Environment"
+The Netherlands,"B. van den Hurk, Royal Netherlands Meteorological Institute"
+The Netherlands,"Kees van der Geest, United National University"
+The Netherlands,"Klaas Van der Hoek, National Institute for Public Health and the Environment (RIVM)"
+The Netherlands,"Merel van der Wal, Open University"
+The Netherlands,"Anne van Loon, Wageningen University"
+The Netherlands,"Jelle van Minnen, PBL Netherlands Environmental Assessment Agency"
+The Netherlands,"Geert Jan van Oldenborgh, The Royal Netherlands Meteorological Institute"
+The Netherlands,"Detlef van Vuuren, PBL Netherlands Environmental Assessment Agency / Utrecht University"
+The Netherlands,"Ted Veldkamp, Vrije University Amsterdam"
+The Netherlands,"Jan E. Vermaat, Vrije University Amsterdam"
+The Netherlands,"Lucie Vermeulen, Wageningen University"
+The Netherlands,"Marcel Visser, Netherlands Institute of Ecology"
+The Netherlands,"Philip Ward, Vrije University Institute for Environmental Studies"
+The Netherlands,"Gijsbert Werner, Vrije University Amsterdam"
+The Netherlands,"Liang Xiong, Delft University of Technology"
+The Netherlands,"Mark Zandvoort, Wageningen University"
+The Netherlands,"Yijian Zeng, University of Twente"
+,
+Tonga,"Netatua Pelesikoti, Pacific Regional Environment Programme"
+Tonga,"Malia Talakai, Alliance of Small Island States (AOSIS)"
+,
+Trinidad and Tobago,"John Agard, University of the West Indies"
+Trinidad and Tobago,"Dave Chadee, University of the West Indies"
+Trinidad and Tobago,"Ainka Granderson, University of Melbourne"
+Trinidad and Tobago,"Shobha Maharaj, University of the West Indies"
+Trinidad and Tobago,"Maurice Rawlins, University of the West Indies"
+Trinidad and Tobago,"Bhawan Singh, University of Montreal"
+Trinidad and Tobago,"Joan Sutherland, University of the West Indies, St. Augustine Campus"
+,
+Tunisia,Mohammed Chahed
+,
+Turkey,"H. Resit Akcakaya, Stony Brook University"
+Turkey,"Ercan Gulay, Ministry of Environment and Urbanization of Turkey"
+Turkey,"Serhat Sensoy, Turkish State Meteorological Service"
+Turkey,"Barış Karapinar, Boğaziçi University"
+,
+Ukraine,"Alexander Polonsky, Marine Hydrophysical Institute of National Academy of Sciences"
+,
+United Kingdom,"Helen Adams, University of Exeter"
+United Kingdom,"W. Neil Adger, University of Exeter"
+United Kingdom,"Nigel W. Arnell, University of Reading Walker Institute"
+United Kingdom,"Jessica Ayers, Department of Energy and Climate Change"
+United Kingdom,"Caroline Bain, Met Office Hadley Centre"
+United Kingdom,"Rosa Barciela, Met Office Hadley Centre"
+United Kingdom,Jonathan Barton 
+United Kingdom,"Laura Bates, Department of Energy and Climate Change"
+United Kingdom,"Pam Berry, Oxford University"
+United Kingdom,"Richard A. Betts, Met Office Hadley Centre"
+United Kingdom,"Yvan Biot, Department for International Development"
+United Kingdom,"Clare Blencowe, Environment Agency"
+United Kingdom,"Ian Boyd, Department for Environment, Food and Rural Affairs"
+United Kingdom,"Emily Boyd, University of Reading"
+United Kingdom,"Barbara Brown, University of Newcastle"
+United Kingdom,"Sally Brown, University of Southampton"
+United Kingdom,"Matthew Bunce, Institute of Marine Engineering, Science and Technology"
+United Kingdom,"Mark Burnett, Foreign and Commonwealth Office"
+United Kingdom,"Michael T. Burrows, The Scottish Association for Marine Science"
+United Kingdom,"Peter Burt, University of Greenwich"
+United Kingdom,"John Caesar, Met Office Hadley Centre"
+United Kingdom,"Tiege Cahill, Department for International Development"
+United Kingdom,"Terry V. Callaghan, Department of Animal and Plant Sciences, University of Sheffield"
+United Kingdom,"Diarmid Campbell-Lendrum, World Health Organization"
+United Kingdom,"Gillian Cambers, Secretariat of the Pacific Community"
+United Kingdom,"Karen Carr, Department for Environment Food and Rural Affairs"
+United Kingdom,"John Carstensen, Department for International Development"
+United Kingdom,"Robin Chadwick, Met Office Hadley Centre"
+United Kingdom,"Teige Chaill, Department for International Development"
+United Kingdom,"Paula Chalinder, Department for International Development"
+United Kingdom,"Andrew Challinor, University of Leeds"
+United Kingdom,"Andrew Chalmers, Department of Energy and Climate Change"
+United Kingdom,"Lee Chapman, University of Birmingham"
+United Kingdom,"Amanda Charles, Government Office for Science"
+United Kingdom,"Mark Charlesworth, Keele University"
+United Kingdom,"Katie Chesover, Department of Energy and Climate Change"
+United Kingdom,"Samuel Clemmens, Welsh Government Chief Scientific Advisors Division"
+United Kingdom,"Peter Convey, British Antarctic Survey"
+United Kingdom,"Alison Cook, Swansea University"
+United Kingdom,"Sarah Cornell, Stockholm Resilience Centre"
+United Kingdom,"Michael James Crabbe, University of Bedfordshire"
+United Kingdom,"Robert Craig, Department for Environment Food and Rural Affairs"
+United Kingdom,"Jo da Silva, Arup International Development"
+United Kingdom,"Alan Dangour, London School of Hygiene and Tropical Medicine"
+United Kingdom,"Rutger Dankers, Met Office Hadley Centre"
+United Kingdom,"Stephen Darby, University of Southampton"
+United Kingdom,"Geoff Darch, Atkins Consultants / University of East Anglia"
+United Kingdom,"Radhika Dave, University of Southampton"
+United Kingdom,"Michael Davies, University College London"
+United Kingdom,"Suraje Dessai, University of Leeds"
+United Kingdom,"Tyrone Dunbar, Met Office Hadley Centre, Department of Energy and Climate Change"
+United Kingdom,"John Duncan, University of Southampton"
+United Kingdom,"Martin Edwards, Sir Alister Hardy Foundation for Ocean Science  "
+United Kingdom,"Peter Falloon, Met Office Hadley Centre"
+United Kingdom,"Samuel Fankhauser, London School of Economics"
+United Kingdom,"Lucy Faulkner, International Centre for Climate Change and Development (ICCCAD)"
+United Kingdom,"David Flint, Cass Business School"
+United Kingdom,"Paul Freeman, Department of Energy and Climate Change"
+United Kingdom,"Jon French, University College London"
+United Kingdom,"Peter T. Fretwell, British Antarctic Survey"
+United Kingdom,"Andrew Friend, University of Cambridge"
+United Kingdom,"Nicola Golding, Met Office Hadley Centre"
+United Kingdom,"Peter Good, Met Office Hadley Centre"
+United Kingdom,"Clare Goodess, University of East Anglia Climatic Research Unit"
+United Kingdom,"Simon Gosling, University of Nottingham"
+United Kingdom,"Peter Gregory, University of Reading"
+United Kingdom,"David J. Griggs, Monash University"
+United Kingdom,"Jeremy Haggar, Natural Resources Institute, University of Greenwich"
+United Kingdom,"Andrew Haines, London School of Hygiene and Tropical Medicine"
+United Kingdom,"Shakoor Hajat, London School of Hygiene and Tropical Medicine"
+United Kingdom,"Kate Halladay, Met Office Hadley Centre"
+United Kingdom,"Jacqueline M. Hamilton, Hamburg University"
+United Kingdom,"Genevra Harker, HarmonicQuay Ltd"
+United Kingdom,"Paula Harrison, Environmental Change Institute, University of Oxford"
+United Kingdom,"Andrew Hartley, Met Office Hadley Centre"
+United Kingdom,"Sharon Harvey, Department for International Development"
+United Kingdom,"Blane Harvey, Institute of Development Studies, University of Sussex"
+United Kingdom,"Ed Hawkins, University of Reading"
+United Kingdom,"Stephen Hawkins, University of Southampton"
+United Kingdom,"Adrian Hayes, Australian National University"
+United Kingdom,"Lucy Hayes, Department of Energy and Climate Change"
+United Kingdom,"Rachel Hemingway, Department for International Development"
+United Kingdom,"Chris Hewitt, Met Office Hadley Centre"
+United Kingdom,"Jennifer Hodbod, Global Institute of Sustainability, Arizona State University"
+United Kingdom,"Dominic Hodgson, British Antarctic Survey"
+United Kingdom,"David Hole, Conservation International"
+United Kingdom,"Joanna I. House, University of Bristol, QUEST"
+United Kingdom,"Guy Howard, Department for International Development"
+United Kingdom,"Candice Howarth, Department of Energy and Climate Change"
+United Kingdom,"Kathryn Humphrey, Parliament Committee on Climate Change"
+United Kingdom,"Alistair Hunt, University of Bath"
+United Kingdom,"George Hutchinson, Queen’s University, Belfast"
+United Kingdom,"Christopher Ilori, University of Greenwich"
+United Kingdom,"John Ingram, Environmental Change Institute, University of Oxford"
+United Kingdom,"William Ingram, Hadley Centre for Climate Change"
+United Kingdom,"Tamara Janes, Met Office Hadley Centre"
+United Kingdom,"Guy Jobbins, Overseas Development Institute"
+United Kingdom,"Catherine Johnson, Department of Energy and Climate Change"
+United Kingdom,"Richard G. Jones, Met Office Hadley Centre"
+United Kingdom,"Chris Jones, Met Office Hadley Centre"
+United Kingdom,"Gareth S. Jones, Met Office Hadley Centre"
+United Kingdom,"Lindsey Jones, Overseas Development Institute"
+United Kingdom,"Daniel Kingston, University of Otago"
+United Kingdom,"Robert Kitchen, Department for Environment, Food and Rural Affairs"
+United Kingdom,"Sari Kovats, London School of Hygiene and Tropical Medicine"
+United Kingdom,"Eva Ludi, Overseas Development Institute"
+United Kingdom,"Georgina M. Mace, University College London"
+United Kingdom,"Chris Mack, Department of Energy and Climate Change"
+United Kingdom,"John Magrath, Oxfam GB"
+United Kingdom,"Andrew Maskrey, United Nations Office for Disaster Risk Reduction (UNISDR)"
+United Kingdom,"Barry McAuley, Northern Ireland Department of Environment"
+United Kingdom,"Michael McCallion, Northern Ireland Department of Environment"
+United Kingdom,"Mark McCarthy, Met Office Hadley Centre"
+United Kingdom,"Doug McNeall, Met Office Hadley Centre"
+United Kingdom,"Carol McSweeney, Met Office Hadley Centre"
+United Kingdom,"Marc Metzger, University of Edinburgh School of GeoSciences"
+United Kingdom,"Alistair Montgomery, Scottish Government"
+United Kingdom,"Michael Morecroft, Natural England"
+United Kingdom,"John Morton, Natural Resources Institute, University of Greenwich"
+United Kingdom,"Alessandro Moscuzza, Department for International Development"
+United Kingdom,"Robert Muir-Wood, Risk Management Solutions"
+United Kingdom,"Eugene Murphy, British Antarctic Survey"
+United Kingdom,"Tom Murray, Department for Environment Food and Rural Affairs"
+United Kingdom,"Virginia Murray, Public Health London"
+United Kingdom,"Zebedee Naate, Department for Environment, Food and Rural Affairs"
+United Kingdom,"Louise Newport, Department of Health"
+United Kingdom,"Andrew Newsham, School of Oriental and African Studies (SOAS), University of London"
+United Kingdom,"Robert Nicholls, University of Southampton"
+United Kingdom,"Gordon Nichols, European Centre for Disease Prevention and Control"
+United Kingdom,"Raquel Nunes, University of East Anglia"
+United Kingdom,"Patrick Nunn, University of New England"
+United Kingdom,"Tom Oliver, Centre for Ecology and Hydrology"
+United Kingdom,"Annika Olsson, Department for International Development"
+United Kingdom,"Julian Orford, Queen’s University, Belfast"
+United Kingdom,"Fiona Page, Scottish Government"
+United Kingdom,"Andrew Parker, Harvard Kennedy School"
+United Kingdom,"David Parker, Met Office Hadley Centre"
+United Kingdom,"Martin Parry, Imperial College London"
+United Kingdom,"Richard Pearson, University College London"
+United Kingdom,"Mark Pelling, King’s College London"
+United Kingdom,"Edmund Penning-Rowsell, Middlesex University"
+United Kingdom,"Carlos Peres, University of East Anglia"
+United Kingdom,"Chris Perry, University of Exeter"
+United Kingdom,"John K. Pinnegar, Centre for Environment, Fisheries and Aquaculture Science"
+United Kingdom,"Edward Pope, Met Office Hadley Centre"
+United Kingdom,"Martin Price, Perth College / University of the Highlands and Islands"
+United Kingdom,"Jeff Price, Tyndall Centre"
+United Kingdom,"Nicola Ranger, Department for International Development"
+United Kingdom,"Tim Rayner, University of East Anglia, Tyndall Centre for Climate Change Research"
+United Kingdom,"Grace Redmond, Met Office Hadley Centre"
+United Kingdom,"Hannah Reid, International Institute for Environment and Development"
+United Kingdom,"Paul Reiter, Institut Pasteur"
+United Kingdom,"Jeff Ridley, Met Office Hadley Centre"
+United Kingdom,"J. Murray Roberts, Heriot-Watt University"
+United Kingdom,"Mark Rounsevell, University of Edinburgh"
+United Kingdom,"David Rowell, Met Office Hadley Centre"
+United Kingdom,"David Santillo, Greenpeace Research Laboratories"
+United Kingdom,"David Satterthwaite, International Institute for Environment and Development"
+United Kingdom,"Daniela Schmidt, University of Bristol"
+United Kingdom,"Chris Sear, Department of Energy and Climate Change"
+United Kingdom,"Simon Sharpe, Foreign and Commonwealth Office"
+United Kingdom,"Jonathan Silvertown, The Open University"
+United Kingdom,"Chandhi Singh, University of Reading"
+United Kingdom,"Stephen Sitch, University of Exeter"
+United Kingdom,"Malcolm Smart, Department for International Development"
+United Kingdom,"Daniel Smith, School of Biosciences, University of Nottingham"
+United Kingdom,"Christopher Smith, United Nations University"
+United Kingdom,"Thomas Spencer, University of Cambridge"
+United Kingdom,"Peter A. Stott, Met Office Hadley Centre"
+United Kingdom,"Lindsay Stringer, University of Leeds"
+United Kingdom,"Andy Sumner, Institute of Development Studies"
+United Kingdom,"Chris Taylor, Department of Energy and Climate Change"
+United Kingdom,"Richard Taylor, University College London"
+United Kingdom,"David Thomas, School of Geography and the Environment, University of Oxford"
+United Kingdom,"Chris D. Thomas, University of York"
+United Kingdom,"Philip Thornton, CGIAR Research Program on Climate Change, Agriculture and"
+United Kingdom,Food Security Program (CCAFS)
+United Kingdom,"Richard S.J. Tol, University of Sussex"
+United Kingdom,"Emma Tompkins, University of Southampton Highfield Campus"
+United Kingdom,"Natalie Trapp, University of Hamburg / International Max Planck Research School on Earth System Modelling"
+United Kingdom,"Phil Trathan, British Antarctic Survey"
+United Kingdom,"Carol Turley, Plymouth Marine Laboratory"
+United Kingdom,"Sotiris Vardoulakis, Health Protection Agency"
+United Kingdom,"David Vaughan, British Antarctic Survey"
+United Kingdom,"Daniele Viappiani, Department of Energy and Climate Change"
+United Kingdom,David Viner
+United Kingdom,"Piero Visconti, Microsoft Research"
+United Kingdom,"Chris Vivian, Institute of Marine Engineering, Science and Technology (IMarEST)"
+United Kingdom,"Andrew Wade, University of Reading"
+United Kingdom,"Rachel Warren, University of East Anglia, Tyndall Centre"
+United Kingdom,"David Warrilow, Department of Energy and Climate Change"
+United Kingdom,"Paul Watkiss, Paul Watkiss Associates"
+United Kingdom,"James Watson, University of Leeds"
+United Kingdom,"Ivy Wellman, Department for Environment, Food and Rural Affairs"
+United Kingdom,"Tim Wheeler, Department for International Development"
+United Kingdom,"Meriwether Wilson, University of Edinburgh, School of GeoSciences"
+United Kingdom,"Narumon Withers-Harvey, Department for Environment Food and Rural Affairs"
+United Kingdom,"Yolande Wright, Department for International Development"
+United Kingdom,"Kenneth Wright, Department of Energy and Climate Change"
+United Kingdom,"Helena Wright, Imperial College London"
+United Kingdom,"Ruby Yau, Foreign and Commonwealth Office"
+United Kingdom,"Adrienne Yuen, Foreign and Commonwealth Office"
+,
+United Republic of Tanzania,"Ladislaus Chang’a, Tanzania Meteorological Agency"
+United Republic of Tanzania,"Robert B. R. Kiunsi, Disaster Management Training Centre, Ardhi University"
+United Republic of Tanzania,"Emmanuel Mpeta, Tanzania Meteorological Agency"
+,
+United States of America,"Nicholas Adams, O-I"
+United States of America,"Jeffery Adkins, National Oceanic and Atmospheric Administration, Coastal Services Center"
+United States of America,"Liwayway Adkins, U.S. Department of Energy"
+United States of America,"Arun Agrawal, University of Michigan"
+United States of America,"Gloria Aguilar, Famine Early Warning Systems Network"
+United States of America,"David Ainley, H.T. Harvey & Associates Ecological Consultants"
+United States of America,"Elena Aizen, College of Science, University of Idaho"
+United States of America,"Vladimir B. Aizen, College of Science, University of Idaho"
+United States of America,"Farhan Akhtar, U.S. Department of State"
+United States of America,"Stacy Alboher, Millennium Challenge Corporation"
+United States of America,"Joseph Alcamo, United Nations Environment Programme"
+United States of America,"Catherine Allen, U.S. Environmental Protection Agency"
+United States of America,"Craig Allen, U.S. Geological Survey"
+United States of America,"David Allen, U.S. Global Change Research Program"
+United States of America,"John Allen, International Research Institute for Climate and Society, Columbia University"
+United States of America,"William Anderegg, Princeton University"
+United States of America,"Glen Anderson, International Resources Group / Engility"
+United States of America,"Kacky Andrews, The Nature Conservancy"
+United States of America,"Yanna Antypas, U.S. Department of Energy, Energy Information Administration"
+United States of America,"Alex Apotsos, U.S. Agency for International Development"
+United States of America,"Douglas Arent, National Renewable Energy Laboratory"
+United States of America,"Tom Armstrong, White House Office of Science and Technology Policy"
+United States of America,"Channing Arndt, University of Copenhagen"
+United States of America,"Jeffrey Arnold, U.S. Army Corps of Engineers"
+United States of America,"Kevin Arrigo, Stanford University"
+United States of America,"Maximilian Auffhammer, University of California, Berkeley"
+United States of America,"Bilal Ayyub, University of Maryland"
+United States of America,"Amanda Babson, U.S. Department of the Interior, National Park Service"
+United States of America,"Dominique Bachelet, Conservation Biology Institute"
+United States of America,"George Backus, Sandia National Laboratories"
+United States of America,"Hans Baer, University of Melbourne"
+United States of America,"Walter Baethgen, International Research Institute for Climate and Society, Columbia University"
+United States of America,"Laura Bailey, Royal Wind Turbines"
+United States of America,"Noel Bakhtian, United States Senate"
+United States of America,"John Balbus, National Institute of Environmental Health Sciences, National Institutes of Health"
+United States of America,"Charles Barber, U.S. Department of State"
+United States of America,"Curtis Barrett, U.S. Agency for International Development, Office of Foreign Disaster Assistance"
+United States of America,"Ko Barrett, U.S. Department of Commerce / National Oceanic and Atmospheric Administration"
+United States of America,"Ben Beard, U.S. Department of Health and Human Services, Centers for Disease Control"
+United States of America,"Natalie Beckman, U.S. Department of State"
+United States of America,"Katherine Beggs, U.S. Agency for International Development"
+United States of America,"Robin Bell, Lamont-Doherty Earth Observatory of Columbia University"
+United States of America,"Vatsal Bhatt, U.S. Department of Energy, Brookhaven National Laboratory"
+United States of America,"Abhoyjit Bhown, Electric Power Research Institute"
+United States of America,"Rosina Bierbaum, University of Michigan"
+United States of America,"Anthony Bigio, The World Bank"
+United States of America,"Eren Bilir, IPCC WGII Technical Support Unit"
+United States of America,"Tegan Blaine, U.S. Agency for International Development"
+United States of America,"Gentry Blake, Gente de I’itoi A.C / University of Arizona College of Public Health"
+United States of America,"Geoffrey Blate, World Wildlife Fund"
+United States of America,"Marlon Boarnet, University of Southern California"
+United States of America,"Jean Bogner, University of Illinois at Chicago (UIC)"
+United States of America,"Paula Bontempi, National Aeronautic and Space Administration"
+United States of America,"Daniel Botkin, University of California, Santa Barbara"
+United States of America,"Doug Boucher, Union of Concerned Scientists"
+United States of America,"Travis Bradford, Columbia University"
+United States of America,"Cynthia Brady, U.S. Agency for International Development"
+United States of America,"Charles Brandt, U.S. Department of Energy, Pacific Northwest National Laboratory"
+United States of America,"Anthony Brazel, Arizona State University"
+United States of America,"Levi Brekke, U.S. Department of of the Interior, Bureau of Reclamation"
+United States of America,"John Brennan, U.S. Naval Postgraduate School"
+United States of America,"Michael Brewer, National Oceanic and Atmospheric Administration"
+United States of America,"Peter G. Brewer, Monterey Bay Aquarium Research Institute"
+United States of America,"Robin Bronen, University of Alaska"
+United States of America,"Austin Brown, U.S. Department of Energy, National Renewable Energy Laboratory"
+United States of America,"David Brown, National Oceanic and Atmospheric Administration"
+United States of America,"Jessica Brown, U.S. Department of State"
+United States of America,"Molly Brown, National Aeronautic and Space Administration"
+United States of America,"Robert Brulle, Drexel University"
+United States of America,"Beth Brumbaugh, National Aeronautic and Space Administration, DEVELOP Program"
+United States of America,"Joan Brunkard, U.S. Department of Health and Human Services, Centers for Disease Control"
+United States of America,"Benjamin Bryant, Millennium Challenge Corporation"
+United States of America,"Shelley Buonajuto, OMNI350 / Citizen’s Climate Lobby"
+United States of America,"Marshall Burke, University of California, Berkeley"
+United States of America,"Virginia Burkett, U.S. Geological Survey"
+United States of America,"Elizabeth Burleson, Pace University School of Law"
+United States of America,"Joshua Busby, University of Texas-Austin"
+United States of America,"Kent Butts, Pennsylvania State University Harrisburg, Center for Naval Analysis"
+United States of America,"Karl W. Butzer, University of Texas at Austin"
+United States of America,"Maria Cafrey, U.S. National Park Service / University of Colorado, Boulder"
+United States of America,"Ken Caldeira, Carnegie Institution "
+United States of America,"Thomas Calloway, U.S. Department of Energy, Savannah River National Laboratory"
+United States of America,"Mark Carey, University of Oregon"
+United States of America,"Christopher Carlson, U.S. Department of Agriculture Forest Service"
+United States of America,"JoAnn Carmin, Massachusetts Institute of Technology"
+United States of America,"Edward R. Carr, University of South Carolina"
+United States of America,"Jessie Carr, University of Pittsburgh School of Health"
+United States of America,"Peter Carter, Climate Emergency Institute"
+United States of America,"Shawn Carter, U.S. Geological Survey"
+United States of America,"Joe Casola, Center for Climate and Energy Solutions (C2ES)"
+United States of America,"A. Peter Castro, Maxwell School, Syracuse University"
+United States of America,"Pietro Ceccato, International Research Institute for Climate and Society"
+United States of America,"Zoë Chafe, University of California, Berkeley"
+United States of America,"Adam Chambers, U.S. Department of Agriculture, Natural Resources Conservation Service"
+United States of America,"Christina Chan, U.S. Department of State"
+United States of America,"Steven Chan, Newcastle University"
+United States of America,"F. Stuart Chapin III, Institute of Arctic Biology, University of Alaska Fairbanks"
+United States of America,"Monalisa Chatterjee, IPCC WGII Technical Support Unit"
+United States of America,"Muthuvel Chelliah, National Oceanic and Atmospheric Administration"
+United States of America,Anthony Cheng
+United States of America,"Netra Chhetri, Arizona State University"
+United States of America,"Paul S. Chinowsky, Mortenson Center in Engineering for Developing Communities, University of Colorado"
+United States of America,"Ben Chou, Natural Resources Defense Council"
+United States of America,"Matthew Church, University of Hawaii"
+United States of America,"Corrie Clark, U.S. Department of Energy, Argonne National Laboratory"
+United States of America,"Erika Clesceri, U.S. Agency for International Development"
+United States of America,"Nell Codner, U.S. Department of Commerce / National Oceanic and Atmospheric Administration"
+United States of America,"Marlene Cole, U.S. Environmental Protection Agency"
+United States of America,"Robert K. Colwell, University of Connecticut"
+United States of America,"Josefino Comiso, National Aeronautics and Space Administration (NASA) Goddard Space Flight Center"
+United States of America,"Ken Conca, American University"
+United States of America,"Jonathan Cook, U.S. Agency for International Development (USAID)"
+United States of America,"Heather Cooley, Pacific Institute"
+United States of America,"Sarah Cooley, Woods Hole Oceanographic Institute"
+United States of America,"Jan Corfee-Morlot, Organisation for Economic Co-operation and Development"
+United States of America,"Joel Corona, U.S. Environmental Protection Agency"
+United States of America,"Tyler Corson-Rikert, U.S. Department of Homeland Security, Federal Emergency Management Agency"
+United States of America,"Daniel Costa, University of California Santa Cruz"
+United States of America,"Erin Coughlan, Red Cross / Red Crescent Climate Centre"
+United States of America,"Catherine Courtney, Tetra Tech Incorporated"
+United States of America,"Michael Craghan, U.S. Environmental Protection Agency"
+United States of America,"Jim Crawford, Trane Ingersoll-Rand"
+United States of America,"Jared Creason, U.S. Environmental Protection Agency"
+United States of America,"Kelley Crews, National Science Foundation"
+United States of America,"Michael Crimmins, University of Arizona"
+United States of America,"John Crocker, Metropolitan Atlanta Rapid Transit Authority"
+United States of America,"Thomas Cronin, U.S. Geological Survey"
+United States of America,"Molly Cross, Wildlife Conservation Society"
+United States of America,"Mark Crowell, U.S. Department of Homeland Security, Federal Emergency Management Agency"
+United States of America,"Thomas Cuddy, U.S. Department of Transportation, Federal Aviation Administration"
+United States of America,"Mary Culver, National Oceanic and Atmospheric Administration, Coastal Services Center"
+United States of America,"Lara Cushing, University of California, Berkeley"
+United States of America,"Elizabeth Cushion, U.S. Agency for International Development"
+United States of America,"Susan Cutter, University of South Carolina"
+United States of America,"Christopher D’Elia, Louisiana State University, School of the Coast and Environment"
+United States of America,"Shereen D’Souza, U.S. Department of State"
+United States of America,"Geoffrey D. Dabelko, Ohio University, Voinovich School of Leadership and Public Affairs"
+United States of America,"Jan Dash, Climate Initiative Chair, UU United Nations Office"
+United States of America,"Margaret Davidson, U.S. Department of Commerce / National Oceanic and Atmospheric Administration"
+United States of America,"John Davies, U.S. Department of Transportation, Federal Highway Administration"
+United States of America,"Jonathan Davis, Science Applications International Corporation"
+United States of America,"Steve Davis, University of California, Irvine"
+United States of America,"Benjamin DeAngelo, U.S. Environmental Protection Agency"
+United States of America,"Douglas DeMaster, National Oceanic and Atmospheric Administration, Fisheries"
+United States of America,"Curtis Deutsch, University of California, Los Angeles"
+United States of America,"Ernesto Diaz, Puerto Rico Coastal Zone Management Program"
+United States of America,"Noah Diffenbaugh, Stanford University"
+United States of America,"Joseph Donahue, Stratus Consulting"
+United States of America,"Michael Donovan, U.S. Agency for International Development"
+United States of America,"Ellen Douglas, University of Massachusetts"
+United States of America,"Kirstin Dow, University of South Carolina"
+United States of America,"Thomas Downing, Global Climate Adaptation Partnership"
+United States of America,"Christine Dragisic, U.S. Department of State"
+United States of America,"John Drake, University of Tennessee, Knoxville"
+United States of America,"Richard Driscoll, U.S. Department of State"
+United States of America,"Kea Duckenfield, U.S. Department of Defense"
+United States of America,"Phil Duffy, Lawrence Livermore National Laboratory"
+United States of America,"Hari Dulal, The World Bank"
+United States of America,"John Dunne, National Oceanic and Atmospheric Administration"
+United States of America,"Elizabeth Dutrow, U.S. Environmental Protection Agency"
+United States of America,"Betsy Eagin, MDB, Incorporated"
+United States of America,"C. Mark Eakin, National Oceanic and Atmospheric Administration, Coral Reef Watch"
+United States of America,"Hallie Eakin, Arizona State University"
+United States of America,"Shane Easter, Carnegie Institution of Washington "
+United States of America,"Kristie L. Ebi, ClimAdapt, LLC"
+United States of America,"Natalie Elwell, U.S. Agency for International Development, GenDev"
+United States of America,"William Elwood, National Institutes of Health"
+United States of America,"Steve Emmett-Mattox, Restore America’s Estuaries"
+United States of America,"Nathan L. Engle, AAAS Science and Technology Policy Fellow"
+United States of America,"Carolyn Enquist, USA National Phenology Network"
+United States of America,"Yuka Estrada, IPCC WGII Technical Support Unit"
+United States of America,"David Evans, U.S. Environmental Protection Agency"
+United States of America,"Geoffrey Evans, Humane Society International"
+United States of America,"Marien Eve, U.S. Department of Agriculture"
+United States of America,"Victoria J. Fabry, California State University, San Marcos"
+United States of America,"Kelly Falkner, National Science Foundation"
+United States of America,"Daniel Farber, University of California, Berkeley"
+United States of America,"Philip M. Fearnside, National Institute for Research in Amazonia (INPA) "
+United States of America,"Richard Feely, National Oceanic and Atmospheric Administration, Pacific Marine Environmental Laboratory"
+United States of America,"Sergio Feld, Millennium Challenge Corporation"
+United States of America,"Tyler Felgenhauer, U.S. Environmental Protection Agency, Office of Research and Development"
+United States of America,"Francesco Femia, The Center for Climate and Security"
+United States of America,"Zach Ferdana, The Nature Conservancy"
+United States of America,"Nora Ferm, U.S. Agency for International Development"
+United States of America,"Tye Ferrell, U.S. Agency for International Development, East Africa"
+United States of America,"Christopher Field, Carnegie Institution, IPCC WGII Co-chair"
+United States of America,"Cash Fitzpatrick, U.S. Department of Energy"
+United States of America,"James Rodger Fleming, Colby College"
+United States of America,"Mick Follows, Massachusetts Institute of Technology"
+United States of America,"Jennifer Francis, Rutgers University"
+United States of America,"Guido Franco, California Energy Commission"
+United States of America,"Jenny Frankel-Reed, U.S. Administration for International Development"
+United States of America,"J. Randall Freed, ICF International"
+United States of America,"Howard Frumkin, University of Washington"
+United States of America,"Chris Funk, U.S. Department of Interior / U.S. Geological Survey"
+United States of America,"John Furlow, U.S. Agency for International Development"
+United States of America,"Murielle Gamache-Morris, National Oceanic and Atmospheric Administration"
+United States of America,"Janet Gamble, U.S. Environmental Protection Agency"
+United States of America,"Luis E. Garcia, The World Bank"
+United States of America,"Philip Garone, California State University, Stanislaus"
+United States of America,"Karen Garrett, Kansas State University"
+United States of America,"Christian Giardina, U.S. Department of Agriculture, Forest Service"
+United States of America,"Maribeth Gidley, University of Miami Cooperative Institute for Marine and Atmospheric Studies (CIMAS) / National Oceanic and Atmospheric Administration Atlantic Oceanographic and Meteorological Laboratory"
+United States of America,"Stephen Gill, National Oceanic and Atmospheric Administration"
+United States of America,"Kristin Gilroy, U.S. Army Corps of Engineers"
+United States of America,"Evan Girvetz, The Nature Conservancy"
+United States of America,"Michael Glantz, University of Colorado"
+United States of America,"Paul Glaser, University of Minnesota"
+United States of America,"Peter Gleick, Pacific Institute"
+United States of America,"Daniel M. Gnatz, Nova Southeastern University"
+United States of America,"Scott Goetz, Woods Hole Research Center"
+United States of America,"Indur Goklany, Independent"
+United States of America,Gilberto Gonzales 
+United States of America,"Otto Gonzales, U.S. Department of Agriculture, Foreign Agricultural Service"
+United States of America,"Patrick Gonzalez, U.S. National Park Service"
+United States of America,"James Goodrich, U.S. Environmental Protection Agency"
+United States of America,"Edward Gorecki, National Oceanic and Atmospheric Administration"
+United States of America,"Vivien Gornitz, Columbia University"
+United States of America,"Derrick Gough, United States Army"
+United States of America,"Anne Grambsch, U.S. Environmental Protection Agency"
+United States of America,"Timothy Grant, U.S. Department of Energy, National Energy Technology Laboratory"
+United States of America,"Clark Gray, University of North Carolina at Chapel Hill"
+United States of America,"Timothy Green, U.S. Department of Agriculture, Agricultural Research Service"
+United States of America,"Rachel Gregg, EcoAdapt"
+United States of America,"Noel Gurwick, Smithsonian Environmental Research Center"
+United States of America,"Jessica Gutknecht, Helmholtz Centre for Environmental Research-UFZ"
+United States of America,"Stanton Hadley, U.S. Department of Energy, Oak Ridge National Laboratory"
+United States of America,"Clarissa Hageman, U.S. Agency for International Development"
+United States of America,"Robert Hall, U.S. Department of Health and Human Services, National Institute of"
+United States of America,Allergy and Infectious Diseases
+United States of America,"Benjamin Halpern, University of California Santa Barbara / Imperial College London"
+United States of America,"Lara Hansen, EcoAdapt"
+United States of America,"Paul J. Hanson, Oak Ridge National Laboratory"
+United States of America,"Karen Hardee, Futures Group"
+United States of America,"Christopher Harley, University of British Columbia"
+United States of America,"Betsy Hartmann, Hampshire College"
+United States of America,"Ashley Haugo, BlueGreen Alliance"
+United States of America,"Petr Havlik, International Institute for Applied Systems Analysis"
+United States of America,"Maria Haws, University of Hawaii Hilo"
+United States of America,"Mary Hayden, National Center for Atmospheric Research"
+United States of America,"Jack Hayes, National Oceanic and Atmospheric Administration (Retired)"
+United States of America,"Elliott Hazen, National Oceanic and Atmospheric Association"
+United States of America,"Geoffrey Heal, Columbia Business School"
+United States of America,"Sean Hecht, University of California Los Angeles"
+United States of America,"Mark Heil, U.S. Department of the Treasury"
+United States of America,"Robert Heilmayr, Stanford University"
+United States of America,"Nicole Heller, Duke University"
+United States of America,"Rebecca R. Hernandez, Stanford University / Carnegie Institution for Science"
+United States of America,"Carl Hershner, Virginia Institute of Marine Science"
+United States of America,"Joseph Hewitt, U.S. Agency for International Development"
+United States of America,"Kathy Hibbard, U.S. Department of Energy / Pacific Northwest National Laboratory"
+United States of America,"Margaret Hiza Redsteer, U.S. Geological Survey"
+United States of America,"Tina Hodges, U.S. Department of Transportation, Federal Highway Administration"
+United States of America,"Elke Hodson, U.S. Department of Energy"
+United States of America,"Ron Hoffer, U.S. Environmental Protection Agency"
+United States of America,"Jennifer Hoffman, EcoAdapt"
+United States of America,"Eileen Hofmann, Center for Coastal Physical Oceanography, Old Dominion University"
+United States of America,"William Hohenstein, U.S. Department of Agriculture"
+United States of America,"Brian Holland, International Council for Local Environmental Initiatives (ICLEI) USA"
+United States of America,"Anne Hollowed, National Oceanic and Atmospheric Administration, National Marine Fisheries Service"
+United States of America,"Heather Holsinger, U.S. Department of Transportation, Federal Highway Administration"
+United States of America,"Robert Horner, U.S. Department of Energy, Argonne National Laboratory"
+United States of America,"Tamara Houston, National Oceanic and Atmospheric Administration, NESDIS/NCDC"
+United States of America,"Solomon Hsiang, Princeton University, Woodrow Wilson School of Public and International Affairs"
+United States of America,"Brian Huberty, U.S. Fish and Wildlife Service, National Wetland Inventory"
+United States of America,"George Hunt, University of Washington"
+United States of America,"David Hurlbut, U.S. Department of Energy, National Renewable Energy Laboratory"
+United States of America,"George Hurtt, University of Maryland"
+United States of America,"Dana Hyland, U.S. Environmental Protection Agency"
+United States of America,"Eric Hyman, U.S. Agency for International Development"
+United States of America,"Robert Hyman, U.S. Department of Transportation, Federal Highway Administration"
+United States of America,"Danielle Ignace, Smith College"
+United States of America,"Ana Iju Fukushima, Inter-American Development Bank"
+United States of America,"Micah Ingalls, Cornell University"
+United States of America,"Louis Iverson, U.S. Department of Agriculture Forest Service"
+United States of America,"Patricia Jacobberger-Jellison, National Aeronautics and Space Administration"
+United States of America,"Jenna Jadin, U.S. Department of Agriculture"
+United States of America,"Catherine Jampel, Pennsylvania State University"
+United States of America,"Anthony C. Janetos, Frederick S. Pardee Center for the Study of the Longer-Range Future, Boston University"
+United States of America,"James Jarvie, Mercy Corps"
+United States of America,"Anne Jensen, UIC Science LLC"
+United States of America,"Christine Jessup, U.S. Department of Health and Human Services, National Institutes of Health"
+United States of America,"Michael Johnsen, U.S. Department of Transportation, Federal Motor Carrier Safety Administration"
+United States of America,"Jennifer Johnson, Stanford University / Carnegie Institution"
+United States of America,"Kristen Johnson, U.S. Department of Energy, Bioenergy Technologies Office"
+United States of America,"Randy Johnson, U.S. Department of Agriculture, Forest Service"
+United States of America,"Matt Johnston, University of Minnesota"
+United States of America,"Kyle Joly, U.S. National Park Service"
+United States of America,"Carol Jones, U.S. Department of Agriculture, ERS"
+United States of America,Lawrence Jones
+United States of America,"Susan Julius, U.S. Environmental Protection Agency"
+United States of America,"Tamara Kadir, California Environmental Protection Agency"
+United States of America,"Robert Kafalenos, U.S. Department of Transportation, Federal Highway Administration"
+United States of America,"David Kahler, U.S. Agency for International Development"
+United States of America,"Adam Kalkstein, U.S. Military Academy"
+United States of America,"Richard Kanner, University of Utah School of Medicine"
+United States of America,"Carrie Kappel, University of California, Santa Barbara, National Center for Ecological Analysis and Synthesis"
+United States of America,"David Karl, University of Hawaii"
+United States of America,George Kasali
+United States of America,"Victoria Keener, East-West Center, Pacific RISA"
+United States of America,"Klaus Keller, Pennsylvania State University "
+United States of America,"Martin Kellogg, University of California, Santa Barbara"
+United States of America,"Brendan Kelly, White House Office of Science and Technology Policy"
+United States of America,"Thomas Kenkin, U.S. Department of Energy, National Renewable Energy Laboratory"
+United States of America,"Melissa A. Kenney, Johns Hopkins University / National Oceanic and Atmospheric Administration"
+United States of America,"Haroon Kheshgi, ExxonMobil Research and Engineering Company"
+United States of America,"Charles Kilstad, Stanford University"
+United States of America,"Yoon Hui Kim, International Resources Group/IRG"
+United States of America,"Marcus King, George Washington University"
+United States of America,"Patrick Kinney, Mailman School of Public Health of Columbia University"
+United States of America,"Paul Kirshen, University of New Hampshire"
+United States of America,"Eric Kissel, IPCC WGII Technical Support Unit"
+United States of America,"Kristian Kiuru, Energetics Incorporated"
+United States of America,"Joan A. Kleypas, National Center for Atmospheric Research"
+United States of America,"Walter Knausenberger, U.S. Agency for International Development"
+United States of America,"Andrew Knoll, Harvard University"
+United States of America,"Leif Knutsen, Private Citizen"
+United States of America,"Thomas Knutson, National Oceanic and Atmospheric Administration, Geophysical Fluid Dynamics Laboratory"
+United States of America,"Alexander Kolker, Louisiana Universities Marine Consortium"
+United States of America,"Anne Kolker, U.S. Department of State, Office of Global Change"
+United States of America,"Sasha Koo-Oshima, U.S. Environmental Protection Agency"
+United States of America,"Elizabeth Kopits, U.S. Environmental Protection Agency"
+United States of America,"Robert Kopp, Rutgers University"
+United States of America,"Ann Kosmal, U.S. General Services Administration"
+United States of America,"Carolyn Kousky, Resources for the Future"
+United States of America,"Charles Koven, Lawrence Berkeley National Laboratory"
+United States of America,"Daniel Kreeger, Association of Climate Change Officers"
+United States of America,"Igor Krupnik, Smithsonian Institution, National Museum of Natural History"
+United States of America,"Howard Kunreuther, The Wharton School, University of Pennsylvania"
+United States of America,"Michael Kuperberg, U.S. Department of Energy"
+United States of America,"Hadas Kushnir, U.S. Agency for International Development"
+United States of America,"Rattan Lal, The Ohio State University"
+United States of America,"William Landuyt, ExxonMobil Research and Engineering"
+United States of America,"Christopher Langdon, Rosenstiel School of Marine and Atmospheric Sciences"
+United States of America,"Claudia Langford, University of Georgia / U.S. National Climate Assessment Health - Chapter Author Team"
+United States of America,"Kate Larsen, White House Council on Environmental Quality"
+United States of America,"Matthew Larsen, U.S. Geological Survey"
+United States of America,"Fabien Laurier, White House Council on Environmental Quality"
+United States of America,"Josh Lawler, University of Washington"
+United States of America,"Nancy Leahy, U.S. Agency for International Development"
+United States of America,"Neil Leary, Dickinson College"
+United States of America,"Sharon LeDuc, International Environmental Data Rescue Organization"
+United States of America,"TyAnn Lee, National Oceanic and Atmospheric Administration"
+United States of America,"Robin Leichenko, Rutgers University"
+United States of America,"Maria Carmen Lemos, University of Michigan"
+United States of America,"Robert Lempert, RAND Corporation"
+United States of America,"Amy Lerner, Rutgers University"
+United States of America,"Lisa Levin, Scripps Institution of Oceanography"
+United States of America,"David Levinson, U.S. Department of Agriculture, Forest Service"
+United States of America,"Marc Levy, Center for International Earth Science Information Network, Columbia University"
+United States of America,"Nancy David Lewis, East-West Center"
+United States of America,"Jia Li, White House Council on Environmental Quality"
+United States of America,"Rachel Licker, Princeton University, Woodrow Wilson School of Public and International Affairs"
+United States of America,"Elizabeth Lien, U.S. Department of the Treasury"
+United States of America,"James Lindsay, U.S. Department of Agriculture, ARS-ONP"
+United States of America,"Ronald Lindsay, University of Washington"
+United States of America,"Erin Lipp, University of Georgia"
+United States of America,"Yongqiang Liu, U.S. Department of Agriculture Forest Service"
+United States of America,"David Lobell, Stanford University"
+United States of America,"Joseph Lombardo, International City / County Management Association"
+United States of America,"Jim London, Clemson University"
+United States of America,Jeffre Long 
+United States of America,"Kirk Longstein, Peace Corps"
+United States of America,"David Lopez-Carr, University of California, Santa Barbara"
+United States of America,"Dolynn Loy, U.S. Department of Energy, Oak Ridge National Laboratory"
+United States of America,"George Luber, U.S. Department of Health and Human Services, Centers for Disease Control"
+United States of America,"Lisa Lucero, University of Illinois at Urbana-Champaign"
+United States of America,"Rebecca Lupes, U.S. Department of Transportation, Federal Highway Administration"
+United States of America,"Ookie Ma, U.S. Department of Energy"
+United States of America,"Michael MacCracken, Climate Institute"
+United States of America,"Carol Lynn MacCurdy, U.S. Department of State"
+United States of America,"Katharine Mach, IPCC WGII Technical Support Unit"
+United States of America,"Cynthia Mackie, U.S. Forest Service"
+United States of America,"Tim Mahoney, U.S. Agency for International Development"
+United States of America,"Roberta Marinelli, University of Southern California"
+United States of America,"Elizabeth Marino, Oregon State University"
+United States of America,"John J. Marra, National Oceanic and Atmospheric Administration"
+United States of America,"Brian Marshall, Integrated Environmental Strategies Corp"
+United States of America,"Alex Marten, U.S. Environmental Protection Agency"
+United States of America,"Clyde Martin, U.S. Department of State"
+United States of America,"Jeremy Martinich, U.S. Environmental Protection Agency"
+United States of America,"Pamela Mason, College of William and Mary and Virginia Institute of Marine Science Center for Coastal Resources Management"
+United States of America,"Michael Mastrandrea, IPCC WGII Technical Support Unit"
+United States of America,"John Matthews, Conservation International"
+United States of America,"Stephen Matthews, Ohio State University"
+United States of America,"Nancy Maynard, National Aeronautics and Space Administration / University of Miami (RSMAS)"
+United States of America,"Mark McCaffrey, National Center for Science Education"
+United States of America,"Bruce McCarl, Texas A&M University"
+United States of America,Nancy McCarthy 
+United States of America,"Amanda McCarty, National Oceanic and Atmospheric Administration"
+United States of America,"David McCauley, World Wildlife Fund"
+United States of America,"Charles R. McClain, National Aeronautics and Space Administration"
+United States of America,"Paul McElhany, National Oceanic and Atmospheric Administration, Northwest Fisheries Science Center"
+United States of America,"James McFarland, U.S. Environmental Protection Agency"
+United States of America,"Sally McFarlane, U.S. Department of Energy"
+United States of America,Melanie McField
+United States of America,"Mike McGahuey, U.S. Agency for International Development"
+United States of America,"Justin McGrath, University of Illinois"
+United States of America,"Heather McGray, World Resources Institute"
+United States of America,"Marjorie McGuirk, U.S. Department of Commerce / National Oceanic and Atmospheric Administration (Retired)"
+United States of America,"Beverly McIntyre, U.S. Agency for International Development, International Water Management Institute"
+United States of America,"Aimee McKane, U.S. Department of Energy, Lawrence Berkeley National Laboratory"
+United States of America,"Maeve McKean, U.S. Department of Health and Human Services, National Institutes of Health"
+United States of America,"Thomas McKone, U.S. Department of Energy, Lawrence Berkeley National Laboratory"
+United States of America,"Paul McLaughlin, State University of New York, Geneseo"
+United States of America,"Elizabeth McLeod, The Nature Conservancy"
+United States of America,"Linda O. Mearns, National Center for Atmospheric Research"
+United States of America,"Julia Meisel, U.S. Department of State"
+United States of America,"Guillermo Mendoza, U.S. Army Corps of Engineers"
+United States of America,"Roberto Mera, Union of Concerned Scientists"
+United States of America,"Evan Mercer, U.S. Department of Agriculture, Southern Research Station"
+United States of America,"David Merritt, U.S. Forest Service Watershed, Fish, Wildlife, Air and Rare Plants Staff"
+United States of America,"Michael D. Meyer, Parsons Brinckerhoff, Incorporated"
+United States of America,"Erik Meyers, The Conservation Fund"
+United States of America,"Bryan Mignone, U.S. Department of Energy"
+United States of America,"Alan Miller, International Finance Corporation"
+United States of America,"Andy Miller, U.S. Environmental Protection Agency"
+United States of America,Chrisopher Miller 
+United States of America,"Stephen Miller, U.S. Fish and Wildlife Service"
+United States of America,"Evan Mills, U.S. Department of Energy, Lawrence Berkeley National Laboratory"
+United States of America,"Megan Mills-Novoa, Centro de Cambio Global, Pontificia Universidad Catolica de Chil"
+United States of America,"Christopher Milly, U.S. Geological Survey"
+United States of America,"Aditi Mishra, University of Michigan"
+United States of America,"Marcus Moench, Institute for Social and Environmental Transition "
+United States of America,"David Molden, International Centre for Integrated Mountain Development (ICIMOD)"
+United States of America,"Joseph Molnar, Auburn University"
+United States of America,"Jami Montgomery, U.S. Department of State"
+United States of America,"David Monthie, Center for Environmental Law and Policy"
+United States of America,"Christopher Moore, U.S. Environmental Protection Agency"
+United States of America,"Frances Moore, Stanford University"
+United States of America,"Jack Morgan, U.S. Department of Agriculture Research Service"
+United States of America,"Heidi Moritz, U.S. Army Corps of Engineers"
+United States of America,"Max Moritz, University of California, Berkeley"
+United States of America,"Susanne Moser, Susanne Moser Research and Consulting"
+United States of America,"Richard Moss, Joint Global Change Research Institute, Pacific Northwest National Laboratory"
+United States of America,"Sheila Moynihan, U.S. Department of Energy"
+United States of America,"Phillip Mundy, National Oceanic and Atmospheric Administration, Alaska Fisheries Science Center"
+United States of America,"Brian Nelson, National Oceanic and Atmospheric Administration, NESDIS/NCDC"
+United States of America,"Peter Neofotis, City University of New York / Climate Impacts Group, Columbia University"
+United States of America,"Daniel Nepstad, Instituto de Pesquisa Ambiental da Amazônia (IPAM)"
+United States of America,"James Neumann, Industrial Economics Incorporated"
+United States of America,"Thomas Dunning Newbury, U.S. Department of the Interior (Retired)"
+United States of America,"Jeff Newman, State of California"
+United States of America,"Jan Newton, University of Washington"
+United States of America,"Catherine Ngo, School of International and Policy Affairs, Columbia University"
+United States of America,"Moffatt Ngugi, U.S. Agency for International Development, Bureau for Food Security"
+United States of America,"Rebecca Nicodemus, U.S. Agency for International Development"
+United States of America,"Claudia Nierenberg, National Oceanic and Atmospheric Administration"
+United States of America,"Danielle Nierenberg, Nourishing the Planet-Worldwatch Institute"
+United States of America,"Kate Nixon, U.S. Department of Defense"
+United States of America,"Catherine Norman, Johns Hopkins University"
+United States of America,"Evan Notman, U.S. Agency for International Development"
+United States of America,"Brian O’Neill, National Center for Atmospheric Research"
+United States of America,"James O’Brien, Florida State University"
+United States of America,"Marie O’Neill, University of Michigan"
+United States of America,"Astrid Ogilvie, Institute of Arctic and Alpine Research (INSTAAR)"
+United States of America,"Matthew Ogonowski, U.S. Agency for International Development"
+United States of America,"Rolf Olsen, U.S. Army Corp of Engineers"
+United States of America,Sonia Olson 
+United States of America,"Michael Oppenheimer, Princeton University"
+United States of America,"Ben Orlove, Columbia University"
+United States of America,"Jennifer Orme-Zavaleta, U.S. Environmental Protection Agency"
+United States of America,"Evan Oswald, University of Michigan"
+United States of America,"Jonathan Overpeck, University of Arizona Institute of the Environment"
+United States of America,"Jonathan Padgham, International START Secretariat"
+United States of America,"Courtney Pal, Choate Rosemary Hall"
+United States of America,"Laura Jean Palmer-Moloney, U.S. Army Corps of Engineers"
+United States of America,"Diana Pape, ICF International"
+United States of America,"Jacob Park, Green Mountain College"
+United States of America,"Britt Parker, National Oceanic and Atmospheric Administration"
+United States of America,"Camille Parmesan, University of Texas at Austin, Plymouth University"
+United States of America,"Adam Parris, National Oceanic and Atmospheric Administration"
+United States of America,"Ian Parry, International Monetary Fund"
+United States of America,"Howard Passell, U.S. Department of Energy, Sandia National Laboratory"
+United States of America,"Lindene Patton, Zurich Insurance Group"
+United States of America,"Jonathan Patz, University of Wisconsin"
+United States of America,"Diego Pedreros, U.S. Geological Survey"
+United States of America,"Christine Pendzih, U.S. Agency for International Development"
+United States of America,"Ge Peng, Cooperative Institute for Climate and Satellites, North Carolina State University"
+United States of America,"Kim Penn, U.S. Department of Commerce / National Oceanic and Atmospheric Administration"
+United States of America,"Andrew Pershing, University of Maine"
+United States of America,"James Persson, U.S. Department of Defense"
+United States of America,"Robert Petersen, Boston Children’s Hospital / Harvard Medical School"
+United States of America,"Laura Petes, National Oceanic and Atmospheric Administration"
+United States of America,"Emily Pidgeon, Conservation International"
+United States of America,"Krishna Rao Pinninti, Rutgers University"
+United States of America,"N. Dean Polchies, National Congress of American Indians"
+United States of America,"John Posey, East-West Gateway Council of Governments"
+United States of America,"Eric Post, Pennsylvania State University"
+United States of America,"Michael Prather, University of California, Irvine"
+United States of America,"Benjamin Preston, Oak Ridge National Laboratory"
+United States of America,"Stella Protopapas, Smith College"
+United States of America,"Frances Provencher-Kambour, U.S. Agency for International Development"
+United States of America,"Sara C. Pryor, Indiana University"
+United States of America,"Roger Pulwarty, National Oceanic and Atmospheric Administration"
+United States of America,"Ashlinn Quinn, Mailman School of Public Health at Columbia University"
+United States of America,"David Raff, U.S. Army Corps of Engineers, Institute for Water Resources"
+United States of America,Patricia Ramirez Obando 
+United States of America,"Tom Ravens, University of Alaska Anchorage"
+United States of America,"Richard Raynie, State of Louisiana, Coastal Protection and Restoration Authority"
+United States of America,"Kyle Rearick, U.S. Agency for International Development"
+United States of America,"Denise Reed, The Water Institute of the Gulf"
+United States of America,"Kara Reeve, National Wildlife Federation"
+United States of America,"Walter Reid, David and Lucile Packard Foundation"
+United States of America,"David Reidmiller, U.S. Department of State"
+United States of America,"Alan Robock, Rutgers University"
+United States of America,"Charles Rodgers, Asian Development Bank"
+United States of America,"Vladimir Romanovsky, University of Alaska Fairbanks"
+United States of America,"Carla Roncoli, Emory University"
+United States of America,"Terry Root, Stanford University"
+United States of America,"Jon Rosales, St. Lawrence University"
+United States of America,"Dena Rosenberger, Grossmont Union High School District"
+United States of America,"Joshua Rosenthal, U.S. Department of Health and Human Services, National Institutes of Health"
+United States of America,"Cynthia Rosenzweig, National Aeronautics and Space Administration, Goddard Institute for Space Studies"
+United States of America,"Mark Rosmann, U.S. Department of State"
+United States of America,Edgar Ross 
+United States of America,"Susan Ruffo, White House Council on Environmental Quality"
+United States of America,"Peter Ruggiero, Oregon State University"
+United States of America,"Daniel Runfola, National Center for Atmospheric Research (NCAR) / Colorado University Boulder"
+United States of America,"Kendra Russell, Bureau of Reclamation"
+United States of America,"Meredith Ryder-Rude, U.S. Department of State"
+United States of America,"Ryan Rykaczewski, Princeton University"
+United States of America,"Arthur Rypinski, U.S. Department of Transportation"
+United States of America,"Vincent Saba, National Oceanic and Atmospheric Administration, National Marine Fisheries Service"
+United States of America,"Nathan Sage, U.S. Agency for International Development"
+United States of America,"Asbury Sallenger, U.S. Geological Survey"
+United States of America,"Ahira Sanchez-Lugo, National Oceanic and Atmospheric Administration, National Climatic Data Center"
+United States of America,"Helen Santiago Fink, U.S. Agency for International Development"
+United States of America,"Jorge Sarmiento, Princeton University"
+United States of America,"Marcus Sarofim, U.S. Environmental Protection Agency"
+United States of America,"Fabrizio Sassi, Naval Research Laboratory"
+United States of America,"Peter Saundry, National Council for Science and the Environment"
+United States of America,Robin Schafer 
+United States of America,"Paul Scheihing, U.S. Department of Energy"
+United States of America,"Joel Scheraga, U.S. Environmental Protection Agency"
+United States of America,"Wolfram Schlenker, Columbia University"
+United States of America,"Karl Schultz, The Higher Ground Foundation"
+United States of America,"Paul Schwabe, U.S. Department of Energy, National Renewable Energy Laboratory"
+United States of America,"Sarah Schweizer, International START Secretariat"
+United States of America,"Vanessa Schweizer, National Center for Atmospheric Research (NCAR)"
+United States of America,"Franklin Schwing, National Oceanic and Atmospheric Administration"
+United States of America,"Michael Scott, Pacific Northwest National Laboratory"
+United States of America,"Sybil Seitzinger, International Geosphere-Biosphere Programme"
+United States of America,"Kristin Seyboth, IPCC Working Group III Technical Support Unit"
+United States of America,"M. Rebecca Shaw, Environmental Defense Fund"
+United States of America,"Eileen Shea, U.S. Department of Commerce / National Oceanic and Atmospheric Administration"
+United States of America,"Justin Sheffield, Princeton University"
+United States of America,"Heather Shelby, Environmental Defense Fund"
+United States of America,"Steven Sherwood, The University of New South Wales"
+United States of America,"Seth B. Shonkoff, University of California, Berkeley / Physicians Scientists and Engineers for Healthy Energy"
+United States of America,"Caroly Shore, U.S. Department of State"
+United States of America,Robert Shorin 
+United States of America,"Jean Sideris, Union of Concerned Scientists"
+United States of America,"Donald Siegel, Syracuse University"
+United States of America,"Sergio Signorini, Science Applications International Corporation / National Aeronautics and Space Administration Goddard Space Flight Center"
+United States of America,"Arnold Simmel, Formerly Mount Sinai School of Medicine"
+United States of America,"Caitlin Simpson, National Oceanic and Atmospheric Administration"
+United States of America,"William Skirving, National Oceanic and Atmospheric Administration, Coral Reef Watch"
+United States of America,"Adam Smith, National Oceanic and Atmospheric Administration, National Climatic Data Center"
+United States of America,"Betsy Smith, U.S. Environmental Protection Agency"
+United States of America,"Joel B. Smith, Stratus Consulting Incorporated"
+United States of America,"Katherine Smith, U.S. Department of Agriculture, Forest Service"
+United States of America,"Kirk R. Smith, University of California, Berkeley"
+United States of America,"Monica Smith, National Geospatial-Intelligence Agency"
+United States of America,"Anthony Socci, Environmental Protection Agency"
+United States of America,"Marina Sofos, U.S. Department of Energy"
+United States of America,"William Solecki, City University of New York"
+United States of America,"Andrew Solow, Woods Hole Oceanographic Institution"
+United States of America,"George Somero, Stanford University"
+United States of America,"Michael Spittel, U.S. Department of Health and Human Services, National Institutes of Health"
+United States of America,"Deanna Spooner, U.S. Fish and Wildlife Service / Pacific Islands Climate Change Cooperative"
+United States of America,"Cecilia Springer, Climate Advisers"
+United States of America,"Doreen Stabinsky, College of the Atlantic"
+United States of America,"Ivanka Stajner, National Oceanic and Atmospheric Administration"
+United States of America,"Craig Starger, U.S. Department of State"
+United States of America,"Sandra Starkweather, University of Colorado"
+United States of America,"Amanda Staudt, National Wildlife Federation"
+United States of America,"Adam Stein, National Oceanic and Atmospheric Administration"
+United States of America,"Patricia Stephenson, U.S. Agency for International Development, Global Health"
+United States of America,"John Richard Stepp, University of Florida"
+United States of America,"Hilary Stevens, Coastal Resources Center, University of Rhode Island"
+United States of America,"Charles Stock, National Oceanic and Atmospheric Administration, Geophysical Fluid Dynamics Laboratory"
+United States of America,"Brian Stone, Georgia Institute of Technology"
+United States of America,"Ronald Stouffer, National Oceanic and Atmospheric Administration, Geophysical Fluid Dynamics Laboratory"
+United States of America,"Elizabeth Strange, ICF International"
+United States of America,"Alan Strasser, U.S. Department of Transportation"
+United States of America,"Aaron Strong, Stanford University"
+United States of America,"Kenneth M. Strzepek, United Nations University / World Institute for Development"
+United States of America,"Economics Research, Massachusetts Institute of Technology"
+United States of America,"Missy Stults, University of Michigan"
+United States of America,"Pallaoor Sundareshwar, U.S. Agency for International Development"
+United States of America,"Adam Sundberg, University of Kansas"
+United States of America,"Nicholas Sundt, World Wildlife Fund"
+United States of America,"Megan Susman, U.S. Environmental Protection Agency"
+United States of America,"Chris Swanson, U.S. Department of Agriculture, Forest Service"
+United States of America,"Rick Swanson, U.S. Department of Agriculture, Forest Service"
+United States of America,"Janet Swim, Pennsylvania State University"
+United States of America,"William Sydeman, Farallon Institute for Advanced Ecosystem Research"
+United States of America,"Marcella Szymanski, U.S. Department of State"
+United States of America,"Elsayed Talaat, National Aeronautics and Space Administration"
+United States of America,"Trigg Talley, U.S. Department of State"
+United States of America,"Kathy Tedesco, University Corporation for Atmospheric Research"
+United States of America,"Toby Thaler, Model Forest Policy Program"
+United States of America,"Joel Theis, U.S. Department of Energy"
+United States of America,"E. Robert Thieler, U.S. Geological Survey"
+United States of America,"Griffin Thompson, U.S. Department of State"
+United States of America,"Madeleine Thomson, International Research Institute for Climate and Society, Columbia University"
+United States of America,"Robert P. Thornton, District Energy"
+United States of America,"Kathleen Tierney, University of Colorado Boulder"
+United States of America,"James G. Titus, U.S. Environmental Protection Agency"
+United States of America,"Ayse Tokar, U.S. Agency for International Development"
+United States of America,James Tolbert 
+United States of America,"Eric Toman, Ohio State University"
+United States of America,"Andrew Tompson, U.S. Department of Energy, Lawrence Livermore National Laboratory"
+United States of America,"Paul Torcellini, U.S. Department of Energy, National Renewable Energy Laboratory"
+United States of America,"Margaret Torn, U.S. Department of Energy, Lawrence Berkeley National Laboratory"
+United States of America,"Felipe Torres, Africa Center for Strategic Studies"
+United States of America,"Sarah F. Trainor, University of Alaska, Fairbanks"
+United States of America,"Jacqueline Tront, U.S. Department of State"
+United States of America,"Juli Trtanj, U.S. Department of Commerce / National Oceanic and Atmospheric Administration"
+United States of America,"Petra Tschakert, Pennsylvania State University"
+United States of America,"Michael Tubman, Center for Climate and Energy Solutions"
+United States of America,"Walt Tunnessen, U.S. Environmental Protection Agency, ENERGY"
+United States of America,"Luis Tupas, U.S. Department of Agriculture, National Institute of Food and Agriculture"
+United States of America,"Bradley H. Udall, University of Colorado"
+United States of America,"Sushel Unninayar, National Aeronautics and Space Administration, Goddard Institute for Space Studies"
+United States of America,"Mark Urban, University of Connecticut"
+United States of America,"Seshu Vaddey, U.S. Department of the Interior, Bureau of Reclamation"
+United States of America,"Thomas Valone, Integrity Research Institute"
+United States of America,"Ruben van Hooidonk, National Oceanic and Atmospheric Administration, Atlantic Oceanographic and Meteorological Laboratory / Rosenstiel School of Marine and Atmospheric Science, University of Miami"
+United States of America,"Valeri Vasquez, U.S. Department of State"
+United States of America,"Lisa Vaughan, National Oceanic and Atmospheric Administration, Climate Program Office"
+United States of America,"John Verdieck, U.S. Department of State"
+United States of America,"Hassan Virji, International START Secretariat"
+United States of America,"Eric Vugrin, U.S. Department of Energy, Sandia National Laboratories"
+United States of America,"Duane Waliser, National Aeronautic and Space Administration, Jet Propulsion Laboratory Caltech University"
+United States of America,"John Walsh, University of Alaska, Fairbanks STAR Industrial Program"
+United States of America,"Rik Wanninkhof, National Oceanic and Atmospheric Administration, Atlantic Oceanographic and Meteorological Laboratory"
+United States of America,"Jacob Ward, U.S. Department of Energy"
+United States of America,"William Ward, U.S. Agency for International Development / Clemson University"
+United States of America,"James Watson, Wildlife Conservation Society"
+United States of America,"Rowena Watson, U.S. Department of State"
+United States of America,"Robert Webb, National Oceanic and Atmospheric Administration"
+United States of America,"Michael Wehner, U.S. Department of Energy, Lawrence Berkeley National Laboratory"
+United States of America,"Kate Weinberger, Mailman School of Public Health at Columbia University"
+United States of America,"Stuart Weiss, Creekside Center for Earth Observation"
+United States of America,"Timothy Welch, University of Maryland, College Park"
+United States of America,"Gerd Wendler, Alaska Climate Research Center"
+United States of America,"Caitlin Werrell, The Center for Climate and Security"
+United States of America,"J. Jason West, University of North Carolina"
+United States of America,"Tristram West, U.S. Department of Energy, Pacific Northwest National Laboratory"
+United States of America,"Marian Westley, National Oceanic and Atmospheric Administration"
+United States of America,"Lauren Wetzell, Bay of Plenty Regional Council"
+United States of America,"Kathleen White, U.S. Army Corps of Engineers"
+United States of America,"Samuel White, Oberlin College"
+United States of America,"Thomas Wilbanks, Oak Ridge National Laboratory"
+United States of America,"Olga Wilhelmi, National Center for Atmospheric Research"
+United States of America,"David Wilk, Inter-American Development Bank"
+United States of America,"David Williams, U.S. Department of the Interior, Bureau of Land Management"
+United States of America,"Paul Williams, Suquamish Indian Tribe"
+United States of America,"Lynn Wilson, SeaTrust Institute"
+United States of America,"Tom Wilson, Electric Power Institute"
+United States of America,"Luke Wirth, Stanford University"
+United States of America,"Joe Witte, George Mason University, Center for Climate Communication"
+United States of America,"Emily Woglom, Ocean Conservancy"
+United States of America,"Shaye Wolf, Center for Biological Diversity"
+United States of America,"Elizabeth Wolkovich, University of British Columbia"
+United States of America,"Eva (Lini) Wollenberg, CGIAR Research Theme on Pro-Poor Climate Change Mitigation / University of Vermont"
+United States of America,"Michael Wolosin, Climate Advisers"
+United States of America,"Ann Wolverton, Environmental Protection Agency"
+United States of America,"Tom Wood, Retired Systems Engineer"
+United States of America,"Richard Woodward, Texas A&M University"
+United States of America,"Richard Wright, U.S. National Institute of Standards and Technology (Retired)"
+United States of America,"Katy Yan, International Rivers"
+United States of America,"Jeff Yang, U.S. Environmental Protection Agency"
+United States of America,"Kimberly Yates, National Oceanic and Atmospheric Administration"
+United States of America,"Gary Yohe, Wesleyan University"
+United States of America,"James Youtz, U.S. Forest Service"
+United States of America,"Ben Zaitchik, Johns Hopkins University "
+United States of America,"Joseph J. Zajac III, Technology Consultant"
+United States of America,"Craig Zamuda, U.S. Department of Energy"
+United States of America,"Keqi Zhang, Florida International University"
+United States of America,"David Zilberman, University of California Berkeley"
+United States of America,"Lewis H. Ziska, U.S. Department of Agriculture, Agricultural Research Service Crop Systems and Global Change"
+United States of America,"Zinta Zommers, United Nations Environment Programme"
+,
+Venezuela,"Diosey Ramon Lugo Morin, Universidad Europea de Energia y Medio Ambiente"
+Venezuela,"Luis Jose Mata, Universidad Central of Venezuela"
+Venezuela,"Carlos Mendez, Laboratory of Ecosystems and Global Change, Ecology Center, Instituto Venezolano de Investigaciones Cinetificas"
+Venezuela,"Fernando Miralles-Wilhelm, InterAmerican Development Bank"
+Venezuela,"Meimalin Moreno, Instituto Venezolano de Investigaciones Cientificas"
+Venezuela,"Dirk Thielen Engelbertz, Instituto Venezolano de Investigaciones Cientificas"
+Venezuela,"Alicia Villamizar, Universidad Simón Bolívar"
+,
+Vietnam,"Do Minh Duc, Hanoi University of Science"
+Vietnam,"Hong Ha Tran, Ministry of Natural Resources and Environment"
+,
+Zimbabwe,"Muyeye Chambwera, United Nations Development Programme"
+Zimbabwe,"Mzime R. Ndebele-Murisa, Chinhoyi University of Technology"
