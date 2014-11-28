@@ -1,0 +1,43 @@
+Year: 2014
+Title: Technical Summary
+URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_technical-summary.pdf
+Tags: ipcc, ar5, wg3
+
+Description:
+Edenhofer O., R. Pichs-Madruga, Y. Sokona,
+S. Kadner, J.C. Minx, S. Brunner,
+S. Agrawala, G. Baiocchi, I.A. Bashmakov,
+G. Blanco, J. Broome, T. Bruckner,
+M. Bustamante, L. Clarke, M. Conte Grand,
+F. Creutzig, X. Cruz-Núñez, S. Dhakal,
+N.K. Dubash, P. Eickemeier, E. Farahani,
+M. Fischedick, M. Fleurbaey, R. Gerlagh,
+L. Gómez-Echeverri, S. Gupta, J. Harnisch,
+K. Jiang, F. Jotzo, S. Kartha,
+S. Klasen, C. Kolstad, V. Krey,
+H. Kunreuther, O. Lucon, O. Masera,
+Y. Mulugetta, R.B. Norgaard, A. Patt,
+N.H. Ravindranath, K. Riahi, J. Roy,
+A. Sagar, R. Schaeffer, S. Schlömer,
+K.C. Seto, K. Seyboth, R. Sims,
+P. Smith, E. Somanathan, R. Stavins,
+C. von Stechow, T. Sterner, T. Sugiyama,
+S. Suh, D. Ürge-Vorsatz, K. Urama,
+A. Venables, D.G. Victor, E. Weber,
+D. Zhou, J. Zou, and T. Zwickel,
+
+2014: Technical Summary.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

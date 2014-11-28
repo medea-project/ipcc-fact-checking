@@ -1,0 +1,35 @@
+Year: 2014
+Title: Summary for Policymakers
+URL: http://report.mitigation2014.org/spm/ipcc_wg3_ar5_summary-for-policymakers.pdf
+Tags: ipcc, ar5, wg3
+
+Description:
+The Summary for Policymakers
+of the Working Group III contribution
+to the IPCC Fifth Assessment Report
+was approved and accepted
+by the IPCC Panel on 12 April 2014.
+
+The final version of the Summary for Policymakers
+will be available in all official United Nations (UN) languages.
+Translations of the WGIII AR5 SPM from English
+into the other five languages of the UN
+are currently being prepared by the WMO Language,
+Conference and Publishing Services Department.
+
+Reference to the SPM
+
+IPCC, 2014: Summary for Policymakers.
+In: Climate Change 2014: Mitigation of Climate Change.
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.
