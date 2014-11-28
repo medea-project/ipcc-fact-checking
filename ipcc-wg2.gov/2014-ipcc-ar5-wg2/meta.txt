@@ -1,5 +1,4 @@
 Year: 2014
 Title: Climate Change 2014: Impacts, Adaptation, and Vulnerability
-URL: http://ipcc-wg2.gov/AR5/report/final-drafts/
-URL: http://www.ipcc.ch/report/ar5/wg2/
+URL: http://ipcc-wg2.gov/AR5/report/full-report/
 Tags: ipcc, ar5, wg2
