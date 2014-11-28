@@ -2,3 +2,26 @@ Year: 2014
 Title: Chapter 2
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter2.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Kunreuther H., S. Gupta, V. Bosetti,
+R. Cooke, V. Dutt, M. Ha-Duong,
+H. Held, J. Llanes-Regueiro, A. Patt,
+E. Shittu, and E. Weber,
+
+2014: Integrated Risk and Uncertainty Assessment
+of Climate Change Response Policies.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

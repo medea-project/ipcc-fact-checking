@@ -2,3 +2,26 @@ Year: 2014
 Title: Chapter 12
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter12.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Seto K.C., S. Dhakal, A. Bigio,
+H. Blanco, G.C. Delgado, D. Dewar,
+L. Huang, A. Inaba, A. Kansal,
+S. Lwasa, J.E. McMahon, D.B. Müller,
+J. Murakami, H. Nagendra, and A. Ramaswami,
+
+2014: Human Settlements, Infrastructure and Spatial Planning.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III to the
+Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

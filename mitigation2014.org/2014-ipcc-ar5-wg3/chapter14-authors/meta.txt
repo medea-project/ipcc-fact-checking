@@ -2,3 +2,26 @@ Year: 2014
 Title: Chapter 14
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter14.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Agrawala S., S. Klasen, R. Acosta Moreno,
+L. Barreto, T. Cottier, D. Guan,
+E.E. Gutierrez-Espeleta, A.E. Gámez Vázquez, L. Jiang,
+Y.G. Kim, J. Lewis, M. Messouli,
+M. Rauscher, N. Uddin, and A. Venables,
+
+2014: Regional Development and Cooperation.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

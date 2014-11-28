@@ -2,3 +2,26 @@ Year: 2014
 Title: Chapter 13
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter13.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Stavins R., J. Zou, T. Brewer,
+M. Conte Grand, M. den Elzen, M. Finus,
+J. Gupta, N. Höhne, M.-K. Lee,
+A. Michaelowa, M. Paterson, K. Ramakrishna,
+G. Wen, J. Wiener, and H. Winkler,
+
+2014: International Cooperation: Agreements and Instruments.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

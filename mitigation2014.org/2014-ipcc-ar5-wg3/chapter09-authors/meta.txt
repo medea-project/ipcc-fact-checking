@@ -2,3 +2,27 @@ Year: 2014
 Title: Chapter 9
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter9.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Lucon O., D. Ürge-Vorsatz, A. Zain Ahmed,
+H. Akbari, P. Bertoldi, L.F. Cabeza,
+N. Eyre, A. Gadgil, L.D.D. Harvey,
+Y. Jiang, E. Liphoto, S. Mirasgedis,
+S. Murakami, J. Parikh, C. Pyke,
+and M.V. Vilariño,
+
+2014: Buildings.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

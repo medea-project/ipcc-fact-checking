@@ -2,3 +2,27 @@ Year: 2014
 Title: Chapter 6
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter6.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Clarke L., K. Jiang, K. Akimoto,
+M. Babiker, G. Blanford, K. Fisher-Vanden,
+J.-C. Hourcade, V. Krey, E. Kriegler,
+A. Löschel, D. McCollum, S. Paltsev,
+S. Rose, P.R. Shukla, M. Tavoni,
+B. van der Zwaan, and D. P. van Vuuren,
+
+2014: Assessing Transformation Pathways.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

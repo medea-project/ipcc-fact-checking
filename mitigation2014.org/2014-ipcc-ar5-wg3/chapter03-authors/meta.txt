@@ -2,3 +2,26 @@ Year: 2014
 Title: Chapter 3
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter3.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Kolstad C., K. Urama, J. Broome,
+A. Bruvoll, M. Cariño Olvera, D. Fullerton,
+C. Gollier, W.M. Hanemann, R. Hassan,
+F. Jotzo, M.R. Khan, L. Meyer,
+and L. Mundaca,
+
+2014: Social, Economic and Ethical Concepts and Methods.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

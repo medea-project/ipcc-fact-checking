@@ -2,3 +2,28 @@ Year: 2014
 Title: Chapter 7
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter7.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Bruckner T., I.A. Bashmakov, Y. Mulugetta,
+H. Chum, A. de la Vega Navarro, J. Edmonds,
+A. Faaij, B. Fungtammasan, A. Garg,
+E. Hertwich, D. Honnery, D. Infield,
+M. Kainuma, S. Khennas, S. Kim,
+H.B. Nimir, K. Riahi, N. Strachan,
+R. Wiser, and X. Zhang,
+
+2014: Energy Systems.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

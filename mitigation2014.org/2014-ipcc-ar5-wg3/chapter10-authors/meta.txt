@@ -2,3 +2,26 @@ Year: 2014
 Title: Chapter 10
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter10.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Fischedick M., J. Roy, A. Abdel-Aziz,
+A. Acquaye, J.M. Allwood, J.-P. Ceron,
+Y. Geng, H. Kheshgi, A. Lanza,
+D. Perczyk, L. Price, E. Santalla,
+C. Sheinbaum, and K. Tanaka,
+
+2014: Industry.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

@@ -2,3 +2,25 @@ Year: 2014
 Title: Chapter 4
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter4.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Fleurbaey M., S. Kartha, S. Bolwig,
+Y.L. Chee, Y. Chen, E. Corbera,
+F. Lecocq, W. Lutz, M.S. Muylaert,
+R.B. Norgaard, C. Okereke, and A.D. Sagar,
+
+2014: Sustainable Development and Equity.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

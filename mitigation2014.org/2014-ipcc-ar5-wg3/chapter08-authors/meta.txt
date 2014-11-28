@@ -2,3 +2,27 @@ Year: 2014
 Title: Chapter 8
 URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_chapter8.pdf
 Tags: ipcc, ar5, wg3
+
+Description:
+Sims R., R. Schaeffer, F. Creutzig,
+X. Cruz-Núñez, M. D’Agosto, D. Dimitriu,
+M.J. Figueroa Meza, L. Fulton, S. Kobayashi,
+O. Lah, A. McKinnon, P. Newman,
+M. Ouyang, J.J. Schauer, D. Sperling,
+and G. Tiwari,
+
+2014: Transport.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.
