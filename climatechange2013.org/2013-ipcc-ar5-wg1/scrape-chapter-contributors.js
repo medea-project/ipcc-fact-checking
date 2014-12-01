@@ -2,6 +2,7 @@
   Scrape Chapter Contributors
   Read: *-contributors/*.html
   Write: *-contributors/data.csv
+  Write: *-authors/data.csv
 
   Dependencies (to install with npm):
   artoo-js, cheerio, glob
@@ -46,6 +47,15 @@ function getHeaders(){
     "Name",
     "Institution",
     "Country"
+  ];
+}
+
+function getHeaders2(){
+  return [
+    "#",
+    "Chapter",
+    "Role",
+    "Name (Country)"
   ];
 }
 
@@ -145,6 +155,20 @@ function getData(){
   return addEmptyLines(authors);
 }
 
+function getData2(){
+  return getData().map(function(line){
+    if ( line === emptyLine ) {
+      return {};
+    }
+    return {
+      '#': substringAfter(line.Chapter,' '),
+      'Chapter': line.Title,
+      'Role': line.Role,
+      'Name (Country)': line.Name+' ('+line.Country+')'
+    };
+  });
+}
+
 glob("*-contributors/*.html", function(err,matches){
   matches.forEach(function(inputFileName){
     console.log("Read: "+inputFileName);
@@ -162,9 +186,23 @@ glob("*-contributors/*.html", function(err,matches){
     );
     console.log("Scraped: "+csv);
 
-    var outputFileName = path.dirname(inputFileName)+path.sep+'data.csv';
+    var directory = path.dirname(inputFileName);
+    var outputFileName = directory+path.sep+'data.csv';
     console.log("Save: "+outputFileName);
     fs.writeFileSync(outputFileName,csv,{encoding:'utf8'});
+
+    var csv2 = artoo.helpers.toCSVString(
+      getData2(),
+      {
+        order: getHeaders2()
+      }
+    );
+    console.log("Scraped: "+csv2);
+
+    var outputFileName2 =
+      directory.replace(/-contributors$/,'-authors')+path.sep+'data.csv';
+    console.log("Save: "+outputFileName2);
+    fs.writeFileSync(outputFileName2,csv2,{encoding:'utf8'});
   });
   console.log("Complete");
 });
