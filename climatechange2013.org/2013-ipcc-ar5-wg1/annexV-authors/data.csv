@@ -13,6 +13,7 @@ Name,Institution,Country
 "ALLAN, Richard P.",University of Reading,UK
 "ALLAN, Robert",Met Office Hadley Centre,UK
 "ALLEN, Myles R.",University of Oxford,UK
+,,
 "ALLEN, Simon K.","IPCC WGI TSU, University of Bern",Switzerland
 "ALLISON, Ian",Antarctic Climate and Ecosystems Cooperative Research Centre,Australia
 "AMBRIZZI, Tércio",University of Sao Paulo,Brazil
@@ -29,6 +30,7 @@ Name,Institution,Country
 "ARCHER, David",University of Chicago,USA
 "ARENDT, Anthony A.",University of Alaska Fairbanks,USA
 "ARORA, Vivek",Environment Canada,Canada
+,,
 "ARRITT, Raymond",Iowa State University,USA
 "ARTAXO, Paulo",University of Sao Paulo,Brazil
 "BAEHR, Johanna",University of Hamburg,Germany
@@ -44,6 +46,7 @@ Name,Institution,Country
 "BARTLEIN, Patrick J.",University of Oregon,USA
 "BATES, Nicholas R.",Bermuda Biological Station,Bermuda
 "BEER, Jürg",Eawag - Swiss Federal Institute of Aquatic Science and Technology,Switzerland
+,,
 "BELLOUIN, Nicolas",University of Reading,UK
 "BENEDETTI, Angela",European Centre for Medium-Range Weather Forecasts,UK
 "BENITO, Gerardo",Consejo Superior de Investigaciones Cientificas,Spain
@@ -59,6 +62,7 @@ Name,Institution,Country
 "BONAN, Gordon",National Center for Atmospheric Research,USA
 "BONY, Sandrine","Laboratoire de Météorologie Dynamique, Institut Pierre Simon Laplace",France
 "BOOTH, Ben B.B.",Met Office Hadley Centre,UK
+,,
 "BOPP, Laurent","Laboratoire des Sciences du Climat et de l’Environnement, Institut Pierre Simon Laplace",France
 "BORGES, Alberto Vieira",Université de Liège,Belgium
 "BOUCHER, Olivier","Laboratoire de Météorologie Dynamique, Institut Pierre Simon Laplace",France
@@ -72,6 +76,7 @@ Name,Institution,Country
 "BRETHERTON, Christopher",University of Washington,USA
 "BROMWICH, David H.",Ohio State University,USA
 "BRÖNNIMANN, Stefan",University of Bern,Switzerland
+,,
 "BROOKS, Harold E.","National Oceanic and Atmospheric Administration, National Severe Storms Laboratory",USA
 "BROVKIN, Victor",Max Planck Institute for Meteorology,Germany
 "BROWN, Josephine",Bureau of Meteorology,Australia
@@ -87,6 +92,7 @@ Name,Institution,Country
 "CAMPOS, Edmo",University of Sao Paulo,Brazil
 "CANADELL, Josep",CSIRO Marine and Atmospheric Research,Australia
 "CANE, Mark",Columbia University,USA
+,,
 "CAO, Long",Zhejiang University,China
 "CARRASCO, Jorge",Direccion Meteorologica de Chile,Chile
 "CARSON, Mark",University of Hamburg,Germany
@@ -102,6 +108,7 @@ Name,Institution,Country
 "CHARABI, Yassine Abdul-Rahman",Sultan Qaboos University,Oman
 "CHEN, Deliang",University of Gothenburg,Sweden
 "CHEN, Xiaolong","Institute of Atmospheric Physics, Chinese Academy of Sciences",China
+,,
 "CHEVALLIER, Frédéric","Laboratoire des Sciences du Climat et de l’Environnement, Institut Pierre Simon Laplace",France
 "CHHABRA, Abha",Indian Space Research Organisation,India
 "CHIKAMOTO, Yoshimitsu",University of Hawaii,USA
@@ -117,6 +124,7 @@ Name,Institution,Country
 "CLIFTON, Olivia",Columbia University,USA
 "COGLEY, J. Graham",Trent University,Canada
 "COLLINS, Matthew",University of Exeter,UK
+,,
 "COLLINS, William",University of Reading,UK
 "COLLINS, William",Lawrence Berkeley National Laboratory,USA
 "COMISO, Josefino C.","National Aeronautics and Space Administration, Goddard Space Flight Center",USA
@@ -132,6 +140,7 @@ Name,Institution,Country
 "DAI, Aiguo",University at Albany,USA
 "DALSØREN, Stig B.",Center for International Climate and Environmental Research Oslo,Norway
 "DANIEL, John S.","National Oceanic and Atmospheric Administration, Earth System Research Laboratory",USA
+,,
 "DAVIS, Robert E.",University of Virginia,USA
 "DAVIS, Sean M.","National Oceanic and Atmospheric Administration, Earth System Research Laboratory",USA
 "DE CASTRO, Manuel",Universidad de Castilla-La Mancha,Spain
@@ -147,6 +156,7 @@ Name,Institution,Country
 "DELSOLE, Tim",George Mason University,USA
 "DENTENER, Frank J.","European Commission, Joint Research Center",EU
 "DESER, Clara",National Center for Atmospheric Research,USA
+,,
 "DINEZIO, Pedro",University of Hawaii,USA
 "DING, Yihui","National Climate Center, China Meteorological Administration",China
 "DLUGOKENCKY, Edward J.","National Oceanic and Atmospheric Administration, Earth System Research Laboratory",USA
@@ -161,6 +171,7 @@ Name,Institution,Country
 "DRIOUECH, Fatima",Direction de la Météorologie Nationale,Morocco
 "DUFRESNE, Jean-Louis","Laboratoire de Météorologie Dynamique, Institut Pierre Simon Laplace",France
 "DURACK, Paul J.",Lawrence Livermore National Laboratory,USA
+,,
 "EASTERLING, David R.","National Oceanic and Atmospheric Administration, Cooperative Institute for Climate and Satellites",USA
 "EBY, Michael",University of Victoria,Canada
 "EDWARDS, R. Lawrence",University of Minnesota,USA
@@ -176,6 +187,7 @@ Name,Institution,Country
 "FACCHINI, Maria Cristina",Institute of Atmospheric Sciences and Climate,Italy
 "FASULLO, John",National Center for Atmospheric Research,USA
 "FEELY, Richard A.","National Oceanic and Atmospheric Administration, Pacific Marine Environmental Laboratory",USA
+,,
 "FEINGOLD, Graham","National Oceanic and Atmospheric Administration, Earth System Research Laboratory",USA
 "FETTWEIS, Xavier",Université de Liège,Belgium
 "FICHEFET, Thierry",Université catholique de Louvain,Belgium
@@ -191,6 +203,7 @@ Name,Institution,Country
 "FORSTER, Piers",University of Leeds,UK
 "FOSTER, Gavin",University of Southampton,UK
 "FRAME, David",Victoria University of Wellington,New Zealand
+,,
 "FREELAND, Howard",Fisheries and Oceans Canada,Canada
 "FRIEDLINGSTEIN, Pierre",University of Exeter,UK
 "FRÖHLICH, Claus","Physikalisch-Meteorologisches Observatorium Davos, World Radiation Center",Switzerland
@@ -205,6 +218,7 @@ Name,Institution,Country
 "GARZOLI, Silvia","National Oceanic and Atmospheric Administration, Atlantic Oceanographic and Meteorological Laboratory",USA
 "GATES, Lydia",Freie Universität Berlin,Germany
 "GBOBANIYI, Emiola",Swedish Meteorological and Hydrological Institute,Sweden
+,,
 "GEHRELS, W. Roland",University of York,UK
 "GERLAND, Sebastian",Norwegian Polar Institute,Norway
 "GHAN, Steven",Pacific Northwest National Laboratory,USA
@@ -220,6 +234,7 @@ Name,Institution,Country
 "GOODESS, Clare",University of East Anglia,UK
 "GOOSSE, Hugues",Université catholique de Louvain,Belgium
 "GOSWAMI, Prashant",CSIR Centre for Mathematical Modelling and Computer Simulation,India
+,,
 "GOVIN, Aline",MARUM Center for Marine Environmental Sciences,Germany
 "GRANIER, Claire","Laboratoire Atmosphères, Milieux, Observations Spatiales, Institut Pierre Simon Laplace",France
 "GRAVERSON, Rune Grand",Stockholm University,Sweden
@@ -234,6 +249,7 @@ Name,Institution,Country
 "GULEV, Sergey",P.P. Shirshov Institute of Oceanology,Russian Federation
 "GUPTA, Anil K.",Wadia Institute of Himalayan Geology,India
 "GURNEY, Kevin",Arizona State University,USA
+,,
 "GUTOWSKI, William J.",Iowa State University,USA
 "GUTZLER, David",University of New Mexico,USA
 "HAAS, Christian",York University,Canada
@@ -250,6 +266,7 @@ Name,Institution,Country
 "HAWKINS, Ed",University of Reading,UK
 "HAYWOOD, Alan",University of Leeds,UK
 "HEGERL, Gabriele C.",University of Edinburgh,UK
+,,
 "HEIMANN, Martin",Max Planck Institute for Biogeochemistry,Germany
 "HEINZE, Christoph",University of Bergen,Norway
 "HELD, Isaac","National Oceanic and Atmospheric Administration, Geophysical Fluid Dynamics Laboratory",USA
@@ -265,6 +282,7 @@ Name,Institution,Country
 "HOLLAND, David",New York University,USA
 "HOLLAND, Elisabeth A.",University of the South Pacific,Fiji
 "HOLLAND, Greg",National Center for Atmospheric Research,USA
+,,
 "HOLLAND, Marika M.",National Center for Atmospheric Research,USA
 "HOLLIS, Chris",GNS Science,New Zealand
 "HOLMES, Christopher",University of California Irvine,USA
@@ -281,6 +299,7 @@ Name,Institution,Country
 "HUNKE, Elizabeth",Los Alamos National Laboratory,USA
 "HUNTER, John R.",University of Tasmania,Australia
 "HUNTER, Stephen",University of Leeds,UK
+,,
 "HURRELL, Jim",National Center for Atmospheric Research,USA
 "HURTT, George",University of Maryland,USA
 "HUSS, Matthias",University of Fribourg,Switzerland
@@ -297,6 +316,7 @@ Name,Institution,Country
 "JACOBSON, Andrew D.",Northwestern University,USA
 "JAIN, Atul",University of Illinois,USA
 "JAIN, Suman",University of Zambia,Zambia
+,,
 "JAKOB, Christian",Monash University,Australia
 "JANSEN, Eystein",University of Bergen,Norway
 "JANSSEN, Emily",University of Illinois,USA
@@ -312,6 +332,7 @@ Name,Institution,Country
 "JOSHI, Manoj",University of East Anglia,UK
 "JOUGHIN, Ian",University of Washington,USA
 "JOUSSAUME, Sylvie","Laboratoire des Sciences du Climat et de l’Environnement, Institut Pierre Simon Laplace",France
+,,
 "JOUZEL, Jean","Laboratoire des Sciences du Climat et de l’Environnement, Institut Pierre Simon Laplace",France
 "JUNGCLAUS, Johann",Max Planck Institute for Meteorology,Germany
 "KAGEYAMA, Masa","Laboratoire des Sciences du Climat et de l’Environnement, Institut Pierre Simon Laplace",France
@@ -327,6 +348,7 @@ Name,Institution,Country
 "KATO, Etsushi",National Institute for Environmental Studies,Japan
 "KATSMAN, Caroline",Royal Netherlands Meteorological Institute,Netherlands
 "KATTSOV, Vladimir",Voeikov Main Geophysical Observatory,Russian Federation
+,,
 "KATZFEY, Jack",CSIRO Marine and Atmospheric Research,Australia
 "KAZMIN, Alexander",P.P. Shirshov Institute of Oceanology,Russian Federation
 "KEELING, Ralph",Scripps Institution of Oceanography,USA
@@ -342,6 +364,7 @@ Name,Institution,Country
 "KIRTMAN, Ben",University of Miami,USA
 "KITOH, Akio",University of Tsukuba,Japan
 "KJELLSTRÖM, Erik",Swedish Meteorological and Hydrological Institute,Sweden
+,,
 "KLEIN, Stephen A.",Lawrence Livermore National Laboratory,USA
 "KLEIN GOLDEWIJK, Kees",Utrecht University and PBL Netherlands Environmental Assessment Agency,Netherlands
 "KLEIN TANK, Albert M.G.",Royal Netherlands Meteorological Institute,Netherlands
@@ -357,12 +380,13 @@ Name,Institution,Country
 "KONIKOW, Leonard",U.S. Geological Survey,USA
 "KOPP, Robert",Rutgers University,USA
 "KÖRPER, Janina",Freie Universität Berlin,Germany
+,,
 "KOSSIN, James P.","National Oceanic and Atmospheric Administration, Cooperative Institute for Meteorological Satellite Studies",USA
 "KOSTIANOY, Andrey",P.P. Shirshov Institute of Oceanology,Russian Federation
 "KOVEN, Charles",Lawrence Berkeley National Laboratory,USA
 "KRAVITZ, Ben",Pacific Northwest National Laboratory,USA
-"KRINNER, Gerhard","Laboratoire de Glaciologie et Géophysique de l`Environnement, Université Joseph Fourier France","KROEZE, Carolien"
-Wageningen University and Open Universiteit,Nederland,Netherlands
+"KRINNER, Gerhard","Laboratoire de Glaciologie et Géophysique de l`Environnement, Université Joseph Fourier",France
+"KROEZE, Carolien",Wageningen University and Open Universiteit Nederland,Netherlands
 "KULKARNI, Ashwini",Indian Institute of Tropical Meteorology,India
 "KUNDETI, Koteswara Rao",Indian Institute of Tropical Meteorology,India
 "KUSHNIR, Yochanan",Columbia University,USA
@@ -371,6 +395,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "LAKEN, Benjamin",Instituto de Astrofisica de Canarias,Spain
 "LAMARQUE, Jean-François",National Center for Atmospheric Research,USA
 "LAMBECK, Kurt",Australian National University,Australia
+,,
 "LANDAIS, Amaëlle","Laboratoire des Sciences du Climat et de l’Environnement, Institut Pierre Simon Laplace",France
 "LANDERER, Felix","National Aeronautics and Space Administration, Jet Propulsion Laboratory",USA
 "LASSEY, Keith",National Institute of Water and Atmospheric Research,New Zealand
@@ -384,6 +409,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "LEE, David",Manchester Metropolitan University,UK
 "LEE, Kitack",Pohang University of Science and Technology,Republic of Korea
 "LEE, Robert W.",University of Reading,UK
+,,
 "LEE, Tong","National Aeronautics and Space Administration, Jet Propulsion Laboratory",USA
 "LEMKE, Peter",Alfred Wegener Institute for Polar and Marine Research,Germany
 "LENAERTS, Jan",Utrecht University,Netherlands
@@ -398,6 +424,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "LIAO, Hong","Institute of Atmospheric Physics, Chinese Academy of Sciences",China
 "LIDDICOAT, Spencer",Met Office Hadley Centre,UK
 "LIGTENBERG, Stefan",Utrecht University,Netherlands
+,,
 "LIN, Renping","Institute of Atmospheric Physics, Chinese Academy of Sciences",China
 "LITTLE, Christopher M.",Princeton University,USA
 "LO, Fiona",Cornell University,USA
@@ -413,6 +440,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "LUNT, Daniel J.",University of Bristol,UK
 "LUO, Yiqi",University of Oklahoma,USA
 "LUTERBACHER, Jürg",Justus-Liebig University Giessen,Germany
+,,
 "MACKELLAR, Neil C.",University of Cape Town,South Africa
 "MAGAÑA, Victor",Universidad Nacional Autonoma de Mexico,Mexico
 "MAHLSTEIN, Irina",Federal Office of Meteorology and Climatology MeteoSwiss,Switzerland
@@ -428,6 +456,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "MASSOM, Rob",Australian Antarctic Division,Australia
 "MASSON-DELMOTTE, Valérie","Laboratoire des Sciences du Climat et de l’Environnement, Institut Pierre Simon Laplace",France
 "MASSONNET, François",Université catholique de Louvain,Belgium
+,,
 "MATTHEWS, H. Damon",Concordia University,Canada
 "MAURITZEN, Cecilie",Center for International Climate and Environmental Research Oslo,Norway
 "MAYORGA, Emilio",University of Washington,USA
@@ -443,6 +472,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "MENÉNDEZ, Melisa",Universidad de Cantabria,Spain
 "MENNE, Matthew","National Oceanic and Atmospheric Administration, National Climatic Data Center",USA
 "MERCHANT, Christopher J.",University of Edinburgh,UK
+,,
 "MERNILD, Sebastian H.",Los Alamos National Laboratory,USA
 "MERRIFIELD, Mark A.",University of Hawaii,USA
 "METZL, Nicolas","Laboratoire d’Océanographie et du Climat, Institut Pierre Simon Laplace",France
@@ -458,6 +488,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "MONSELESAN, Didier",CSIRO Marine and Atmospheric Research,Australia
 "MONTZKA, Stephen A.","National Oceanic and Atmospheric Administration, Earth System Research Laboratory",USA
 "MORAK, Simone",University of Reading,UK
+,,
 "MORDY, Calvin","National Oceanic and Atmospheric Administration, Pacific Marine Environmental Laboratory",USA
 "MORICE, Colin P.",Met Office Hadley Centre,UK
 "MOTE, Philip",Oregon State University,USA
@@ -472,6 +503,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "MURPHY, Daniel","National Oceanic and Atmospheric Administration, Earth System Research Laboratory",USA
 "MURRAY, Tavi",Swansea University,UK
 "MYHRE, Cathrine Lund",Norwegian Institute for Air Research,Norway
+,,
 "MYHRE, Gunnar",Center for International Climate and Environmental Research Oslo,Norway
 "MYNENI, Ranga B.",Boston University,USA
 "NAIK, Vaishali","National Oceanic and Atmospheric Administration, Geophysical Fluid Dynamics Laboratory",USA
@@ -487,6 +519,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "NOJIRI, Yukihiro",National Institute for Environmental Studies,Japan
 "NORBY, Richard J.",Oak Ridge National Laboratory,USA
 "NORRIS, Joel R.",Scripps Institution of Oceanography,USA
+,,
 "NUNN, Patrick D.",University of New England,Australia
 "O’CONNOR, Fiona",Met Office Hadley Centre,UK
 "O’DOWD, Colin","National University of Ireland, Galway",Ireland
@@ -502,6 +535,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "OVERDUIN, Pier Paul",Alfred Wegener Institute for Polar and Marine Research,Germany
 "OVERLAND, James","National Oceanic and Atmospheric Administration, Pacific Marine Environmental Laboratory",USA
 "PAINTER, Jeff",Lawrence Livermore National Laboratory,USA
+,,
 "PALMER, Tim",University of Oxford,UK
 "PARK, Geun-Ha",Korea Institute of Ocean Science and Technology,Republic of Korea
 "PARK, Geun-Ha","National Oceanic and Atmospheric Administration, Atlantic Oceanographic and Meteorological Laboratory",USA
@@ -516,6 +550,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "PENNER, Joyce",University of Michigan,USA
 "PEREGON, Anna","Laboratoire des Sciences du Climat et de l’Environnement, Institut Pierre Simon Laplace",France
 "PERLWITZ, Judith",Cooperative Institute for Research in Environmental Sciences,USA
+,,
 "PERRETTE, Mahé",Potsdam Institute for Climate Impact Research,Germany
 "PETERS, Glen P.",Center for International Climate and Environmental Research Oslo,Norway
 "PETERS, Wouter",Wageningen University,Netherlands
@@ -530,6 +565,7 @@ Wageningen University and Open Universiteit,Nederland,Netherlands
 "PLANTON, Serge",Météo-France,France
 "PLATTNER, Gian-Kasper","IPCC WGI TSU, University of Bern",Switzerland
 "POLCHER, Jan","Laboratoire de Météorologie Dynamique, Institut Pierre Simon Laplace",France
+,,
 "POLLARD, David",Pennsylvania State University,USA
 "POLSON, Debbie",University of Edinburgh,UK
 "POLYAKOV, Igor",University of Alaska Fairbanks,USA
@@ -545,6 +581,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "QIU, Bo",University of Hawaii,USA
 "QUINN, Terrence",University of Texas,USA
 "RADIĆ, Valentina",University of British Columbia,Canada
+,,
 "RAE, Jamie",Met Office Hadley Centre,UK
 "RAHIMZADEH, Fatemeh",Islamic Republic of Iran Meteorological Organization,Iran
 "RAHMSTORF, Stefan",Potsdam Institute for Climate Impact Research,Germany
@@ -559,6 +596,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "RAY, Suchanda",CSIR Centre for Mathematical Modelling and Computer Simulation,India
 "RAYMOND, Peter A.",Yale University,USA
 "RAYNAUD, Dominique","Laboratoire de Glaciologie et Géophysique de l`Environnement, Université Joseph Fourier",France
+,,
 "RAYNER, Peter",University of Melbourne,Australia
 "REASON, Chris",University of Cape Town,South Africa
 "REICH, Katharine Davis",University of California Los Angeles,USA
@@ -574,6 +612,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "RIGBY, Matthew",University of Bristol,UK
 "RIGNOT, Eric","National Aeronautics and Space Administration, Jet Propulsion Laboratory",USA
 "RILEY, William J.",Lawrence Berkeley National Laboratory,USA
+,,
 "RINGEVAL, Bruno",Utrecht University,Netherlands
 "RINTOUL, Stephen R.",CSIRO Marine and Atmospheric Research,Australia
 "ROBINSON, David",Rutgers University,USA
@@ -590,6 +629,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "ROTH, Raphael",University of Bern,Switzerland
 "ROTSTAYN, Leon",CSIRO Marine and Atmospheric Research,Australia
 "RUMMUKAINEN, Markku",Swedish Meteorological and Hydrological Institute,Sweden
+,,
 "RUSTICUCCI, Matilde",Universidad de Buenos Aires,Argentina
 "RUTI, Paolo","Italian National Agency for New Technologies, Energy and Sustainable Economic Development",Italy
 "SABINE, Christopher","National Oceanic and Atmospheric Administration, Pacific Marine Environmental Laboratory",USA
@@ -604,6 +644,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "SCAIFE, Adam A.",Met Office Hadley Centre,UK
 "SCHÄR, Christoph",ETH Zurich,Switzerland
 "SCHMIDT, Hauke",Max Planck Institute for Meteorology,Germany
+,,
 "SCHMIDTKO, Sunke",University of East Anglia,UK
 "SCHMITT, Raymond",Woods Hole Oceanographic Institution,USA
 "SCHMITTNER, Andreas",Oregon State University,USA
@@ -620,6 +661,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "SEBBARI, Rachid",Direction de la Météorologie Nationale,Morocco
 "SEDLÁČEK, Jan",ETH Zurich,Switzerland
 "SEIDEL, Dian J.","National Oceanic and Atmospheric Administration, Air Resources Laboratory",USA
+,,
 "SEMENOV, Vladimir",Russian Academy of Sciences,Russian Federation
 "SEXTON, David",Met Office Hadley Centre,UK
 "SHAFFREY, Len C.",University of Reading,UK
@@ -650,6 +692,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "SOLOMINA, Olga",Russian Academy of Sciences,Russian Federation
 "SPAHNI, Renato",University of Bern,Switzerland
 "SPERBER, Kenneth",Lawrence Livermore National Laboratory,USA
+,,
 "STAMMER, Detlef",University of Hamburg,Germany
 "STAMMERJOHN, Sharon",University of Colorado Boulder,USA
 "STEFFEN, Konrad","Swiss Federal Institute for Forest, Snow and Landscape Research WSL",Switzerland
@@ -665,6 +708,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "STOCKER, Thomas F.","Co-Chair IPCC WGI, University of Bern",Switzerland
 "STORELVMO, Trude",Yale University,USA
 "STOTT, Peter A.",Met Office Hadley Centre,UK
+,,
 "STRAMMA, Lothar",GEOMAR Helmholtz Centre for Ocean Research,Germany
 "STUBENRAUCH, Claudia","Laboratoire de Météorologie Dynamique, Institut Pierre Simon Laplace",France
 "SUGA, Toshio",Tohoku University,Japan
@@ -680,6 +724,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "TARASOV, Pavel",Freie Universität Berlin,Germany
 "TAYLOR, Karl",Lawrence Livermore National Laboratory,USA
 "TEBALDI, Claudia","Climate Central, Inc.",USA
+,,
 "TETT, Simon",University of Edinburgh,UK
 "TEULING, Adriaan J. (Ryan)",Wageningen University,Netherlands
 "THOMPSON, Rona L.",Norwegian Institute for Air Research,Norway
@@ -696,6 +741,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "VAN DE BERG, Willem Jan",Utrecht University,Netherlands
 "VAN DE WAL, Roderik",Utrecht University,Netherlands
 "VAN DEN BROEKE, Michiel",Utrecht University,Netherlands
+,,
 "VAN DEN HURK, Bart",Royal Netherlands Meteorological Institute,Netherlands
 "VAN DER WERF, Guido",VU University Amsterdam,Netherlands
 "VAN NOIJE, Twan",Royal Netherlands Meteorological Institute,Netherlands
@@ -711,6 +757,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "VINTHER, Bo M.",University of Copenhagen,Denmark
 "VITERBO, Pedro",Instituto de Meteorologia,Portugal
 "VIZCAÍNO, Miren",Delft University of Technology,Netherlands
+,,
 "VON SCHUCKMANN, Karina",Institut Français de Recherche pour l’Exploitation de la Mer,France
 "VON STORCH, Hans",University of Hamburg,Germany
 "VOULGARAKIS, Apostolos",Imperial College London,UK
@@ -725,6 +772,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "WANG, Junhong",National Center for Atmospheric Research,USA
 "WANG, Muyin","National Oceanic and Atmospheric Administration, Joint Institute for the Study of the Atmosphere and Ocean",USA
 "WANG, Xiaolan L.",Environment Canada,Canada
+,,
 "WANIA, Rita",,Austria
 "WANNER, Heinz",University of Bern,Switzerland
 "WANNINKHOF, Rik","National Oceanic and Atmospheric Administration, Atlantic Oceanographic and Meteorological Laboratory",USA
@@ -740,6 +788,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "WIDLANSKY, Matthew",University of Hawaii,USA
 "WIJFFELS, Susan",CSIRO Marine and Atmospheric Research,Australia
 "WILD, Martin",ETH Zurich,Switzerland
+,,
 "WILD, Oliver",Lancaster University,UK
 "WILLETT, Kate M.",Met Office Hadley Centre,UK
 "WILLIAMS, Keith",Met Office Hadley Centre,UK
@@ -755,6 +804,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "WRATT, David",National Institute of Water and Atmospheric Research,New Zealand
 "WUEBBLES, Donald",University of Illinois,USA
 "WYANT, Matthew",University of Washington,USA
+,,
 "XIAO, Cunde","Chinese Academy of Meteorological Sciences, China Meteorological Administration",China
 "XIE, Shang-Ping",Scripps Institution of Oceanography,USA
 "YASHAYAEV, Igor",Bedford Institute of Oceanography,Canada
@@ -771,6 +821,7 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "ZENG, Ning",University of Maryland,USA
 "ZHAI, Panmao","National Climate Center, China Meteorological Administration",China
 "ZHANG, Chidong",University of Miami,USA
+,,
 "ZHANG, Hua","National Climate Center, China Meteorological Administration",China
 "ZHANG, Jianglong",University of North Dakota,USA
 "ZHANG, Lixia","Institute of Atmospheric Physics, Chinese Academy of Sciences",China
@@ -784,5 +835,6 @@ PRABHAT,Lawrence Berkeley National Laboratory,USA
 "ZHOU, Tianjun","Institute of Atmospheric Physics, Chinese Academy of Sciences",China
 "ZICKFELD, Kirsten",Simon Fraser University,Canada
 "ZOU, Liwei","Institute of Atmospheric Physics, Chinese Academy of Sciences",China
+,,
 "ZWARTZ, Dan",Victoria University of Wellington,New Zealand
 "ZWIERS, Francis",University of Victoria,Canada
