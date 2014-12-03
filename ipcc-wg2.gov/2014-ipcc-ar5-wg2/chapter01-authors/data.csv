@@ -1,23 +1,23 @@
-Chapter,Role,Name (Country)
-Chapter 1. Point of Departure,Coordinating Lead Author,
-Chapter 1. Point of Departure,Coordinating Lead Author,
-,,
-Chapter 1. Point of Departure,Lead Author,
-Chapter 1. Point of Departure,Lead Author,
-Chapter 1. Point of Departure,Lead Author,
-Chapter 1. Point of Departure,Lead Author,
-Chapter 1. Point of Departure,Lead Author,
-Chapter 1. Point of Departure,Lead Author,
-,,
-Chapter 1. Point of Departure,Review Editor,
-Chapter 1. Point of Departure,Review Editor,
-,,
-Chapter 1. Point of Departure,Contributing Author,
-Chapter 1. Point of Departure,Contributing Author,
-Chapter 1. Point of Departure,Contributing Author,
-Chapter 1. Point of Departure,Contributing Author,
-Chapter 1. Point of Departure,Contributing Author,
-Chapter 1. Point of Departure,Contributing Author,
-Chapter 1. Point of Departure,Contributing Author,
-,,
-Chapter 1. Point of Departure,Volunteer Chapter Scientist,
+#,Chapter,Role,Name (Country)
+01,Point of departure,Coordinating Lead Author,Virginia Burkett (United States)
+01,Point of departure,Coordinating Lead Author,Avelino G. Suarez (Cuba)
+,,,
+01,Point of departure,Lead Author,Marco Bindi (Italy)
+01,Point of departure,Lead Author,Cecilia Conde (Mexico)
+01,Point of departure,Lead Author,Rupa Mukerji (India)
+01,Point of departure,Lead Author,Michael Prather (United States)
+01,Point of departure,Lead Author,Asuncion Lera St. Clair (Norway)
+01,Point of departure,Lead Author,Gary Yohe (United States)
+,,,
+01,Point of departure,Review Editor,Hervé Le Treut (France)
+01,Point of departure,Review Editor,Jean Palutikof (Australia)
+,,,
+01,Point of departure,Volunteer Chapter Scientist,Emmanuel Nyambod (Cameroon)
+,,,
+01,Point of departure,Contributing Author,Sarah Cornell (United Kingdom)
+01,Point of departure,Contributing Author,Katharine Mach (United States)
+01,Point of departure,Contributing Author,Michael Mastrandrea (United States)
+01,Point of departure,Contributing Author,Jan Minx (Germany)
+01,Point of departure,Contributing Author,Riccardo Pravettoni (Norway)
+01,Point of departure,Contributing Author,Kristin Seyboth (United States)
+01,Point of departure,Contributing Author,Christoph von Stechow (Germany)
