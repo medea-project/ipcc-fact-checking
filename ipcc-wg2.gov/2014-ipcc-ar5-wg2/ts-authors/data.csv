@@ -1,66 +1,75 @@
-Chapter,Role,Name (Country)
-TECHNICAL SUMMARY,Coordinating Lead Author,
-TECHNICAL SUMMARY,Coordinating Lead Author,
-TECHNICAL SUMMARY,Coordinating Lead Author,
-TECHNICAL SUMMARY,Coordinating Lead Author,
-,,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-TECHNICAL SUMMARY,Lead Author,
-,,
-TECHNICAL SUMMARY,Review Editor,
-TECHNICAL SUMMARY,Review Editor,
-TECHNICAL SUMMARY,Review Editor,
-TECHNICAL SUMMARY,Review Editor,
+#,Chapter,Role,Name (Country)
+TS,Technical Summary,Prepared under the leadership of the Working Group II Bureau,Amjad Abdulla (Maldives)
+TS,Technical Summary,Prepared under the leadership of the Working Group II Bureau,Vicente R. Barros (Argentina)
+TS,Technical Summary,Prepared under the leadership of the Working Group II Bureau,Eduardo Calvo (Peru)
+TS,Technical Summary,Prepared under the leadership of the Working Group II Bureau,Christopher B. Field (USA)
+TS,Technical Summary,Prepared under the leadership of the Working Group II Bureau,José M. Moreno (Spain)
+TS,Technical Summary,Prepared under the leadership of the Working Group II Bureau,Nirivololona Raholijao (Madagascar)
+TS,Technical Summary,Prepared under the leadership of the Working Group II Bureau,Sergey Semenov (Russian Federation)
+TS,Technical Summary,Prepared under the leadership of the Working Group II Bureau,Neville Smith (Australia)
+,,,
+TS,Technical Summary,Coordinating Lead Author,Christopher B. Field (USA)
+TS,Technical Summary,Coordinating Lead Author,Vicente R. Barros (Argentina)
+TS,Technical Summary,Coordinating Lead Author,Katharine J. Mach (USA)
+TS,Technical Summary,Coordinating Lead Author,Michael D. Mastrandrea (USA)
+,,,
+TS,Technical Summary,Lead Author,Maarten K. van Aalst (Netherlands)
+TS,Technical Summary,Lead Author,W. Neil Adger (UK)
+TS,Technical Summary,Lead Author,Douglas J. Arent (USA)
+TS,Technical Summary,Lead Author,Jonathon Barnett (Australia)
+TS,Technical Summary,Lead Author,Richard A. Betts (UK)
+TS,Technical Summary,Lead Author,T. Eren Bilir (USA)
+TS,Technical Summary,Lead Author,Joern Birkmann (Germany)
+TS,Technical Summary,Lead Author,JoAnn Carmin (USA)
+TS,Technical Summary,Lead Author,Dave D. Chadee (Trinidad and Tobago)
+TS,Technical Summary,Lead Author,Andrew J. Challinor (UK)
+TS,Technical Summary,Lead Author,Monalisa Chatterjee (USA/India)
+TS,Technical Summary,Lead Author,Wolfgang Cramer (Germany/France)
+TS,Technical Summary,Lead Author,Debra J. Davidson (Canada)
+TS,Technical Summary,Lead Author,Yuka Otsuki Estrada (USA/Japan)
+TS,Technical Summary,Lead Author,Jean-Pierre Gattuso (France)
+TS,Technical Summary,Lead Author,Yasuaki Hijioka (Japan)
+TS,Technical Summary,Lead Author,Ove Hoegh-Guldberg (Australia)
+TS,Technical Summary,Lead Author,He-Qing Huang (China)
+TS,Technical Summary,Lead Author,Gregory E. Insarov (Russian Federation)
+TS,Technical Summary,Lead Author,Roger N. Jones (Australia)
+TS,Technical Summary,Lead Author,R. Sari Kovats (UK)
+TS,Technical Summary,Lead Author,Joan Nymand Larsen (Iceland)
+TS,Technical Summary,Lead Author,Iñigo J. Losada (Spain)
+TS,Technical Summary,Lead Author,José A. Marengo (Brazil)
+TS,Technical Summary,Lead Author,Roger F. McLean (Australia)
+TS,Technical Summary,Lead Author,Linda O. Mearns (USA)
+TS,Technical Summary,Lead Author,Reinhard Mechler (Germany/Austria)
+TS,Technical Summary,Lead Author,John F. Morton (UK)
+TS,Technical Summary,Lead Author,Isabelle Niang (Senegal)
+TS,Technical Summary,Lead Author,Taikan Oki (Japan)
+TS,Technical Summary,Lead Author,Jane Mukarugwiza Olwoch (South Africa)
+TS,Technical Summary,Lead Author,Maggie Opondo (Kenya)
+TS,Technical Summary,Lead Author,Elvira S. Poloczanska (Australia)
+TS,Technical Summary,Lead Author,Hans-O. Pörtner (Germany)
+TS,Technical Summary,Lead Author,Margaret Hiza Redsteer (USA)
+TS,Technical Summary,Lead Author,Andy Reisinger (New Zealand)
+TS,Technical Summary,Lead Author,Aromar Revi (India)
+TS,Technical Summary,Lead Author,Patricia Romero-Lankao (Mexico)
+TS,Technical Summary,Lead Author,Daniela N. Schmidt (UK)
+TS,Technical Summary,Lead Author,M. Rebecca Shaw (USA)
+TS,Technical Summary,Lead Author,William Solecki (USA)
+TS,Technical Summary,Lead Author,Dáithí A. Stone (Canada/South Africa/USA)
+TS,Technical Summary,Lead Author,John M.R. Stone (Canada)
+TS,Technical Summary,Lead Author,Kenneth M. Strzepek (UNU/USA)
+TS,Technical Summary,Lead Author,Avelino G. Suarez (Cuba)
+TS,Technical Summary,Lead Author,Petra Tschakert (USA)
+TS,Technical Summary,Lead Author,Riccardo Valentini (Italy)
+TS,Technical Summary,Lead Author,Sebastián Vicuña (Chile)
+TS,Technical Summary,Lead Author,Alicia Villamizar (Venezuela)
+TS,Technical Summary,Lead Author,Katharine E. Vincent (South Africa)
+TS,Technical Summary,Lead Author,Rachel Warren (UK)
+TS,Technical Summary,Lead Author,Leslie L. White (USA)
+TS,Technical Summary,Lead Author,Thomas J. Wilbanks (USA)
+TS,Technical Summary,Lead Author,Poh Poh Wong (Singapore)
+TS,Technical Summary,Lead Author,Gary W. Yohe (USA)
+,,,
+TS,Technical Summary,Review Editor,Paulina Aldunce (Chile)
+TS,Technical Summary,Review Editor,Jean Pierre Ometto (Brazil)
+TS,Technical Summary,Review Editor,Nirivololona Raholijao (Madagascar)
+TS,Technical Summary,Review Editor,Kazuya Yasuhara (Japan)
