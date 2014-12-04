@@ -1,0 +1,25 @@
+Year: 2014
+Title: Technology-specific Cost and Performance Parameters
+URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_annex-iii.pdf
+Tags: ipcc, ar5, wg3
+
+Description:
+Schlömer S., T. Bruckner, L. Fulton,
+E. Hertwich, A. McKinnon, D. Perczyk,
+J. Roy, R. Schaeffer, R. Sims,
+P. Smith, and R. Wiser,
+2014: Annex III: Technology-specific cost and performance parameters.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.

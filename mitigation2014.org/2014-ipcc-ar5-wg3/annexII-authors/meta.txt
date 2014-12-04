@@ -1,0 +1,27 @@
+Year: 2014
+Title: Metrics & Methodology
+URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_annex-ii.pdf
+Tags: ipcc, ar5, wg3
+
+Description:
+Krey V., O. Masera, G. Blanford,
+T. Bruckner, R. Cooke, K. Fisher-Vanden,
+H. Haberl, E. Hertwich, E. Kriegler,
+D. Mueller, S. Paltsev, L. Price,
+S. Schlömer, D. Ürge-Vorsatz, D. van Vuuren,
+and T. Zwickel,
+2014: Annex II: Metrics & Methodology.
+In: Climate Change 2014: Mitigation of Climate Change.
+
+Contribution of Working Group III
+to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change
+[Edenhofer, O., R. Pichs-Madruga, Y. Sokona,
+E. Farahani, S. Kadner, K. Seyboth,
+A. Adler, I. Baum, S. Brunner,
+P. Eickemeier, B. Kriemann, J. Savolainen,
+S. Schlömer, C. von Stechow, T. Zwickel
+and J.C. Minx (eds.)].
+
+Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.
