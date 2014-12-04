@@ -2,6 +2,7 @@
   Scrape Chapter Contributors
   Read: chapter*-contributors/*.html
   Write: chapter*-contributors/data.csv
+  Write: chapter*-authors/data.csv
 
   Dependencies (to install with npm):
   artoo-js, cheerio, glob
@@ -50,8 +51,39 @@ function getHeaders(){
   ];
 }
 
+function getHeaders2(){
+  return [
+    "#",
+    "Chapter",
+    "Role",
+    "Name (Country)"
+  ];
+}
+
 function trimText($){
   return $(this).text().trim();
+}
+
+/*
+  Extract the end of a string after given substring
+
+  Parameters:
+    string - string, the string from which to extract the end
+    substring - string, the substring to look for
+
+  Returns:
+    string, the end of the string after the first occurrence of given substring
+    or the empty string when the substring is not found in the string.
+
+  Note:
+    When the substring is the empty string, the whole string is returned.
+*/
+function substringAfter( string, substring ) {
+  var position = string.indexOf( substring );
+  if ( position === -1 ) {
+    return "";
+  }
+  return string.slice( position + substring.length );
 }
 
 var authorBox = {
@@ -114,6 +146,46 @@ function getData(){
   )
 }
 
+function getShortCountry( country ){
+  switch( country ){
+    case "United States":
+      return "USA";
+    case "United Kingdom":
+      return "UK";
+    default:
+      return country;
+  }
+}
+
+function getData2(){
+  return getData().map(function(line){
+    if ( line === emptyLine ) {
+      return {};
+    }
+
+    var citizenship = getShortCountry(line["Citizenship"]);
+    var affiliationCountry = getShortCountry(
+      line["Affiliation Country"]
+    );
+
+    if (
+      affiliationCountry !== "" &&
+      affiliationCountry !== citizenship
+    ) {
+      country = citizenship+"/"+affiliationCountry;
+    } else {
+      country = citizenship;
+    }
+
+    return {
+      '#': substringAfter(line.Chapter,' '),
+      'Chapter': line.Title,
+      'Role': line.Role,
+      'Name (Country)': line.Name+' ('+country+')'
+    };
+  });
+}
+
 glob("*-contributors/*.html", function(err,matches){
   matches.forEach(function(inputFileName){
     console.log("Read: "+inputFileName);
@@ -131,9 +203,23 @@ glob("*-contributors/*.html", function(err,matches){
     );
     console.log("Scraped: "+csv);
 
-    var outputFileName = path.dirname(inputFileName)+path.sep+'data.csv';
+    var directory = path.dirname(inputFileName);
+    var outputFileName = directory+path.sep+'data.csv';
     console.log("Save: "+outputFileName);
     fs.writeFileSync(outputFileName,csv,{encoding:'utf8'});
+
+    var csv2 = artoo.helpers.toCSVString(
+      getData2(),
+      {
+        order: getHeaders2()
+      }
+    );
+    console.log("Scraped: "+csv2);
+
+    var outputFileName2 =
+      directory.replace(/-contributors$/,'-authors')+path.sep+'data.csv';
+    console.log("Save: "+outputFileName2);
+    fs.writeFileSync(outputFileName2,csv2,{encoding:'utf8'});
   });
   console.log("Complete");
 });
