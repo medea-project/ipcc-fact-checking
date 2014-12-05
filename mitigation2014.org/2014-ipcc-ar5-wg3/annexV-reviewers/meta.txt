@@ -6,6 +6,7 @@ Tags: ipcc, ar5, wg3
 Description:
 Expert Reviewers are listed alphabetically by surname.
 Government Reviewers are listed alphabetically by surname.
+Other Scientific Advisors are listed alphabetically by surname.
 
 IPCC, 2014: Annex V: Expert Reviewers, Government Reviewers and
 Other Scientific Advisors of the IPCC WGIII Fifth Assessment Report.
