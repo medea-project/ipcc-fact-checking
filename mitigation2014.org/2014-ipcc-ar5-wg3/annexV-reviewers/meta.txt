@@ -4,6 +4,8 @@ URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_annex-v.pdf
 Tags: ipcc, ar5, wg3
 
 Description:
+Expert Reviewers are listed alphabetically by surname.
+
 IPCC, 2014: Annex V: Expert Reviewers, Government Reviewers and
 Other Scientific Advisors of the IPCC WGIII Fifth Assessment Report.
 In: Climate Change 2014: Mitigation of Climate Change.

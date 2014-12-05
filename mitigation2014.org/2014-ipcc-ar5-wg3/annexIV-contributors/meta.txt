@@ -4,6 +4,10 @@ URL: http://report.mitigation2014.org/report/ipcc_wg3_ar5_annex-iv.pdf
 Tags: ipcc, ar5, wg3
 
 Description:
+Coordinating Lead Authors, Lead Authors, Review Editors,
+Contributing Authors, and Chapter Scientific Assistants
+are listed alphabetically by surname.
+
 IPCC,
 2014: Annex IV: Contributors to the IPCC WGIII Fifth Assessment Report.
 In: Climate Change 2014: Mitigation of Climate Change.
